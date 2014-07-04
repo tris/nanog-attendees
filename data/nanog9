@@ -1,0 +1,702 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.nanog.org/sites/default/files/nanog.ico" type="image/vnd.microsoft.icon" />
+<meta content="Registrants for the Winter 1997 NANOG Meeting" about="/meetings/nanog9/registrants" property="dc:title" />
+<link rel="canonical" href="/meetings/nanog9/registrants" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/node/529" />
+  <title>Registrants for the Winter 1997 NANOG Meeting | North American Network Operators Group</title>
+  <style type="text/css" media="all">@import url("https://www.nanog.org/modules/system/system.base.css?n7di4z");
+@import url("https://www.nanog.org/modules/system/system.menus.css?n7di4z");
+@import url("https://www.nanog.org/modules/system/system.messages.css?n7di4z");
+@import url("https://www.nanog.org/modules/system/system.theme.css?n7di4z");</style>
+<style type="text/css" media="all">@import url("https://www.nanog.org/modules/aggregator/aggregator.css?n7di4z");
+@import url("https://www.nanog.org/modules/comment/comment.css?n7di4z");
+@import url("https://www.nanog.org/modules/field/theme/field.css?n7di4z");
+@import url("https://www.nanog.org/modules/node/node.css?n7di4z");
+@import url("https://www.nanog.org/modules/search/search.css?n7di4z");
+@import url("https://www.nanog.org/modules/user/user.css?n7di4z");
+@import url("https://www.nanog.org/sites/all/modules/extlink/extlink.css?n7di4z");
+@import url("https://www.nanog.org/sites/all/modules/views/css/views.css?n7di4z");</style>
+<style type="text/css" media="all">@import url("https://www.nanog.org/sites/all/modules/ctools/css/ctools.css?n7di4z");
+@import url("https://www.nanog.org/sites/all/modules/custom_search/custom_search.css?n7di4z");</style>
+
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.nanog.org/sites/all/themes/nanog/fix-ie.css?n7di4z" media="all" />
+<![endif]-->
+<style type="text/css" media="all">@import url("https://www.nanog.org/sites/all/themes/nanog/system-menus.css?n7di4z");</style>
+  <script type="text/javascript" src="https://www.nanog.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.nanog.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.nanog.org/misc/drupal.js?n7di4z"></script>
+<script type="text/javascript" src="https://www.nanog.org/sites/all/modules/extlink/extlink.js?n7di4z"></script>
+<script type="text/javascript" src="https://www.nanog.org/sites/all/modules/custom_search/js/custom_search.js?n7di4z"></script>
+<script type="text/javascript" src="https://www.nanog.org/sites/all/themes/nanog/scripts/nanognav.js?n7di4z"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nanog","theme_token":"wTJz1YyrpnUM9K1XpX_t1wZOyxqpw3qPn_p9uaCAxOI","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/themes\/nanog\/scripts\/nanognav.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/nanog\/fix-ie.css":1,"sites\/all\/themes\/nanog\/system-menus.css":1}},"custom_search":{"form_target":"_self","solr":0},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-529 node-type-nanog-flex" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop">^ Top</div>
+<div id="wrapper">
+   <div id="header">
+	<img src="https://www.nanog.org/sites/default/files/9.jpg" width="1200" usemap="#Map" alt="Meeting 9 in San Francisco, California, 1997-02-10"/>
+						<map name="Map" id="Map">
+						  <area shape="rect" coords="1,1,1200,190" href="/"/>
+						</map>   </div>
+<table align="left" class="plain_table">  
+  <tr>
+   <td width="200" valign="top" rowspan="2">
+   <div id="sidebar-first">
+                  <div class="region region-sidebar-first">
+    <div id="block-nanognav-nanognav" class="block block-nanognav">
+
+    
+  <div class="content">
+    	
+		<div id="meetings_widget">
+		<span class="h3">MEETINGS WIDGET</span><br>
+		<form method="post" action="http://www.nanog.org/widget.php">
+		<input name="current" type="hidden" value="62" />		
+		<input name="meet_type" type="hidden" value="nanog" />		
+		<select id="jumpMenu" name="jumpMenu"><option value="Jump to Meeting" disabled>NANOG Meetings</option><option value="62">NANOG62: Baltimore, Maryland</option><option value="61">NANOG61: Bellevue, Washington</option><option value="60">NANOG60: Atlanta, Georgia</option><option value="59">NANOG59: Phoenix, Arizona</option><option value="58">NANOG58: New Orleans, Louisiana</option><option value="57">NANOG57: Orlando, Florida</option><option value="56">NANOG56: Dallas, Texas</option><option value="55">NANOG55: Vancouver, BC Canada</option><option value="54">NANOG54: San Diego, California</option><option value="53">NANOG53: Philadelphia, Pennsylvania</option><option value="52">NANOG52: Denver, Colorado</option><option value="51">NANOG51: Miami, Florida</option><option value="50">NANOG50: Atlanta, Georgia</option><option value="49">NANOG49: San Francisco, California</option><option value="48">NANOG48: Austin, Texas</option><option value="47">NANOG47: Dearborn, Michigan</option><option value="46">NANOG46: Philadelphia, Pennsylvania</option><option value="45">NANOG45: Santo Domingo, Dominican Republic</option><option value="44">NANOG44: Los Angeles, California</option><option value="43">NANOG43: Brooklyn, New York</option><option value="42">NANOG42: San Jose, California</option><option value="41">NANOG41: Albuquerque, New Mexico</option><option value="40">NANOG40: Bellevue, Washington</option><option value="39">NANOG39: Toronto, Canada</option><option value="38">NANOG38: St. Louis, Missouri</option><option value="37">NANOG37: San Jose, California</option><option value="36">NANOG36: Dallas, Texas</option><option value="35">NANOG35: Los Angeles, California</option><option value="34">NANOG34: Seattle, Washington</option><option value="33">NANOG33: Las Vegas, Nevada</option><option value="32">NANOG32: Reston, Virginia</option><option value="31">NANOG31: San Francisco, California</option><option value="30">NANOG30: Miami, Florida</option><option value="29">NANOG29: Chicago, Illinois</option><option value="28">NANOG28: Salt Lake City, Utah</option><option value="27">NANOG27: Phoenix, Arizona</option><option value="26">NANOG26: Eugene, Oregon</option><option value="25">NANOG25: Toronto, Canada</option><option value="24">NANOG24: Miami, Florida</option><option value="23">NANOG23: Oakland, California</option><option value="22">NANOG22: Scottsdale, Arizona</option><option value="21">NANOG21: Atlanta, Georgia</option><option value="20">NANOG20: Washington, D.C.</option><option value="19">NANOG19: Albuquerque, New Mexico</option><option value="18">NANOG18: San Jose, California</option><option value="17">NANOG17: Montreal, Canada</option><option value="16">NANOG16: Eugene, Oregon</option><option value="15">NANOG15: Denver, Colorado</option><option value="14">NANOG14: Atlanta, Georgia</option><option value="13">NANOG13: Dearborn, Michigan</option><option value="12">NANOG12: Albuquerque, New Mexico</option><option value="11">NANOG11: Phoenix, Arizona</option><option value="10">NANOG10: Tampa, Florida</option><option value="9" selected>NANOG9: San Francisco, California</option><option value="8">NANOG8: Ann Arbor, Michigan</option><option value="7">NANOG7: Washington, D.C.</option><option value="6">NANOG6: San Diego, California</option><option value="5">NANOG5: Pittsburgh, Pennsylvania</option><option value="4">NANOG4: Ann Arbor, Michigan</option><option value="3">NANOG3: Boulder, Colorado</option><option value="2">NANOG2: Ann Arbor, Michigan</option><option value="1">NANOG1: Ann Arbor, MI</option></select><input type="submit" id="submit" value="Go"/>
+		</form><ul class="pastmeet"><li><a href="/meetings/nanog9/registrants" class="active">Attendee List</a></li><li><a href="/meetings/nanog9/agenda">Meeting Agenda</a></li><li><a href="/meetings/nanog9/bgptutorial">BGP Tutorial</a></li><li><a href="/meetings/nanog9/home">Meeting Overview</a></li><li><a href="/meetings/nanog9/notes">Meeting Notes</a></li></ul><div class="pmtoggle_action"><img class="imgpm" src="/images/link-pm.gif" border="0" /></div><form method="post" action="http://www.nanog.org/widget.php">
+			<input name="current" type="hidden" value="3" />	
+			<input name="meet_type" type="hidden" value="road" />				
+			<select id="jumpMenu2" name="jumpMenu2"><option value="Jump to Meeting" selected disabled>On the Road Meetings</option><option value="3">Road 3: Los Angeles, CA</option><option value="2">Road 2: San Diego, CA</option><option value="1">Road 1: Portland, Oregon</option></select><input type="submit" id="submit" value="Go"/>
+		</form><form method="post" action="http://www.nanog.org/widget.php">
+			<input name="current" type="hidden" value="/bellevue_education_classes" />				
+			<input name="meet_type" type="hidden" value="education" />				
+			<select id="jumpMenu3" name="jumpMenu3"><option value="Jump to Meeting" selected disabled>Education Series</option><option value="/bellevue_education_classes">Jun 1, 2014 Bellevue, WA: Bellevue Education Classes</option><option value="/routing_fundamentals_class">Feb 9, 2014 Atlanta, GA: Routing Fundamentals Class</option><option value="/routing_fundamentals">Oct 6, 2013 Phoenix, AZ: Routing Fundamentals</option></select><input type="submit" id="submit" value="Go"/>
+		</form></div><div id="box_shadow">
+						<div id="nanognavmenu">
+							<ul class="topnav"><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />NANOG Meetings</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/meetings/home">NANOG Meetings</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Attend a Meeting</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend">Attend a Meeting</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend/waiving-fee">Waiving Fee Options</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend/students">Student Registration</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend/press">The Press at NANOG</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Present at a NANOG</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/meetings/presentation">Present at a NANOG</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/meetings/presentation/guidelines">Presentation Guidelines</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/presentation/tips">Tips on Giving a Talk</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/host">Host a Meeting</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/future">Future Meetings</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/archive">Past NANOG Meetings</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/room-layout">Sample Room layouts</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meeting/survey-results">Attendee Survey Results</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/hotelnetwork">Hotel Network Setup</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/t-shirts">T-Shirts</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/vendor">Vendor Participation</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/road/home">On The Road Meetings</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/education/bellevue_education_classes/home">Education Series</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Sponsors</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/sponsors">Sponsors</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/current">Current Hosts and Sponsors</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/previoushosts">Previous Hosts</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/previous">Past Sponsors</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/support">Meeting Logistics</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/donations">Donation</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/inquiry">Sponsorship Inquiry</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/opportunities">Sponsorship Opportunities</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing Lists</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list">Mailing Lists</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Join a NANOG Mailing List</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/join">Join a NANOG Mailing List</a></h3><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog">Subscribe to NANOG List</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog-announce ">Subscribe to NANOG-Announce </a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog-futures ">Subscribe to NANOG-futures</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/list/news">Mailing List News</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing List Statistics</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics">Mailing List Statistics</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2009">2009</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2008">2008</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2007">2007</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2006">2006</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2005">2005</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing List FAQ</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/faq">Mailing List FAQ</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/list/faq/other">Non-NANOG Relevant Topics</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing List Archives</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/archives">Mailing List Archives</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/list/archives/historical">Historical NANOG List Archive</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/pipermail/nanog-announce">NANOG-announce Archive</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/pipermail/nanog-futures/ ">NANOG-futures Mailing Archive</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog-futures">Subscribe to NANOG-futures</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/list/apptopics">Appropriate Topics</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/election-policy">NANOG-Elections Policy</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/corp/aup">AUP Enforcement Process</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Membership</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/membership">Membership</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/membership/policy">Membership Policy</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/membership/join">Join NANOG</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/login/">Log in to ARO</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/ibin/c5i?rid=48">Retrieve NANOG Password</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Members Portal</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/membership/member_portal">Members Portal</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/members_portal/member_agenda">Member Agenda &amp; Presentations</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/members_portal/specialty_items">NANOG Specialty Items</a></h3></li></ul></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />About NANOG</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/about/home">About NANOG</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Frequently Asked Questions</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/about/faq">Frequently Asked Questions</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/about/20thanniversary">NSFNET 20th Anniversary</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/about/contact">Contact Us</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://www.nanog.org/governance/documents/Budget2010_2012.pdf">Current Financial Information</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/about/survey_results">Attendee Survey Results</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Archives</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/archives">Archives</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/archives/presentations">Presentation Archive Search</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/archives">Mailing List Archives</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Governance</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/home">Governance</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Board of Directors</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod">Board of Directors</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/member_responsibility">Member Responsibilities</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/node/1416">Minutes 2014</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/node/1220">Minutes 2013</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/minutes2012">Minutes 2012</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/minutes2011">Minutes 2011</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/minutes2010">Minutes 2010</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/board/pastcommittee">Past Board Members</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Communications Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc">Communications Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc/minutes">Meeting Minutes</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc/member_responsibility">Member Responsibilities</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc/past">Past Members</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Development Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/dev">Development Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/dev/member_responsibility">Member Responsibilities</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/dev/past">Past Members</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Program Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm">Program Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm/minutes">Meeting Minutes</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm/member_responsibilities">Member Responsibility</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm/past">Past Members</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bcop">BCOP Committee</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/education">Education Committee</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Past Elections</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/home">Past Elections</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />2013 Elections</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2013">2013 Elections</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/proposed_bylaws">Proposed Bylaws Amendments</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/board_of_directors">2013 Board of Directors Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/communications">2013 CC Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/development">2013 DC Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/program">2013 PC Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/results">2013 Election Results</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2012">2012 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2011">2011 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2010">2010 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2009">2009 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2008">2008 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2007">2007 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2006">2006 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2005">2005 Election Ballot</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/corp">Corporate Documents</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/attendance">Attendance Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/corp/aup">AUP Enforcement Process</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Resources</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/resources">Resources</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/resources/bcop">NANOG BCOP</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/tutorials">Tutorials</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Fellowships</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/resources/fellowships">Fellowships</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/resources/fellowships/abha">Abha Ahuja NANOG Fellowship</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/fellowships/Operatoroftomorrow">Operator of Tomorrow Fellowship</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Scholarships</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/resources/scholarships">Scholarships</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/resources/scholarships/postel">The Jon Postel Scholarship</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/scholarships/abha_ahuja">The Abha Ahuja Scholarship</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="http://ws.edu.isoc.org/calendar/">ISOC Workshop Calendar</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/orgs">Other Network Organizations</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/rss/index.php">NANOG RSS Feeds</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />History</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/history">History</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Charter</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/history/charter">Charter</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2008">2008 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2007">2007 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2006">2006 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2005">2005 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/1994">Original 1994 Charter</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Steering Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/history/steering">Steering Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2010">SC Minutes 2010</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2009">SC Minutes 2009</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2008">SC Minutes 2008</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2007">SC Minutes 2007</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2006">SC Minutes 2006</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2005">SC Minutes 2005</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/history/financial-updates">Financial Information</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/survey2005">Survey Results 2005</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/transition/home">NANOG Transition</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/">Home</a></h3></li></ul>  </div>
+</div>
+<div id="block-nanog-quick-links-nanog-quick-links" class="block block-nanog-quick-links">
+
+    
+  <div class="content">
+    		
+		    <div id="box_shadow_ql_top">
+				<ul class="ql_topnav">				
+					<li><h3>QUICK LINKS</h3></li>
+				</ul>
+			</div>
+		    <div id="box_shadow_ql_bottom">
+				<ul class="ql_topnav"><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/login/">Log in to NANOG Portal</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/ibin/c5i?rid=48">Retrieve NANOG Password</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/membership/join">Become a NANOG member</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/archives/presentations">Search Presentations</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/site-map">Site Map</a></h3></li></ul></div>  </div>
+</div>
+<div id="block-custom-search-blocks-1" class="block block-custom-search-blocks">
+
+    
+  <div class="content">
+    <form class="search-form" action="/meetings/nanog9/registrants" method="post" id="custom-search-blocks-form-1" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-custom-search-blocks-form-1">
+  <label class="element-invisible" for="edit-custom-search-blocks-form-1--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Quick Keyword Search" type="text" id="edit-custom-search-blocks-form-1--2" name="custom_search_blocks_form_1" value="" size="20" maxlength="50" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="GO" class="form-submit" /></div><input type="hidden" name="delta" value="1" />
+<input type="hidden" name="form_build_id" value="form-qB9_nZPOFp-mMRIX_IEt53sbh_fTHmoRZfSavN4MXKo" />
+<input type="hidden" name="form_id" value="custom_search_blocks_form_1" />
+</div></form>  </div>
+</div>
+<div id="block-sharethis-sharethis-block" class="block block-sharethis">
+
+    <h2>SHARE THIS PAGE</h2>
+  
+  <div class="content">
+    <div class="sharethis-wrapper"><span st_url="https://www.nanog.org/meetings/nanog9/registrants" st_title="Registrants for the Winter 1997 NANOG Meeting" class="st_sharethis"></span>
+<span st_url="https://www.nanog.org/meetings/nanog9/registrants" st_title="Registrants for the Winter 1997 NANOG Meeting" class="st_linkedin"></span>
+<span st_url="https://www.nanog.org/meetings/nanog9/registrants" st_title="Registrants for the Winter 1997 NANOG Meeting" class="st_facebook"></span>
+<span st_url="https://www.nanog.org/meetings/nanog9/registrants" st_title="Registrants for the Winter 1997 NANOG Meeting" class="st_twitter"></span>
+<span st_url="https://www.nanog.org/meetings/nanog9/registrants" st_title="Registrants for the Winter 1997 NANOG Meeting" class="st_googleplus"></span>
+<span st_url="https://www.nanog.org/meetings/nanog9/registrants" st_title="Registrants for the Winter 1997 NANOG Meeting" class="st_tumblr"></span>
+<span st_url="https://www.nanog.org/meetings/nanog9/registrants" st_title="Registrants for the Winter 1997 NANOG Meeting" class="st_stumbleupon"></span>
+<span st_url="https://www.nanog.org/meetings/nanog9/registrants" st_title="Registrants for the Winter 1997 NANOG Meeting" class="st_email"></span>
+<script type='text/javascript'>var switchTo5x = true;</script><script type='text/javascript' src='http://w.sharethis.com/button/buttons.js'></script><script type='text/javascript'>stLight.options({"publisher":"dr-b82f9bd6-6e79-fc0a-b0a1-90f5da62136"});</script></div>  </div>
+</div>
+  </div>
+            </div>
+    </td>
+    <td valign="top" height="42px">	
+     <div id="box_shadow_breadcrumbs">   
+      <div id="breadcrumb">
+  <div class="breadcrumb_inner"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » Registrants for the Winter 1997 NANOG Meeting</div></div>	  </div>
+      </div>
+    </td>
+    <td width="200" valign="top" align="center">
+      <div id="nanog_live">
+  	  </div>    
+    </td>  
+  </tr>  
+  <tr>  
+    <td valign="top" colspan=2>
+     <div id="box_shadow_main">    
+	  <div id="content">
+	  <h1>Registrants for the Winter 1997 NANOG Meeting</h1>        <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-529" class="node node-nanog-flex clearfix" about="/meetings/nanog9/registrants" typeof="sioc:Item foaf:Document">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The following people have registered for the Winter '97 NANOG meeting. Looking forward to seeing you!</p>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="xl63 plain_table" width="65" height="17">Aboba, Bernard</td>
+</tr><tr><td class="xl63 plain_table" height="17">Adams, Andy</td>
+</tr><tr><td class="xl63 plain_table" height="17">Aditya, Ramaswamy</td>
+</tr><tr><td class="xl63 plain_table" height="17">Agnese, Joe</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ahuja, Abha</td>
+</tr><tr><td class="xl63 plain_table" height="17">Allen, Ron</td>
+</tr><tr><td class="xl63 plain_table" height="17">Almes, Guy</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ansboury, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Anwar, Aisha</td>
+</tr><tr><td class="xl63 plain_table" height="17">Arano, Takashi</td>
+</tr><tr><td class="xl63 plain_table" height="17">Arland, Tim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Auger II, Ulysses</td>
+</tr><tr><td class="xl63 plain_table" height="17">Authement, Eural</td>
+</tr><tr><td class="xl63 plain_table" height="17">Baker, Sarah</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bakhshandeh, Shahin</td>
+</tr><tr><td class="xl63 plain_table" height="17">Baldonado, Danny</td>
+</tr><tr><td class="xl63 plain_table" height="17">Barber, Stan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bardakos, Sue</td>
+</tr><tr><td class="xl63 plain_table" height="17">Barkow, Tim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Barrows, Jeff</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bascom, Jim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bataller, Erik</td>
+</tr><tr><td class="xl63 plain_table" height="17">Beasley, Allen</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bellamine, Sana</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ben-Oni, Golan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Berger, Peter</td>
+</tr><tr><td class="xl63 plain_table" height="17">Berger, Robert</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bergman, Chris</td>
+</tr><tr><td class="xl63 plain_table" height="17">Berkowitz, Howard</td>
+</tr><tr><td class="xl63 plain_table" height="17">Berns, Keith</td>
+</tr><tr><td class="xl63 plain_table" height="17">Billson, Lawrence</td>
+</tr><tr><td class="xl63 plain_table" height="17">Blackwood, Scott</td>
+</tr><tr><td class="xl63 plain_table" height="17">Blake-Hedges Brooks, Jennifer</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bligh, Alex</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bogovic, Tony</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bono, Vincent</td>
+</tr><tr><td class="xl63 plain_table" height="17">Boolootian, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Borchers, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Borkenhagen, Jay</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bosack, Len</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bowman, Robert</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bownes, Bob</td>
+</tr><tr><td class="xl63 plain_table" height="17">Boyles, Jeff</td>
+</tr><tr><td class="xl63 plain_table" height="17">Brady, Charles</td>
+</tr><tr><td class="xl63 plain_table" height="17">Brininstool, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Brookhouse, Edward</td>
+</tr><tr><td class="xl63 plain_table" height="17">Broscius, Al</td>
+</tr><tr><td class="xl63 plain_table" height="17">Browne, Jim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bu, See-Tiang</td>
+</tr><tr><td class="xl63 plain_table" height="17">Buchko, Steven</td>
+</tr><tr><td class="xl63 plain_table" height="17">Burchell, Jeff</td>
+</tr><tr><td class="xl63 plain_table" height="17">Burdick, Matt</td>
+</tr><tr><td class="xl63 plain_table" height="17">Burgan, Jeff</td>
+</tr><tr><td class="xl63 plain_table" height="17">Burke, Nick</td>
+</tr><tr><td class="xl63 plain_table" height="17">Burleson, Ronald</td>
+</tr><tr><td class="xl63 plain_table" height="17">Burrescia, Joseph</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bush, Joe</td>
+</tr><tr><td class="xl63 plain_table" height="17">Bush, Randy</td>
+</tr><tr><td class="xl63 plain_table" height="17">Calabrese, Angelo</td>
+</tr><tr><td class="xl63 plain_table" height="17">Campbell, Tom</td>
+</tr><tr><td class="xl63 plain_table" height="17">Capshaw, Sean</td>
+</tr><tr><td class="xl63 plain_table" height="17">Caputo, Chris</td>
+</tr><tr><td class="xl63 plain_table" height="17">Carr, Tom</td>
+</tr><tr><td class="xl63 plain_table" height="17">Chamaki, Gil</td>
+</tr><tr><td class="xl63 plain_table" height="17">Chan, Yau-Chee</td>
+</tr><tr><td class="xl63 plain_table" height="17">Cho, Stephen</td>
+</tr><tr><td class="xl63 plain_table" height="17">Christian, Forrest</td>
+</tr><tr><td class="xl63 plain_table" height="17">Clements, Cathy</td>
+</tr><tr><td class="xl63 plain_table" height="17">Cleary, Mike</td>
+</tr><tr><td class="xl63 plain_table" height="17">Cnota, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Cohn, Dan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Colella, Richard</td>
+</tr><tr><td class="xl63 plain_table" height="17">Collar, Craig</td>
+</tr><tr><td class="xl63 plain_table" height="17">Collie, Bob</td>
+</tr><tr><td class="xl63 plain_table" height="17">Collins, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Comay, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Corbato, Steve</td>
+</tr><tr><td class="xl63 plain_table" height="17">Cotton, Chase</td>
+</tr><tr><td class="xl63 plain_table" height="17">Crowe, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Cunnie, Dan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Cunningham, Laura</td>
+</tr><tr><td class="xl63 plain_table" height="17">Curran, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dahlen, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dalton, Doug</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dani, Sanjay</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dankar, Ajay</td>
+</tr><tr><td class="xl63 plain_table" height="17">Daoust, Julie</td>
+</tr><tr><td class="xl63 plain_table" height="17">Davis, Tom</td>
+</tr><tr><td class="xl63 plain_table" height="17">Deleski, Lawrence</td>
+</tr><tr><td class="xl63 plain_table" height="17">Della, Marcos</td>
+</tr><tr><td class="xl63 plain_table" height="17">DeLong, Owen</td>
+</tr><tr><td class="xl63 plain_table" height="17">DeMarche, Chris</td>
+</tr><tr><td class="xl63 plain_table" height="17">DeRabo, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">di Bona, Rex</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dillon, Doug</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dillon, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dingess, Richard</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dixon, Jim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Donelan, Sean</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dorsey, Chris</td>
+</tr><tr><td class="xl63 plain_table" height="17">Doty, Scott</td>
+</tr><tr><td class="xl63 plain_table" height="17">D'Souza, Kevin</td>
+</tr><tr><td class="xl63 plain_table" height="17">Duncan, Ian</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dunn, Bradley</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dusome, Ritch</td>
+</tr><tr><td class="xl63 plain_table" height="17">Dykes, Barry</td>
+</tr><tr><td class="xl63 plain_table" height="17">Easterday, Tom</td>
+</tr><tr><td class="xl63 plain_table" height="17">Elder, Derek</td>
+</tr><tr><td class="xl63 plain_table" height="17">Elderfield, Marlene</td>
+</tr><tr><td class="xl63 plain_table" height="17">England, Kent</td>
+</tr><tr><td class="xl63 plain_table" height="17">English, Tom</td>
+</tr><tr><td class="xl63 plain_table" height="17">Epstein, Clay</td>
+</tr><tr><td class="xl63 plain_table" height="17">Fang, Edward</td>
+</tr><tr><td class="xl63 plain_table" height="17">Felder, Brent</td>
+</tr><tr><td class="xl63 plain_table" height="17">Feldman, Steve</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ferguson, Paul</td>
+</tr><tr><td class="xl63 plain_table" height="17">Fiatal, Trevor</td>
+</tr><tr><td class="xl63 plain_table" height="17">Freedman, Avi</td>
+</tr><tr><td class="xl63 plain_table" height="17">Freedman, Noam</td>
+</tr><tr><td class="xl63 plain_table" height="17">Fukuda, Harumoto</td>
+</tr><tr><td class="xl63 plain_table" height="17">Fukuda, Yoshihiro</td>
+</tr><tr><td class="xl63 plain_table" height="17">Fuller, Vince</td>
+</tr><tr><td class="xl63 plain_table" height="17">Fumeno, Takanori</td>
+</tr><tr><td class="xl63 plain_table" height="17">Gainer, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Garcia Joseph (Pepe)</td>
+</tr><tr><td class="xl63 plain_table" height="17">Garfinkel, Sarah</td>
+</tr><tr><td class="xl63 plain_table" height="17">Garnier, Derek</td>
+</tr><tr><td class="xl63 plain_table" height="17">Gaudet, Dean</td>
+</tr><tr><td class="xl63 plain_table" height="17">Gerich, Elise</td>
+</tr><tr><td class="xl63 plain_table" height="17">Gladney, Andrew</td>
+</tr><tr><td class="xl63 plain_table" height="17">Goel, Vab</td>
+</tr><tr><td class="xl63 plain_table" height="17">Goodwin, Ken</td>
+</tr><tr><td class="xl63 plain_table" height="17">Graf, Christoph</td>
+</tr><tr><td class="xl63 plain_table" height="17">Graham, Sean</td>
+</tr><tr><td class="xl63 plain_table" height="17">Graven, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Graves, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Gregory, Bobbi</td>
+</tr><tr><td class="xl63 plain_table" height="17">Grimshaw, Mike</td>
+</tr><tr><td class="xl63 plain_table" height="17">Guidry, Lawrence</td>
+</tr><tr><td class="xl63 plain_table" height="17">Gulbenkian, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Gulevich, Victor</td>
+</tr><tr><td class="xl63 plain_table" height="17">Gupta, Amit</td>
+</tr><tr><td class="xl63 plain_table" height="17">Gutierrez, Robert</td>
+</tr><tr><td class="xl63 plain_table" height="17">Habib, Hakem</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hagan, Joe</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hakner, Jeff</td>
+</tr><tr><td class="xl63 plain_table" height="17">Halicioglu, Taner</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hall, Bradshaw</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hall, George</td>
+</tr><tr><td class="xl63 plain_table" height="17">Haney, Craig</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hanley, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hannan, Alan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hares, Sue</td>
+</tr><tr><td class="xl63 plain_table" height="17">Harkins, Neil</td>
+</tr><tr><td class="xl63 plain_table" height="17">Harris, Susan R.</td>
+</tr><tr><td class="xl63 plain_table" height="17">Huang, Glenn</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hataya, Satoru</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hawkinson, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hays, Ken</td>
+</tr><tr><td class="xl63 plain_table" height="17">Heasley, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Heiliger, Jonathan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Henderson, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Henderson, Norm</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hetzel, Dorn</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hidalgo, Marc</td>
+</tr><tr><td class="xl63 plain_table" height="17">Higgins, Jason</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hinden, Bob</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hipwell, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hirjee, Shafik</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hitselberger, Charlie</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hobson, Kevin</td>
+</tr><tr><td class="xl63 plain_table" height="17">Holmes, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Holub, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Horne, Mike</td>
+</tr><tr><td class="xl63 plain_table" height="17">Howland, Curt</td>
+</tr><tr><td class="xl63 plain_table" height="17">Huang, Glenn</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hubbard, Kim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Huegen, Craig</td>
+</tr><tr><td class="xl63 plain_table" height="17">Huey, Robert</td>
+</tr><tr><td class="xl63 plain_table" height="17">Humphrey, Doug</td>
+</tr><tr><td class="xl63 plain_table" height="17">Hur, Jin Ho</td>
+</tr><tr><td class="xl63 plain_table" height="17">Huter, Steven</td>
+</tr><tr><td class="xl63 plain_table" height="17">Icide, Chris</td>
+</tr><tr><td class="xl63 plain_table" height="17">Inada, Tatsuya</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ishiguro, Kunihiro</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ishii, Hideo</td>
+</tr><tr><td class="xl63 plain_table" height="17">Jahnke, Meg</td>
+</tr><tr><td class="xl63 plain_table" height="17">Jamison, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Jaquette, George</td>
+</tr><tr><td class="xl63 plain_table" height="17">Jasper, Dane</td>
+</tr><tr><td class="xl63 plain_table" height="17">Jiang, Jonathan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Joffe, Rodney</td>
+</tr><tr><td class="xl63 plain_table" height="17">Johnson, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Johnson, Ron</td>
+</tr><tr><td class="xl63 plain_table" height="17">Jordt, Dan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Junkins, Doug</td>
+</tr><tr><td class="xl63 plain_table" height="17">Karhuse, Richard</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kaschube, Paul</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kaufman, Matthew</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kavanaugh, Lance</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kawakami, Karen</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kern, Ed</td>
+</tr><tr><td class="xl63 plain_table" height="17">Keanini, Tim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kelly, Kevin</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kennedy, Sean</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kent, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kerry, Douglas</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kessler, Jubal</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ketell, Greg</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kevin, Joe</td>
+</tr><tr><td class="xl63 plain_table" height="17">Khalili, Arman</td>
+</tr><tr><td class="xl63 plain_table" height="17">Khoo, Andrew</td>
+</tr><tr><td class="xl63 plain_table" height="17">Khuon, Jake</td>
+</tr><tr><td class="xl63 plain_table" height="17">Killian, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kim, Dorian</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kim, Seon Hyeong</td>
+</tr><tr><td class="xl63 plain_table" height="17">King, Link</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kirchner, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kline, Peter</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kludy, Tom</td>
+</tr><tr><td class="xl63 plain_table" height="17">Knopper, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Koenigsberg, Alan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kosters, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kostick, Deirdre</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kowack, Glen</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kozowski, Eric</td>
+</tr><tr><td class="xl63 plain_table" height="17">Krinos, Dimitri</td>
+</tr><tr><td class="xl63 plain_table" height="17">Krishnaswamy, Padma</td>
+</tr><tr><td class="xl63 plain_table" height="17">Krupnik, Bob</td>
+</tr><tr><td class="xl63 plain_table" height="17">Kuniaki, Kondo</td>
+</tr><tr><td class="xl63 plain_table" height="17">Labovitz, Craig</td>
+</tr><tr><td class="xl63 plain_table" height="17">Langdon, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lantinga, Paul</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lattanze, Sharon</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lawaetz, Erik</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lear, Eliot</td>
+</tr><tr><td class="xl63 plain_table" height="17">Leber, Mike</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lee, Betty</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lee, WeeSan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Leland, Will</td>
+</tr><tr><td class="xl63 plain_table" height="17">Leo, Erik</td>
+</tr><tr><td class="xl63 plain_table" height="17">Leong, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Leveille, Claude</td>
+</tr><tr><td class="xl63 plain_table" height="17">Levy, Martin</td>
+</tr><tr><td class="xl63 plain_table" height="17">Levy, Phil</td>
+</tr><tr><td class="xl63 plain_table" height="17">Liebschutz, Rob</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lindahl, Ken</td>
+</tr><tr><td class="xl63 plain_table" height="17">Linnenkamp, Ted</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lisotta, Anthony</td>
+</tr><tr><td class="xl63 plain_table" height="17">Liu, Dun</td>
+</tr><tr><td class="xl63 plain_table" height="17">Liu, Xin</td>
+</tr><tr><td class="xl63 plain_table" height="17">Longhitano, Anthony</td>
+</tr><tr><td class="xl63 plain_table" height="17">Losito, Lisa</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lottor, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Love, Marc</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lynch, Clifford</td>
+</tr><tr><td class="xl63 plain_table" height="17">Lyon, Todd</td>
+</tr><tr><td class="xl63 plain_table" height="17">Maas, Willem</td>
+</tr><tr><td class="xl63 plain_table" height="17">Madani, Sam</td>
+</tr><tr><td class="xl63 plain_table" height="17">Madison, Eric</td>
+</tr><tr><td class="xl63 plain_table" height="17">Maemura, Akinori</td>
+</tr><tr><td class="xl63 plain_table" height="17">Mahmoodshahi, Alireza</td>
+</tr><tr><td class="xl63 plain_table" height="17">Mahy, Rohan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Malcom, Benham</td>
+</tr><tr><td class="xl63 plain_table" height="17">Manning, Bill</td>
+</tr><tr><td class="xl63 plain_table" height="17">Mariano, Rey</td>
+</tr><tr><td class="xl63 plain_table" height="17">Matalon, Dror</td>
+</tr><tr><td class="xl63 plain_table" height="17">Matheson, Brian</td>
+</tr><tr><td class="xl63 plain_table" height="17">Mauritson, Lionel</td>
+</tr><tr><td class="xl63 plain_table" height="17">Mays, Steve</td>
+</tr><tr><td class="xl63 plain_table" height="17">McCabe, Jim</td>
+</tr><tr><td class="xl63 plain_table" height="17">McCauley, Bill</td>
+</tr><tr><td class="xl63 plain_table" height="17">McFadden, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">McFarland, Chris</td>
+</tr><tr><td class="xl63 plain_table" height="17">McGuckin, Joe</td>
+</tr><tr><td class="xl63 plain_table" height="17">McRobb, Daniel</td>
+</tr><tr><td class="xl63 plain_table" height="17">Medin, Milo</td>
+</tr><tr><td class="xl63 plain_table" height="17">Mendy, Valinsky</td>
+</tr><tr><td class="xl63 plain_table" height="17">Merritt, Brian</td>
+</tr><tr><td class="xl63 plain_table" height="17">Meyer, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Meylor, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Middleton, Guy</td>
+</tr><tr><td class="xl63 plain_table" height="17">Minnear, Robert</td>
+</tr><tr><td class="xl63 plain_table" height="17">Miura, Takeshi</td>
+</tr><tr><td class="xl63 plain_table" height="17">Mohta, Pushpendra</td>
+</tr><tr><td class="xl63 plain_table" height="17">Monk, Tracie</td>
+</tr><tr><td class="xl63 plain_table" height="17">Montano, Christopher</td>
+</tr><tr><td class="xl63 plain_table" height="17">Moreno, Mario</td>
+</tr><tr><td class="xl63 plain_table" height="17">Mori, Masahiko</td>
+</tr><tr><td class="xl63 plain_table" height="17">Moribayashi, Masaaki</td>
+</tr><tr><td class="xl63 plain_table" height="17">Morin, Ed</td>
+</tr><tr><td class="xl63 plain_table" height="17">Mouat, Nikos</td>
+</tr><tr><td class="xl63 plain_table" height="17">Mueller, Karl</td>
+</tr><tr><td class="xl63 plain_table" height="17">Muir, Scott</td>
+</tr><tr><td class="xl63 plain_table" height="17">Muller, Erik</td>
+</tr><tr><td class="xl63 plain_table" height="17">Murakawa, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Murphy, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Murphy, Patrick</td>
+</tr><tr><td class="xl63 plain_table" height="17">Murray, Pat</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nabil, Aaron</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nelson, Robert</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nesser, Phil</td>
+</tr><tr><td class="xl63 plain_table" height="17">Netterfield, Ted</td>
+</tr><tr><td class="xl63 plain_table" height="17">Newton, Mike</td>
+</tr><tr><td class="xl63 plain_table" height="17">Newton, Justin</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nguyen, Lan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nicklas, Randy</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nielsen, Christian</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nielsen, Edgar</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nishi, Kazuto</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nitzan, Rebecca</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nobile, Leslie</td>
+</tr><tr><td class="xl63 plain_table" height="17">Noble, Steve</td>
+</tr><tr><td class="xl63 plain_table" height="17">Norton, Bill</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nosella, Tom</td>
+</tr><tr><td class="xl63 plain_table" height="17">Noto, Brian</td>
+</tr><tr><td class="xl63 plain_table" height="17">Nowlin, Lauren</td>
+</tr><tr><td class="xl63 plain_table" height="17">O'Beay, Ann</td>
+</tr><tr><td class="xl63 plain_table" height="17">Oberman, Kevin</td>
+</tr><tr><td class="xl63 plain_table" height="17">O'Brien, Robert</td>
+</tr><tr><td class="xl63 plain_table" height="17">O'Leary, Dave</td>
+</tr><tr><td class="xl63 plain_table" height="17">Orange, Carol</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ota, Hiroshi</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pace, Donald</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pace, James</td>
+</tr><tr><td class="xl63 plain_table" height="17">Paran, Arik</td>
+</tr><tr><td class="xl63 plain_table" height="17">Parekh, Sameer</td>
+</tr><tr><td class="xl63 plain_table" height="17">Parent, Kurt</td>
+</tr><tr><td class="xl63 plain_table" height="17">Partan, Andrew</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pating, Niguel</td>
+</tr><tr><td class="xl63 plain_table" height="17">Patterson, Lane</td>
+</tr><tr><td class="xl63 plain_table" height="17">Patton, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Paxson, Vern</td>
+</tr><tr><td class="xl63 plain_table" height="17">Payne, Jeffrey</td>
+</tr><tr><td class="xl63 plain_table" height="17">Perez, Mike</td>
+</tr><tr><td class="xl63 plain_table" height="17">Petach, Matthew</td>
+</tr><tr><td class="xl63 plain_table" height="17">Peters, Jim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Peterson, Alec</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pettingell, Brian</td>
+</tr><tr><td class="xl63 plain_table" height="17">Phillips, Christopher</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pimentel, Ronald</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pippin, Janet</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pistritto, Joseph</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pizzirusso, Jim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pokorney, Dave</td>
+</tr><tr><td class="xl63 plain_table" height="17">Poineau, Kim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Polit, Stephen</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pollman, Eric</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ponte, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pontious, Charles</td>
+</tr><tr><td class="xl63 plain_table" height="17">Porter, Jeremy</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pozar, Tim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Provo, Joe</td>
+</tr><tr><td class="xl63 plain_table" height="17">Prue, Walt</td>
+</tr><tr><td class="xl63 plain_table" height="17">Pucik, Joseph</td>
+</tr><tr><td class="xl63 plain_table" height="17">Puvvala, Ravi</td>
+</tr><tr><td class="xl63 plain_table" height="17">Quek, Erone</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ralston, Clare</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ramsey, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Rand, Dave</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ranney, Matt</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ravikant, Naval</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ravikanth, Rayadurgam</td>
+</tr><tr><td class="xl63 plain_table" height="17">Redin, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Retana, Alvaro</td>
+</tr><tr><td class="xl63 plain_table" height="17">Reynolds, Bradley</td>
+</tr><tr><td class="xl63 plain_table" height="17">Rhett, Joe</td>
+</tr><tr><td class="xl63 plain_table" height="17">Rhodes, Robert</td>
+</tr><tr><td class="xl63 plain_table" height="17">Rickard, Jack</td>
+</tr><tr><td class="xl63 plain_table" height="17">Rishaw, Jamie</td>
+</tr><tr><td class="xl63 plain_table" height="17">Rizzo, Jeff</td>
+</tr><tr><td class="xl63 plain_table" height="17">Roberts, Burton</td>
+</tr><tr><td class="xl63 plain_table" height="17">Roberts, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Roberts, Tim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Robertson, William</td>
+</tr><tr><td class="xl63 plain_table" height="17">Romanow, Allyn</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ronen, Ophir</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ross, Chuck</td>
+</tr><tr><td class="xl63 plain_table" height="17">Rossi, Bert</td>
+</tr><tr><td class="xl63 plain_table" height="17">Rowland, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Roycroft, Susan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Rubin, Steve</td>
+</tr><tr><td class="xl63 plain_table" height="17">Russo, Chris</td>
+</tr><tr><td class="xl63 plain_table" height="17">Russo, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ruth, Greg</td>
+</tr><tr><td class="xl63 plain_table" height="17">Saad, Samir</td>
+</tr><tr><td class="xl63 plain_table" height="17">Sagawa, Paul</td>
+</tr><tr><td class="xl63 plain_table" height="17">St. Sauver, Joe</td>
+</tr><tr><td class="xl63 plain_table" height="17">Samonte, Alex</td>
+</tr><tr><td class="xl63 plain_table" height="17">Schlatter, Tom</td>
+</tr><tr><td class="xl63 plain_table" height="17">Schleifer, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Schmidt, Andrew</td>
+</tr><tr><td class="xl63 plain_table" height="17">Schnell, Steven</td>
+</tr><tr><td class="xl63 plain_table" height="17">Seaver, Tim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Sebuktekin, Isil</td>
+</tr><tr><td class="xl63 plain_table" height="17">Sekioka, Toshinori</td>
+</tr><tr><td class="xl63 plain_table" height="17">Semich, J. William</td>
+</tr><tr><td class="xl63 plain_table" height="17">Seto, Leo</td>
+</tr><tr><td class="xl63 plain_table" height="17">Sharp, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Shaver, Gary</td>
+</tr><tr><td class="xl63 plain_table" height="17">Shearing, Robert</td>
+</tr><tr><td class="xl63 plain_table" height="17">Shultz, Steve</td>
+</tr><tr><td class="xl63 plain_table" height="17">Siadak, Bill</td>
+</tr><tr><td class="xl63 plain_table" height="17">Siegel, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Simms Daniel</td>
+</tr><tr><td class="xl63 plain_table" height="17">Simoneau, Maria</td>
+</tr><tr><td class="xl63 plain_table" height="17">Sims, Ralph</td>
+</tr><tr><td class="xl63 plain_table" height="17">Slack, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">So, Hon</td>
+</tr><tr><td class="xl63 plain_table" height="17">Sobocinski, Eric</td>
+</tr><tr><td class="xl63 plain_table" height="17">Sommers, William</td>
+</tr><tr><td class="xl63 plain_table" height="17">Sosebee, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Spafford, Donovan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Speth, James</td>
+</tr><tr><td class="xl63 plain_table" height="17">Spitale, Denise</td>
+</tr><tr><td class="xl63 plain_table" height="17">Stanley, Carl</td>
+</tr><tr><td class="xl63 plain_table" height="17">Stefansky, Jonathan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Steiger, Paul</td>
+</tr><tr><td class="xl63 plain_table" height="17">Steinberg, Steve</td>
+</tr><tr><td class="xl63 plain_table" height="17">Steinhardt, Jim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Sterling, Jeff</td>
+</tr><tr><td class="xl63 plain_table" height="17">Stewart, John</td>
+</tr><tr><td class="xl63 plain_table" height="17">Stone, Thom</td>
+</tr><tr><td class="xl63 plain_table" height="17">Stratton, Nathan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Stringer, Fred</td>
+</tr><tr><td class="xl63 plain_table" height="17">Stroud, Danny</td>
+</tr><tr><td class="xl63 plain_table" height="17">Stuart, Stephen</td>
+</tr><tr><td class="xl63 plain_table" height="17">Studds, Jeff</td>
+</tr><tr><td class="xl63 plain_table" height="17">Swanson, Wiley</td>
+</tr><tr><td class="xl63 plain_table" height="17">Swenson, Brian</td>
+</tr><tr><td class="xl63 plain_table" height="17">Tackett, Brian</td>
+</tr><tr><td class="xl63 plain_table" height="17">Tatman, Lance</td>
+</tr><tr><td class="xl63 plain_table" height="17">Terry, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Thai, Van</td>
+</tr><tr><td class="xl63 plain_table" height="17">Thomas, Andrew</td>
+</tr><tr><td class="xl63 plain_table" height="17">Thornburgh, Mike</td>
+</tr><tr><td class="xl63 plain_table" height="17">Tomochika, Takeshi</td>
+</tr><tr><td class="xl63 plain_table" height="17">Torpis, Sharif</td>
+</tr><tr><td class="xl63 plain_table" height="17">Torzillo, Tony</td>
+</tr><tr><td class="xl63 plain_table" height="17">Toyama, Katsuyasu</td>
+</tr><tr><td class="xl63 plain_table" height="17">Tripod, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Tsuboi, Chris</td>
+</tr><tr><td class="xl63 plain_table" height="17">Tuan, Sherman</td>
+</tr><tr><td class="xl63 plain_table" height="17">Turner, Mark</td>
+</tr><tr><td class="xl63 plain_table" height="17">Unsworth, Bill</td>
+</tr><tr><td class="xl63 plain_table" height="17">Uren, Richard</td>
+</tr><tr><td class="xl63 plain_table" height="17">Vaananen, Pasi</td>
+</tr><tr><td class="xl63 plain_table" height="17">Vachon, Pierre</td>
+</tr><tr><td class="xl63 plain_table" height="17">Valdes, Ray</td>
+</tr><tr><td class="xl63 plain_table" height="17">Vallee, Mike</td>
+</tr><tr><td class="xl63 plain_table" height="17">Van Baalen, Jim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Van Brink, Qarin</td>
+</tr><tr><td class="xl63 plain_table" height="17">Van Camp, Warren</td>
+</tr><tr><td class="xl63 plain_table" height="17">Van Dyke, Kirk</td>
+</tr><tr><td class="xl63 plain_table" height="17">Villamizar, Curtis</td>
+</tr><tr><td class="xl63 plain_table" height="17">Vixie, Paul</td>
+</tr><tr><td class="xl63 plain_table" height="17">Vo, Hai</td>
+</tr><tr><td class="xl63 plain_table" height="17">Vortherms, Dan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wabik, Jeff</td>
+</tr><tr><td class="xl63 plain_table" height="17">Walker, Vernon</td>
+</tr><tr><td class="xl63 plain_table" height="17">Walti, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Walton, Tom</td>
+</tr><tr><td class="xl63 plain_table" height="17">Warner, Jim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wasley, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Waters, Adam</td>
+</tr><tr><td class="xl63 plain_table" height="17">Watson, Brett</td>
+</tr><tr><td class="xl63 plain_table" height="17">Watters, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wayrynen, Darin</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wei, Calvin</td>
+</tr><tr><td class="xl63 plain_table" height="17">Weinsteiger, George</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wessels, Duane</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wesson, Rick</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wheeler, Christopher</td>
+</tr><tr><td class="xl63 plain_table" height="17">Whipple, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">White, Geoff</td>
+</tr><tr><td class="xl63 plain_table" height="17">White, Rich</td>
+</tr><tr><td class="xl63 plain_table" height="17">Whyte, Chris</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wiedenbeck, Susan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wiegner, Ryan</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wilbur, Matt</td>
+</tr><tr><td class="xl63 plain_table" height="17">Williams, Jim</td>
+</tr><tr><td class="xl63 plain_table" height="17">Williams, Warren</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wilson, Michael</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wilson, Robert</td>
+</tr><tr><td class="xl63 plain_table" height="17">Windrem, May</td>
+</tr><tr><td class="xl63 plain_table" height="17">Winstead Edward</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wong, Walter</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wong, William</td>
+</tr><tr><td class="xl63 plain_table" height="17">Woodcock, Bill</td>
+</tr><tr><td class="xl63 plain_table" height="17">Wu, Liang</td>
+</tr><tr><td class="xl63 plain_table" height="17">Yankovski, Yuri</td>
+</tr><tr><td class="xl63 plain_table" height="17">Yasuyama, Nobuki</td>
+</tr><tr><td class="xl63 plain_table" height="17">Young, Jeff</td>
+</tr><tr><td class="xl63 plain_table" height="17">Yu, Yung</td>
+</tr><tr><td class="xl63 plain_table" height="17">Zawada, Paul</td>
+</tr><tr><td class="xl63 plain_table" height="17">Zhang, David</td>
+</tr><tr><td class="xl63 plain_table" height="17">Zheng, Maggie</td>
+</tr><tr><td class="xl63 plain_table" height="17">Zickefoose, Todd</td>
+</tr><tr><td class="xl63 plain_table" height="17">Ziegast, Eric</td>
+</tr><tr><td class="xl63 plain_table" height="17">Zimmerman, David Paul</td>
+</tr><tr><td class="xl63 plain_table" height="17">Zimmerman, Matt</td>
+</tr><tr><td class="xl63 plain_table" height="17">Zinits, Eric</td>
+</tr></tbody></table><p> </p>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+	  <p>&nbsp;</p>
+	   </div>
+	  </div>
+           </td>
+       
+  </tr>
+  <tr>
+  <td colspan="3">
+  <div id="footer">
+        
+        <div class="region region-footer">
+    <div id="block-block-5" class="block block-block">
+
+    
+  <div class="content">
+    <p></p><center><br /><p class="small-text"><a title="Nanog on LinkedIn" href="http://www.linkedin.com/company/1983092?trk=company_search" target="_blank"><img src="/sites/default/files/Li.jpg" alt="" width="35" height="30" /></a><a title="Nanog Mailing List" href="http://mailman.nanog.org/mailman/listinfo/nanog"><img src="/sites/default/files/ML.jpg" alt="" width="35" height="30" /></a><a title="Nanog on Twitter" href="https://twitter.com/nanog" target="_blank"><img src="/sites/default/files/twitter.jpg" alt="" width="35" height="30" /></a><a title="Nanog on Facebook" href="https://www.facebook.com/NANOG.org" target="_blank"><img src="/sites/default/files/fb.jpg" alt="" width="35" height="30" /></a><a title="Nanog on Flickr" href="http://www.flickr.com/photos/nanog" target="_blank"><img src="/sites/default/files/flickr.gif" alt="" /></a><a href="/rss.xml" target="_blank"><img src="/sites/default/files/rss_icon.jpg" alt="" width="35" height="30" /></a><a title="NANOG on YouTube" href="//www.youtube.com/channel/UCIvcN8QNgRGNW9osYLGsjQQ" target="_blank"><img src="/sites/default/files/youtube.jpg" alt="" width="35" height="30" /></a><br />Copyright © 2014 NANOG, Inc. | Website issues? Contact <a href="mailto:webmaster@nanog.org">webmaster</a><br />48377 Fremont Blvd., Suite 117 | Fremont, CA94538, USA | +1 510-492-4030 | <a href="mailto:nanog-support@nanog.org">nanog-support@nanog.org</a></p>
+<p></p></center>
+  </div>
+</div>
+  </div>
+      
+  </div>
+  </td>
+  </tr>
+  </table>
+  <div id="toTop">^ Back to Top</div>  
+</div>  </body>
+</html>

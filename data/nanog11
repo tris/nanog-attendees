@@ -1,0 +1,1129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.nanog.org/sites/default/files/nanog.ico" type="image/vnd.microsoft.icon" />
+<meta content="Registrants for the Fall 1997 NANOG Meeting" about="/meetings/nanog11/registrants" property="dc:title" />
+<link rel="canonical" href="/meetings/nanog11/registrants" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/node/541" />
+  <title>Registrants for the Fall 1997 NANOG Meeting | North American Network Operators Group</title>
+  <style type="text/css" media="all">@import url("https://www.nanog.org/modules/system/system.base.css?n7di4z");
+@import url("https://www.nanog.org/modules/system/system.menus.css?n7di4z");
+@import url("https://www.nanog.org/modules/system/system.messages.css?n7di4z");
+@import url("https://www.nanog.org/modules/system/system.theme.css?n7di4z");</style>
+<style type="text/css" media="all">@import url("https://www.nanog.org/modules/aggregator/aggregator.css?n7di4z");
+@import url("https://www.nanog.org/modules/comment/comment.css?n7di4z");
+@import url("https://www.nanog.org/modules/field/theme/field.css?n7di4z");
+@import url("https://www.nanog.org/modules/node/node.css?n7di4z");
+@import url("https://www.nanog.org/modules/search/search.css?n7di4z");
+@import url("https://www.nanog.org/modules/user/user.css?n7di4z");
+@import url("https://www.nanog.org/sites/all/modules/extlink/extlink.css?n7di4z");
+@import url("https://www.nanog.org/sites/all/modules/views/css/views.css?n7di4z");</style>
+<style type="text/css" media="all">@import url("https://www.nanog.org/sites/all/modules/ctools/css/ctools.css?n7di4z");
+@import url("https://www.nanog.org/sites/all/modules/custom_search/custom_search.css?n7di4z");</style>
+
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.nanog.org/sites/all/themes/nanog/fix-ie.css?n7di4z" media="all" />
+<![endif]-->
+<style type="text/css" media="all">@import url("https://www.nanog.org/sites/all/themes/nanog/system-menus.css?n7di4z");</style>
+  <script type="text/javascript" src="https://www.nanog.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.nanog.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.nanog.org/misc/drupal.js?n7di4z"></script>
+<script type="text/javascript" src="https://www.nanog.org/sites/all/modules/extlink/extlink.js?n7di4z"></script>
+<script type="text/javascript" src="https://www.nanog.org/sites/all/modules/custom_search/js/custom_search.js?n7di4z"></script>
+<script type="text/javascript" src="https://www.nanog.org/sites/all/themes/nanog/scripts/nanognav.js?n7di4z"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nanog","theme_token":"3wzCsqs0MAgQ5hlqKLNRRN3OiMsq_bRU5yIyNj03aNo","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/themes\/nanog\/scripts\/nanognav.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/nanog\/fix-ie.css":1,"sites\/all\/themes\/nanog\/system-menus.css":1}},"custom_search":{"form_target":"_self","solr":0},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-541 node-type-nanog-flex" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop">^ Top</div>
+<div id="wrapper">
+   <div id="header">
+	<img src="https://www.nanog.org/sites/default/files/11.jpg" width="1200" usemap="#Map" alt="Meeting 11 in Phoenix, Arizona, 1997-10-27"/>
+						<map name="Map" id="Map">
+						  <area shape="rect" coords="1,1,1200,190" href="/"/>
+						</map>   </div>
+<table align="left" class="plain_table">  
+  <tr>
+   <td width="200" valign="top" rowspan="2">
+   <div id="sidebar-first">
+                  <div class="region region-sidebar-first">
+    <div id="block-nanognav-nanognav" class="block block-nanognav">
+
+    
+  <div class="content">
+    	
+		<div id="meetings_widget">
+		<span class="h3">MEETINGS WIDGET</span><br>
+		<form method="post" action="http://www.nanog.org/widget.php">
+		<input name="current" type="hidden" value="62" />		
+		<input name="meet_type" type="hidden" value="nanog" />		
+		<select id="jumpMenu" name="jumpMenu"><option value="Jump to Meeting" disabled>NANOG Meetings</option><option value="62">NANOG62: Baltimore, Maryland</option><option value="61">NANOG61: Bellevue, Washington</option><option value="60">NANOG60: Atlanta, Georgia</option><option value="59">NANOG59: Phoenix, Arizona</option><option value="58">NANOG58: New Orleans, Louisiana</option><option value="57">NANOG57: Orlando, Florida</option><option value="56">NANOG56: Dallas, Texas</option><option value="55">NANOG55: Vancouver, BC Canada</option><option value="54">NANOG54: San Diego, California</option><option value="53">NANOG53: Philadelphia, Pennsylvania</option><option value="52">NANOG52: Denver, Colorado</option><option value="51">NANOG51: Miami, Florida</option><option value="50">NANOG50: Atlanta, Georgia</option><option value="49">NANOG49: San Francisco, California</option><option value="48">NANOG48: Austin, Texas</option><option value="47">NANOG47: Dearborn, Michigan</option><option value="46">NANOG46: Philadelphia, Pennsylvania</option><option value="45">NANOG45: Santo Domingo, Dominican Republic</option><option value="44">NANOG44: Los Angeles, California</option><option value="43">NANOG43: Brooklyn, New York</option><option value="42">NANOG42: San Jose, California</option><option value="41">NANOG41: Albuquerque, New Mexico</option><option value="40">NANOG40: Bellevue, Washington</option><option value="39">NANOG39: Toronto, Canada</option><option value="38">NANOG38: St. Louis, Missouri</option><option value="37">NANOG37: San Jose, California</option><option value="36">NANOG36: Dallas, Texas</option><option value="35">NANOG35: Los Angeles, California</option><option value="34">NANOG34: Seattle, Washington</option><option value="33">NANOG33: Las Vegas, Nevada</option><option value="32">NANOG32: Reston, Virginia</option><option value="31">NANOG31: San Francisco, California</option><option value="30">NANOG30: Miami, Florida</option><option value="29">NANOG29: Chicago, Illinois</option><option value="28">NANOG28: Salt Lake City, Utah</option><option value="27">NANOG27: Phoenix, Arizona</option><option value="26">NANOG26: Eugene, Oregon</option><option value="25">NANOG25: Toronto, Canada</option><option value="24">NANOG24: Miami, Florida</option><option value="23">NANOG23: Oakland, California</option><option value="22">NANOG22: Scottsdale, Arizona</option><option value="21">NANOG21: Atlanta, Georgia</option><option value="20">NANOG20: Washington, D.C.</option><option value="19">NANOG19: Albuquerque, New Mexico</option><option value="18">NANOG18: San Jose, California</option><option value="17">NANOG17: Montreal, Canada</option><option value="16">NANOG16: Eugene, Oregon</option><option value="15">NANOG15: Denver, Colorado</option><option value="14">NANOG14: Atlanta, Georgia</option><option value="13">NANOG13: Dearborn, Michigan</option><option value="12">NANOG12: Albuquerque, New Mexico</option><option value="11" selected>NANOG11: Phoenix, Arizona</option><option value="10">NANOG10: Tampa, Florida</option><option value="9">NANOG9: San Francisco, California</option><option value="8">NANOG8: Ann Arbor, Michigan</option><option value="7">NANOG7: Washington, D.C.</option><option value="6">NANOG6: San Diego, California</option><option value="5">NANOG5: Pittsburgh, Pennsylvania</option><option value="4">NANOG4: Ann Arbor, Michigan</option><option value="3">NANOG3: Boulder, Colorado</option><option value="2">NANOG2: Ann Arbor, Michigan</option><option value="1">NANOG1: Ann Arbor, MI</option></select><input type="submit" id="submit" value="Go"/>
+		</form><ul class="pastmeet"><li><a href="/meetings/nanog11/demos">Meeting Demos</a></li><li><a href="/meetings/nanog11/registrants" class="active">Meeting Registrants</a></li><li><a href="/meetings/nanog11/notes">Meeting Notes</a></li><li><a href="/meetings/nanog11/home">Meeting Overview</a></li><li><a href="/meetings/nanog11/agenda">Meeting Agenda</a></li></ul><div class="pmtoggle_action"><img class="imgpm" src="/images/link-pm.gif" border="0" /></div><form method="post" action="http://www.nanog.org/widget.php">
+			<input name="current" type="hidden" value="3" />	
+			<input name="meet_type" type="hidden" value="road" />				
+			<select id="jumpMenu2" name="jumpMenu2"><option value="Jump to Meeting" selected disabled>On the Road Meetings</option><option value="3">Road 3: Los Angeles, CA</option><option value="2">Road 2: San Diego, CA</option><option value="1">Road 1: Portland, Oregon</option></select><input type="submit" id="submit" value="Go"/>
+		</form><form method="post" action="http://www.nanog.org/widget.php">
+			<input name="current" type="hidden" value="/bellevue_education_classes" />				
+			<input name="meet_type" type="hidden" value="education" />				
+			<select id="jumpMenu3" name="jumpMenu3"><option value="Jump to Meeting" selected disabled>Education Series</option><option value="/bellevue_education_classes">Jun 1, 2014 Bellevue, WA: Bellevue Education Classes</option><option value="/routing_fundamentals_class">Feb 9, 2014 Atlanta, GA: Routing Fundamentals Class</option><option value="/routing_fundamentals">Oct 6, 2013 Phoenix, AZ: Routing Fundamentals</option></select><input type="submit" id="submit" value="Go"/>
+		</form></div><div id="box_shadow">
+						<div id="nanognavmenu">
+							<ul class="topnav"><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />NANOG Meetings</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/meetings/home">NANOG Meetings</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Attend a Meeting</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend">Attend a Meeting</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend/waiving-fee">Waiving Fee Options</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend/students">Student Registration</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend/press">The Press at NANOG</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Present at a NANOG</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/meetings/presentation">Present at a NANOG</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/meetings/presentation/guidelines">Presentation Guidelines</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/presentation/tips">Tips on Giving a Talk</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/host">Host a Meeting</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/future">Future Meetings</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/archive">Past NANOG Meetings</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/room-layout">Sample Room layouts</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meeting/survey-results">Attendee Survey Results</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/hotelnetwork">Hotel Network Setup</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/t-shirts">T-Shirts</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/vendor">Vendor Participation</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/road/home">On The Road Meetings</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/education/bellevue_education_classes/home">Education Series</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Sponsors</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/sponsors">Sponsors</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/current">Current Hosts and Sponsors</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/previoushosts">Previous Hosts</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/previous">Past Sponsors</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/support">Meeting Logistics</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/donations">Donation</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/inquiry">Sponsorship Inquiry</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/opportunities">Sponsorship Opportunities</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing Lists</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list">Mailing Lists</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Join a NANOG Mailing List</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/join">Join a NANOG Mailing List</a></h3><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog">Subscribe to NANOG List</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog-announce ">Subscribe to NANOG-Announce </a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog-futures ">Subscribe to NANOG-futures</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/list/news">Mailing List News</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing List Statistics</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics">Mailing List Statistics</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2009">2009</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2008">2008</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2007">2007</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2006">2006</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2005">2005</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing List FAQ</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/faq">Mailing List FAQ</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/list/faq/other">Non-NANOG Relevant Topics</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing List Archives</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/archives">Mailing List Archives</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/list/archives/historical">Historical NANOG List Archive</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/pipermail/nanog-announce">NANOG-announce Archive</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/pipermail/nanog-futures/ ">NANOG-futures Mailing Archive</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog-futures">Subscribe to NANOG-futures</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/list/apptopics">Appropriate Topics</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/election-policy">NANOG-Elections Policy</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/corp/aup">AUP Enforcement Process</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Membership</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/membership">Membership</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/membership/policy">Membership Policy</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/membership/join">Join NANOG</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/login/">Log in to ARO</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/ibin/c5i?rid=48">Retrieve NANOG Password</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Members Portal</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/membership/member_portal">Members Portal</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/members_portal/member_agenda">Member Agenda &amp; Presentations</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/members_portal/specialty_items">NANOG Specialty Items</a></h3></li></ul></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />About NANOG</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/about/home">About NANOG</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Frequently Asked Questions</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/about/faq">Frequently Asked Questions</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/about/20thanniversary">NSFNET 20th Anniversary</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/about/contact">Contact Us</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://www.nanog.org/governance/documents/Budget2010_2012.pdf">Current Financial Information</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/about/survey_results">Attendee Survey Results</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Archives</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/archives">Archives</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/archives/presentations">Presentation Archive Search</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/archives">Mailing List Archives</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Governance</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/home">Governance</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Board of Directors</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod">Board of Directors</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/member_responsibility">Member Responsibilities</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/node/1416">Minutes 2014</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/node/1220">Minutes 2013</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/minutes2012">Minutes 2012</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/minutes2011">Minutes 2011</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/minutes2010">Minutes 2010</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/board/pastcommittee">Past Board Members</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Communications Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc">Communications Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc/minutes">Meeting Minutes</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc/member_responsibility">Member Responsibilities</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc/past">Past Members</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Development Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/dev">Development Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/dev/member_responsibility">Member Responsibilities</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/dev/past">Past Members</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Program Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm">Program Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm/minutes">Meeting Minutes</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm/member_responsibilities">Member Responsibility</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm/past">Past Members</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bcop">BCOP Committee</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/education">Education Committee</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Past Elections</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/home">Past Elections</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />2013 Elections</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2013">2013 Elections</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/proposed_bylaws">Proposed Bylaws Amendments</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/board_of_directors">2013 Board of Directors Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/communications">2013 CC Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/development">2013 DC Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/program">2013 PC Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/results">2013 Election Results</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2012">2012 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2011">2011 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2010">2010 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2009">2009 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2008">2008 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2007">2007 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2006">2006 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2005">2005 Election Ballot</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/corp">Corporate Documents</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/attendance">Attendance Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/corp/aup">AUP Enforcement Process</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Resources</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/resources">Resources</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/resources/bcop">NANOG BCOP</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/tutorials">Tutorials</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Fellowships</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/resources/fellowships">Fellowships</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/resources/fellowships/abha">Abha Ahuja NANOG Fellowship</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/fellowships/Operatoroftomorrow">Operator of Tomorrow Fellowship</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Scholarships</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/resources/scholarships">Scholarships</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/resources/scholarships/postel">The Jon Postel Scholarship</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/scholarships/abha_ahuja">The Abha Ahuja Scholarship</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="http://ws.edu.isoc.org/calendar/">ISOC Workshop Calendar</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/orgs">Other Network Organizations</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/rss/index.php">NANOG RSS Feeds</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />History</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/history">History</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Charter</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/history/charter">Charter</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2008">2008 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2007">2007 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2006">2006 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2005">2005 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/1994">Original 1994 Charter</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Steering Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/history/steering">Steering Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2010">SC Minutes 2010</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2009">SC Minutes 2009</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2008">SC Minutes 2008</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2007">SC Minutes 2007</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2006">SC Minutes 2006</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2005">SC Minutes 2005</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/history/financial-updates">Financial Information</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/survey2005">Survey Results 2005</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/transition/home">NANOG Transition</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/">Home</a></h3></li></ul>  </div>
+</div>
+<div id="block-nanog-quick-links-nanog-quick-links" class="block block-nanog-quick-links">
+
+    
+  <div class="content">
+    		
+		    <div id="box_shadow_ql_top">
+				<ul class="ql_topnav">				
+					<li><h3>QUICK LINKS</h3></li>
+				</ul>
+			</div>
+		    <div id="box_shadow_ql_bottom">
+				<ul class="ql_topnav"><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/login/">Log in to NANOG Portal</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/ibin/c5i?rid=48">Retrieve NANOG Password</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/membership/join">Become a NANOG member</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/archives/presentations">Search Presentations</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/site-map">Site Map</a></h3></li></ul></div>  </div>
+</div>
+<div id="block-custom-search-blocks-1" class="block block-custom-search-blocks">
+
+    
+  <div class="content">
+    <form class="search-form" action="/meetings/nanog11/registrants" method="post" id="custom-search-blocks-form-1" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-custom-search-blocks-form-1">
+  <label class="element-invisible" for="edit-custom-search-blocks-form-1--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Quick Keyword Search" type="text" id="edit-custom-search-blocks-form-1--2" name="custom_search_blocks_form_1" value="" size="20" maxlength="50" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="GO" class="form-submit" /></div><input type="hidden" name="delta" value="1" />
+<input type="hidden" name="form_build_id" value="form-2jv6iFY3J4qd94q5Ea2ZdtLsK5HToyLRU2OKyGY2iLE" />
+<input type="hidden" name="form_id" value="custom_search_blocks_form_1" />
+</div></form>  </div>
+</div>
+<div id="block-sharethis-sharethis-block" class="block block-sharethis">
+
+    <h2>SHARE THIS PAGE</h2>
+  
+  <div class="content">
+    <div class="sharethis-wrapper"><span st_url="https://www.nanog.org/meetings/nanog11/registrants" st_title="Registrants for the Fall 1997 NANOG Meeting" class="st_sharethis"></span>
+<span st_url="https://www.nanog.org/meetings/nanog11/registrants" st_title="Registrants for the Fall 1997 NANOG Meeting" class="st_linkedin"></span>
+<span st_url="https://www.nanog.org/meetings/nanog11/registrants" st_title="Registrants for the Fall 1997 NANOG Meeting" class="st_facebook"></span>
+<span st_url="https://www.nanog.org/meetings/nanog11/registrants" st_title="Registrants for the Fall 1997 NANOG Meeting" class="st_twitter"></span>
+<span st_url="https://www.nanog.org/meetings/nanog11/registrants" st_title="Registrants for the Fall 1997 NANOG Meeting" class="st_googleplus"></span>
+<span st_url="https://www.nanog.org/meetings/nanog11/registrants" st_title="Registrants for the Fall 1997 NANOG Meeting" class="st_tumblr"></span>
+<span st_url="https://www.nanog.org/meetings/nanog11/registrants" st_title="Registrants for the Fall 1997 NANOG Meeting" class="st_stumbleupon"></span>
+<span st_url="https://www.nanog.org/meetings/nanog11/registrants" st_title="Registrants for the Fall 1997 NANOG Meeting" class="st_email"></span>
+<script type='text/javascript'>var switchTo5x = true;</script><script type='text/javascript' src='http://w.sharethis.com/button/buttons.js'></script><script type='text/javascript'>stLight.options({"publisher":"dr-b82f9bd6-6e79-fc0a-b0a1-90f5da62136"});</script></div>  </div>
+</div>
+  </div>
+            </div>
+    </td>
+    <td valign="top" height="42px">	
+     <div id="box_shadow_breadcrumbs">   
+      <div id="breadcrumb">
+  <div class="breadcrumb_inner"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » Registrants for the Fall 1997 NANOG Meeting</div></div>	  </div>
+      </div>
+    </td>
+    <td width="200" valign="top" align="center">
+      <div id="nanog_live">
+  	  </div>    
+    </td>  
+  </tr>  
+  <tr>  
+    <td valign="top" colspan=2>
+     <div id="box_shadow_main">    
+	  <div id="content">
+	  <h1>Registrants for the Fall 1997 NANOG Meeting</h1>        <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-541" class="node node-nanog-flex clearfix" about="/meetings/nanog11/registrants" typeof="sioc:Item foaf:Document">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The following people have registered for the Fall '97 NANOG meeting.Looking forward to seeing you! </p>
+<table><tbody><tr><th align="left">Attendee</th>
+<th align="left">Organization</th>
+<th align="left">Registration Fee</th>
+</tr><tr><td>Abbas, Ahmar</td>
+<td>UUNET Technologies</td>
+</tr><tr><td>Adelson, Jay</td>
+<td>DIGITAL Internet Exchange</td>
+</tr><tr><td>Aggarwal, Vikas</td>
+<td>Verio Northeast</td>
+</tr><tr><td>Agnese, Joe</td>
+<td>Pacific Bell Internet</td>
+</tr><tr><td>Ahuja, Abha</td>
+<td>Merit Network, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Alaettinoglu, Cengiz</td>
+<td>USC ISI</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Alger, Shelley</td>
+<td>Critical Path, Inc.</td>
+</tr><tr><td>Amante, Shane</td>
+<td>Icon</td>
+</tr><tr><td>Amodio, Jorge</td>
+<td>Verio Northeast</td>
+</tr><tr><td>Appling, Matthew</td>
+<td>Concentric Network</td>
+</tr><tr><td>Arango, Luis</td>
+<td>Bellcore</td>
+</tr><tr><td>Arano, Takashi</td>
+<td>NTT</td>
+</tr><tr><td>Armitage, Grenville</td>
+<td>Lucent Technologies</td>
+</tr><tr><td>Asaba, Toshiya</td>
+<td>Internet Initiative Japan, Inc.</td>
+</tr><tr><td>Askins, Joe</td>
+<td>Arizona State University</td>
+</tr><tr><td>Avilov, Alexander</td>
+<td>Teleglobe International</td>
+</tr><tr><td>Azimi, Shahriar</td>
+<td>DynCorp</td>
+</tr><tr><td>Bailey, Brook</td>
+<td>TCG Cerfnet</td>
+</tr><tr><td>Bannister, David</td>
+<td>Cisco Systems</td>
+</tr><tr><td>Barber, Stan</td>
+<td>Academ Consulting Services</td>
+</tr><tr><td>Bardakos, Sue</td>
+<td>AT&amp;T Technical Marketing</td>
+</tr><tr><td>Barone, David</td>
+<td>Juniper Networks</td>
+</tr><tr><td>Barrows, Jeff</td>
+<td>UUNET Technologies</td>
+</tr><tr><td>Bataller, Erik</td>
+<td>NTT MCL</td>
+</tr><tr><td>Bauer, Thomas</td>
+<td>Arizona State University</td>
+</tr><tr><td>Bays, Robert</td>
+<td>Ironlight Digital</td>
+</tr><tr><td>Beckemeyer, David</td>
+<td>EarthLink Network, Inc</td>
+</tr><tr><td>Beeson, Tom</td>
+<td>New Mexico Technet</td>
+</tr><tr><td>Bennett, Eric</td>
+<td>Internet Engineering Group</td>
+</tr><tr><td>Ben-Oni, Golan</td>
+<td>IDT Corporation</td>
+</tr><tr><td>Bergman, Chris</td>
+<td>PSINet</td>
+</tr><tr><td>Bernhardt, James</td>
+<td>MediaOne</td>
+</tr><tr><td>Bishop, Scott</td>
+<td>Bay Networks</td>
+</tr><tr><td>Blat, Dorota</td>
+<td>Bellcore</td>
+</tr><tr><td>Bligh, Alex</td>
+<td>GX Networks/Xara Networks</td>
+</tr><tr><td>Bogovic, Tony</td>
+<td>Bellcore</td>
+</tr><tr><td>Bono, Vincent</td>
+<td>COMSTOR/GE Corp.</td>
+</tr><tr><td>Borchers, Mark</td>
+<td>InfiNet</td>
+</tr><tr><td>Borkenhagen, Jay</td>
+<td>AT&amp;T</td>
+</tr><tr><td>Bouchard, Wayne</td>
+<td>GlobalCenter</td>
+</tr><tr><td>Bownes, Bob</td>
+<td>Intermedia Communications</td>
+</tr><tr><td>Boylan, Dennis</td>
+<td>Epoch Internet</td>
+</tr><tr><td>Boyles, Jeff</td>
+<td>PSINet, Inc.</td>
+</tr><tr><td>Brandon, David</td>
+<td>Southwestern Bell Internet Services</td>
+</tr><tr><td>Bridges, Kitty</td>
+<td>Merit Network, Inc.</td>
+</tr><tr><td>Broderick, Kevin</td>
+<td>University of Washington</td>
+</tr><tr><td>Brown, John M.</td>
+<td>iHighway.net, Inc.</td>
+</tr><tr><td>Brownstein, Michael</td>
+<td>IXA - Interconnected Associates</td>
+</tr><tr><td>Brumund, Karl</td>
+<td>UUNET Canada</td>
+</tr><tr><td>Burba, Terry</td>
+<td>Bay Networks</td>
+</tr><tr><td>Burrescia, Joe</td>
+<td>ESNet</td>
+</tr><tr><td>Bush, Joe</td>
+<td>On-Ramp Technologies/Verio</td>
+</tr><tr><td>Bush, Randy</td>
+<td>Verio, Inc.</td>
+</tr><tr><td>Calabrese, Angelo</td>
+<td>NASA/Sterling Software</td>
+</tr><tr><td>Callon, Ross</td>
+<td>Ascend Communications</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Caputo, Chris</td>
+<td>Altopia Corporation</td>
+</tr><tr><td>Carter, Steve</td>
+<td>Genuity, Inc.</td>
+</tr><tr><td>Caruso, John</td>
+<td>CNET</td>
+</tr><tr><td>Cassels, Peter</td>
+<td>MCNC</td>
+</tr><tr><td>Caulfield, Jesse</td>
+<td>NetThink Corp.</td>
+</tr><tr><td>Chang, Mark</td>
+<td>Cisco Systems</td>
+</tr><tr><td>Chase, Corey</td>
+<td>PacBell</td>
+</tr><tr><td>Chong Fong, Yoshiko</td>
+<td>APNIC</td>
+</tr><tr><td>Chiodo, Steve</td>
+<td>Comstar, Inc.</td>
+</tr><tr><td>Claffy, Kim</td>
+<td>NLANR</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Clairmont, Fran</td>
+<td>Pacific Bell NAP</td>
+</tr><tr><td>Clement, Jason</td>
+<td>GoodNet</td>
+</tr><tr><td>Cnota, Mark</td>
+<td>Ameritech Advanced Data Services</td>
+</tr><tr><td>Colella, Richard</td>
+<td>AOL</td>
+</tr><tr><td>Correia, Wayne</td>
+<td>Critical Path, Inc.</td>
+</tr><tr><td>Cosfello, David</td>
+<td>RTD Systems &amp; Networking</td>
+</tr><tr><td>Court, Brian</td>
+<td>California State University</td>
+</tr><tr><td>Crago, William</td>
+<td>Bell Canada</td>
+</tr><tr><td>Crow, Jerry</td>
+<td>Internet Kansas</td>
+</tr><tr><td>Crowder, Jack</td>
+<td>Cisco Systems, Inc.</td>
+</tr><tr><td>Crowe, David</td>
+<td>Oregon State University</td>
+</tr><tr><td>Curado, Dave</td>
+<td>NaviSite</td>
+</tr><tr><td>Curran, John</td>
+<td> </td>
+</tr><tr><td>Cutler, James</td>
+<td>EDS</td>
+</tr><tr><td>D'Alessandro, Joe</td>
+<td>Zippo News Service</td>
+</tr><tr><td>Dankar, Ajay</td>
+<td>Cisco Systems</td>
+</tr><tr><td>Dankovich, Al</td>
+<td>AT&amp;T Technical Marketing</td>
+</tr><tr><td>Davin, James</td>
+<td>PSINet, Inc.</td>
+</tr><tr><td>Davis, Lane</td>
+<td>Genuity</td>
+</tr><tr><td>Davis, Pete</td>
+<td>Shiva Corp.</td>
+</tr><tr><td>Davisson, Mark</td>
+<td>ANS</td>
+</tr><tr><td>Della, Marcos</td>
+<td> </td>
+</tr><tr><td>DeLong, Owen</td>
+<td>Exodus</td>
+</tr><tr><td>DeMarche, Chris</td>
+<td>Verio</td>
+</tr><tr><td>Dhar, Sunil</td>
+<td>Sentient Networks, Inc.</td>
+</tr><tr><td>Dickson, Brian</td>
+<td>Teleglobe International</td>
+</tr><tr><td>Diez, Carlos</td>
+<td>AT&amp;T Technical Marketing</td>
+</tr><tr><td>Ding, Josh</td>
+<td>NETCOM</td>
+</tr><tr><td>Doane, Andrew</td>
+<td>American Information Systems, Inc.</td>
+</tr><tr><td>Doig, Ken</td>
+<td> </td>
+</tr><tr><td>Dolan, Jack</td>
+<td>Bay Networks</td>
+</tr><tr><td>Donelan, Sean</td>
+<td>DRA</td>
+</tr><tr><td>Donner, Paul</td>
+<td>Cisco</td>
+</tr><tr><td>Donovan, Regis</td>
+<td>Microsoft</td>
+</tr><tr><td>Donovan, Trey</td>
+<td>Zocalo</td>
+</tr><tr><td>Doran, Sean</td>
+<td>Ebone A/S</td>
+</tr><tr><td>Doty, Richard</td>
+<td> </td>
+</tr><tr><td>Dugan, Jon</td>
+<td>NCSA</td>
+</tr><tr><td>Dukinfield, Dave</td>
+<td>Acclaim Communications</td>
+</tr><tr><td>Dunbar, Daryl</td>
+<td>Epoch Internet</td>
+</tr><tr><td>Dunn, Bradley</td>
+<td>Harbor Communications</td>
+</tr><tr><td>Dyer, Tim</td>
+<td>Bay Networks, Inc.</td>
+</tr><tr><td>Dykes, Barry</td>
+<td>Genuity</td>
+</tr><tr><td>Eastgard, Tom</td>
+<td>NorthWestNet</td>
+</tr><tr><td>Ellis, Stephen</td>
+<td>Pacific Bell</td>
+</tr><tr><td>Ellman, Blake</td>
+<td>Net Access Corporation</td>
+</tr><tr><td>Eng, Ed</td>
+<td>Bay Networks</td>
+</tr><tr><td>England, Kent W.</td>
+<td>Six Sigma Networks</td>
+</tr><tr><td>Erkkila, Paul</td>
+<td>Frontier Corporation</td>
+</tr><tr><td>Fakler, Paul</td>
+<td>Minnesota Regional Network</td>
+</tr><tr><td>Farrelly, Jeff</td>
+<td>GoodNet</td>
+</tr><tr><td>Felder, Brent</td>
+<td>Virtual Resources, Inc.</td>
+<td> </td>
+</tr><tr><td>Feldman, Steve</td>
+<td>WorldCom</td>
+</tr><tr><td>Ferguson, Paul</td>
+<td>Cisco Systems, Inc.</td>
+</tr><tr><td>Fixler, Eric</td>
+<td>RoamOne Communications</td>
+</tr><tr><td>Flynn, Kevin</td>
+<td>Cisco Systems</td>
+</tr><tr><td>Freedman, Avi</td>
+<td>Net Access</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Frohling, Ted</td>
+<td>University of Arizona</td>
+</tr><tr><td>Fuad, Turnando</td>
+<td>NSNet,Inc.</td>
+</tr><tr><td>Fuchino, Shinichi</td>
+<td>NTT</td>
+</tr><tr><td>Fukuda, Yoshihiro</td>
+<td>Internet Initiative Japan, Inc.</td>
+</tr><tr><td>Fuller, Vince</td>
+<td> </td>
+</tr><tr><td>Fumeno, Takanori</td>
+<td>Internet Initiative Japan, Inc.</td>
+</tr><tr><td>Gaddis, Mike</td>
+<td>SAVVIS Communications Corp.</td>
+</tr><tr><td>Gardner, J. Scott</td>
+<td>Arizona State University</td>
+</tr><tr><td>Gibson, Michael</td>
+<td>Netcom Canada</td>
+</tr><tr><td>Gittlen, Sandra</td>
+<td>Network World</td>
+</tr><tr><td>Giza, Peter</td>
+<td>ADSmart Corporation</td>
+</tr><tr><td>Goetze, Tom</td>
+<td>Pacific Bell</td>
+</tr><tr><td>Graven, Michael</td>
+<td>Netscape</td>
+</tr><tr><td>Gregory, Dawn</td>
+<td>American Registry for Internet Numbers (ARIN)</td>
+</tr><tr><td>Gupta, Amit</td>
+<td>Sun Microsystems</td>
+</tr><tr><td>Habib, Hakem</td>
+<td>Bell Canada</td>
+</tr><tr><td>Hadin, Holly</td>
+<td>Genuity</td>
+</tr><tr><td>Halicioglu, Taner</td>
+<td>GlobalCenter</td>
+</tr><tr><td>Hall, Bradshaw</td>
+<td>Epoch Networks</td>
+</tr><tr><td>Halpin, Jim</td>
+<td>NeoNET, LLC</td>
+</tr><tr><td>Hamilton, Powell</td>
+<td>Epoch Internet</td>
+</tr><tr><td>Hares, David</td>
+<td>AutoNet</td>
+</tr><tr><td>Hares, Sue</td>
+<td>Merit Network, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Harris, Susan R.</td>
+<td>Merit Network, Inc.</td>
+</tr><tr><td>Harrison, Laura</td>
+<td>Intermedia Communications</td>
+</tr><tr><td>Heasley, John</td>
+<td>Verio</td>
+</tr><tr><td>Heckart, Tim</td>
+<td>Cyberg8t Internet Services, Inc.</td>
+</tr><tr><td>Helton, Gary</td>
+<td>Celeritas</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Herman, Peter</td>
+<td>Digital</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Hetzel, Dorn</td>
+<td>Epoch Networks</td>
+</tr><tr><td>Higgins, Jason</td>
+<td>Freeside Communications</td>
+</tr><tr><td>Hinton, Jeremy</td>
+<td>VisiNet</td>
+</tr><tr><td>Hirjee, Shafik</td>
+<td>Bell Canada</td>
+</tr><tr><td>Holden, Rick</td>
+<td>AT&amp;T Technical Marketing</td>
+</tr><tr><td>Holt Brian</td>
+<td>Genuity/NAP.Net</td>
+</tr><tr><td>Huang, Yeanchen</td>
+<td>Infonet Services Corp.</td>
+</tr><tr><td>Hubbard, Kim</td>
+<td>American Registry for Internet Numbers (ARIN)</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Huddle, Scott</td>
+<td>MCI</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Huegen, Craig</td>
+<td>Cisco Systems, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Huey, Robert</td>
+<td>CompuServe, Inc.</td>
+</tr><tr><td>Humphrey, Doug</td>
+<td>SkyCache, Inc.</td>
+</tr><tr><td>Huter, Steve</td>
+<td>University of Oregon/Network Startup Resource Center</td>
+</tr><tr><td>Icide, Chris</td>
+<td>Nap.Net, L.L.C.</td>
+</tr><tr><td>Irving, Richard</td>
+<td>One Call Communications, Inc.</td>
+</tr><tr><td>Ishigurov, Kuniniro</td>
+<td> </td>
+</tr><tr><td>Ishii, Hideo</td>
+<td>GlobalOne</td>
+</tr><tr><td>Izenberg, Bob</td>
+<td>Signet/Verio</td>
+</tr><tr><td>Jackiewicz, Tom</td>
+<td> </td>
+</tr><tr><td>Jacobsen, Van</td>
+<td>Lawrence Berkely Lab</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Janko, Steve</td>
+<td>Samsung Telecommunications America</td>
+</tr><tr><td>Janosik, george</td>
+<td>Torrent Networking Technologies</td>
+</tr><tr><td>Jiang, Jonathan</td>
+<td>Cisco Systems</td>
+</tr><tr><td>Joffe, Rodney</td>
+<td>Genuity, Inc.</td>
+</tr><tr><td>Johnsen, Saundra</td>
+<td>Genuity, Inc.</td>
+</tr><tr><td>Johnson, Bryan</td>
+<td>MindSpring Enterprises, Inc.</td>
+</tr><tr><td>Johnson, John</td>
+<td>AT&amp;T Technical Marketing</td>
+</tr><tr><td>Johnson, Ron</td>
+<td>Genuity, Inc.</td>
+</tr><tr><td>Johnson, Scott</td>
+<td>Merit Network, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Jordt, Dan</td>
+<td>NorthWestNet</td>
+</tr><tr><td>Junkins, Doug</td>
+<td>NorthWestNet, Inc.</td>
+</tr><tr><td>Karels, Jerry</td>
+<td>Samsung Telecommunications America</td>
+</tr><tr><td>Karrenberg, Daniel</td>
+<td>RIPE NCC</td>
+</tr><tr><td>Katsuyasu, Toyama</td>
+<td>Internet Multifeed Co.</td>
+</tr><tr><td>Katz, Dave</td>
+<td>Juniper</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Kavi, Prabhu</td>
+<td>Ascend Communications</td>
+</tr><tr><td>Keith, Joseph</td>
+<td>Bay Networks, Inc.</td>
+</tr><tr><td>Kendall, Jonah</td>
+<td>Genuity</td>
+</tr><tr><td>Kern, Ed</td>
+<td>DIGEX</td>
+</tr><tr><td>Kerry, Doug</td>
+<td>SuperNet, Inc.</td>
+</tr><tr><td>Ketell, Greg</td>
+<td>Cisco Systems, Inc.</td>
+</tr><tr><td>Khalili, Arman</td>
+<td>Sirius Connections</td>
+</tr><tr><td>Khoo, Andrew</td>
+<td>Aussie.Net</td>
+</tr><tr><td>Khuon, Jake</td>
+<td>Merit Network, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Kim, Dorian</td>
+<td> </td>
+</tr><tr><td>Kine, Bill</td>
+<td>Bay Networks</td>
+</tr><tr><td>Kirkpatrick, Ben</td>
+<td>Electric Lightwave</td>
+</tr><tr><td>Klossner, James</td>
+<td>Frontier Corporation</td>
+</tr><tr><td>Knievel, Scott</td>
+<td>Genuity, Inc.</td>
+</tr><tr><td>Knopper, Mark</td>
+<td>Internet Engineering Group</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Kolon, Matt</td>
+<td>Hill Associates</td>
+</tr><tr><td>Komatsu, Takaaki</td>
+<td>Media Exchange Co, Inc.</td>
+</tr><tr><td>Kosters, Mark</td>
+<td>Network Solutions, Inc.</td>
+</tr><tr><td>Kostick, Deirde</td>
+<td>AT&amp;T</td>
+</tr><tr><td>Koyama, Emiko</td>
+<td>NTT Worldwide Telecommunications Corp.</td>
+</tr><tr><td>Kozowski, Eric</td>
+<td>Structured Network Systems</td>
+</tr><tr><td>Kramer, Mike</td>
+<td>AT&amp;T Technical Marketing</td>
+</tr><tr><td>Krinos, Dimitri</td>
+<td>IBM Global Services</td>
+</tr><tr><td>Krishnaswamy, Padma</td>
+<td>Bellcore</td>
+</tr><tr><td>Krupnik, Bob</td>
+<td>AT&amp;T</td>
+</tr><tr><td>Labovitz, Craig</td>
+<td>Merit Network, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Lagua, Vir</td>
+<td> </td>
+</tr><tr><td>Lam, Yuen</td>
+<td>Cisco Systems</td>
+</tr><tr><td>Lapolito, Joe</td>
+<td>NaviSite</td>
+</tr><tr><td>Larsen, John</td>
+<td>Charles Schwab</td>
+</tr><tr><td>Lawrence, Pat</td>
+<td>NSNet, Inc.</td>
+</tr><tr><td>Lee, Kachun</td>
+<td>Zippo News Service</td>
+</tr><tr><td>Lee, Louis</td>
+<td>NETCOM</td>
+</tr><tr><td>Lefebvre, Mark</td>
+<td>GTE Internetworking</td>
+</tr><tr><td>Leibrock, Steven</td>
+<td>Goldman, Sachs, &amp; Co.</td>
+</tr><tr><td>Lemon, Craig</td>
+<td>UUNET Canada</td>
+</tr><tr><td>Leonard, Dan</td>
+<td>Autonet</td>
+</tr><tr><td>Levine, John</td>
+<td> </td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Levy, Martin</td>
+<td>Internex Information Services</td>
+</tr><tr><td>Levy, Mike</td>
+<td>Cortland Electronics</td>
+</tr><tr><td>Li, Tony</td>
+<td>Juniper Networks, Inc.</td>
+</tr><tr><td>Libitz, Keith</td>
+<td>Mirror Image Internet</td>
+</tr><tr><td>Lingle, Roger</td>
+<td>Ganymede Software</td>
+</tr><tr><td>Liu, Xin</td>
+<td>Merit Network, Inc.</td>
+</tr><tr><td>Lockwood, Stephen</td>
+<td>ACC Telenterprises</td>
+</tr><tr><td>Love, Paul</td>
+<td>Internet Consulting of Vermont</td>
+</tr><tr><td>Luebke, Steve</td>
+<td>AT&amp;T Worldnet</td>
+</tr><tr><td>Lynch, Sean</td>
+<td>InterNex Information Services, Inc.</td>
+</tr><tr><td>Maas, Willem</td>
+<td>True Development</td>
+</tr><tr><td>MacFarlane, Chris</td>
+<td>ACC Telenterprises</td>
+</tr><tr><td>Maddux, Denver</td>
+<td>GoodNet</td>
+</tr><tr><td>Maemura, Akinori</td>
+<td>C&amp;C Internet Service</td>
+</tr><tr><td>Malan, Rob</td>
+<td>U of M/Merit Network, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Mantakos, Harry</td>
+<td>Torrent Networkinhg Technologies</td>
+</tr><tr><td>McCarthy, Nils</td>
+<td>Genuity</td>
+</tr><tr><td>McCauley, Bill</td>
+<td>GeoNet Communications, Inc.</td>
+</tr><tr><td>McFadden, Mark</td>
+<td>Commercial Internet eXchange</td>
+</tr><tr><td>McGuckin, Joe</td>
+<td>ViaNet Communications, Inc.</td>
+</tr><tr><td>McKee, Dave</td>
+<td>Arizona State University</td>
+</tr><tr><td>McPherson, Danny</td>
+<td>Genuity, Inc.</td>
+</tr><tr><td>Mehta, Apurva</td>
+<td>Yago Systems</td>
+</tr><tr><td>Mendoza-Grado, Victor</td>
+<td>AT&amp;T WorldNet MIS</td>
+</tr><tr><td>Merritt, Brian</td>
+<td>Genuity</td>
+</tr><tr><td>Messinger, Fred</td>
+<td>Cisco Systems, Inc.</td>
+</tr><tr><td>Meyer, David</td>
+<td>University of Orgeon</td>
+</tr><tr><td>Midland, Michael</td>
+<td>NETCOM</td>
+</tr><tr><td>Miller, Greg</td>
+<td>High Fiber Network</td>
+</tr><tr><td>Mitchell, Keith</td>
+<td>London Internet Exchange LTD</td>
+</tr><tr><td>Miura, Takeshi</td>
+<td>International Digital Communications, Inc.</td>
+</tr><tr><td>Mizuguchi, Takanori</td>
+<td>NTT Worldwide Telecommunications Corp.</td>
+</tr><tr><td>Mizukoshi, Ichiro</td>
+<td>NTT</td>
+</tr><tr><td>Mohney, Doug</td>
+<td>SkyCache</td>
+</tr><tr><td>Mokbel, Sam</td>
+<td>ONet Networking</td>
+</tr><tr><td>Monk, Traci</td>
+<td>CAIDA/UCSD</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Moreno, Mario</td>
+<td>AT&amp;T WorldNet</td>
+</tr><tr><td>Morin, Edward</td>
+<td>Northwest Nexus, Inc.</td>
+</tr><tr><td>Mouat, Nikos</td>
+<td>IXA - Interconnected Associates</td>
+</tr><tr><td>Mueller, Karl</td>
+<td>Best Internet Communications, Inc.</td>
+</tr><tr><td>Mueller, Scott</td>
+<td>Whole Earth Networks</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Muir, Scott</td>
+<td>Network Intensive</td>
+</tr><tr><td>Mullin, Jim</td>
+<td> </td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Munroe, David</td>
+<td>Novagate Communications Corp.</td>
+</tr><tr><td>Murray, Steve</td>
+<td>Worldcom</td>
+</tr><tr><td>Nagasawa, Chris</td>
+<td>MCI</td>
+</tr><tr><td>Nesser, Philip</td>
+<td>Nesser &amp; Nesser Consulting</td>
+</tr><tr><td>Neupauer, Tom</td>
+<td>AT&amp;T Technical Marketing</td>
+</tr><tr><td>Newton, Justin</td>
+<td>Priori Networks, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Newton, Mike</td>
+<td>Netcom</td>
+</tr><tr><td>Nguyen, Lan</td>
+<td>Sprint</td>
+</tr><tr><td>Nielsen, Christian</td>
+<td>Ariax/Eiger</td>
+</tr><tr><td>Norikane, Shinichi</td>
+<td>NTT</td>
+</tr><tr><td>Norton, Bill</td>
+<td>Merit Network, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Nothaft, Alfred</td>
+<td>Bay Networks, Inc.</td>
+</tr><tr><td>Nowlin, Lauren</td>
+<td>NetThink Corp.</td>
+</tr><tr><td>Oakes, Andrew</td>
+<td>IC Plus Australia</td>
+</tr><tr><td>O'Leary, David</td>
+<td>Cisco Systems, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>O'Leary, Myk</td>
+<td>Ironlight Digital</td>
+</tr><tr><td>Oberman, Kevin</td>
+<td>ESnet</td>
+</tr><tr><td>Oura, Teruhisa</td>
+<td>IDC</td>
+</tr><tr><td>Owen, Kraig</td>
+<td>Cisco Systems, Inc.</td>
+</tr><tr><td>Pace, Donald</td>
+<td>Sprint</td>
+</tr><tr><td>Pace, James</td>
+<td>@Home Network</td>
+</tr><tr><td>Parente, Victor</td>
+<td>America Online</td>
+</tr><tr><td>Park, Richard</td>
+<td>UUNET Technologies</td>
+</tr><tr><td>Partan, Andrew</td>
+<td>Verio</td>
+</tr><tr><td>Pauayiotaks, Mickey</td>
+<td>Internet Interstate</td>
+</tr><tr><td>Pavely, Ryan</td>
+<td>Net Access Corporation</td>
+</tr><tr><td>Paxson, Vern</td>
+<td>Lawrence Berkeley National Laboratory</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Payne, Jeff</td>
+<td>UtahLink</td>
+</tr><tr><td>Pearson, Doug</td>
+<td>University Information Technology Services</td>
+</tr><tr><td>Pearson, Ralph</td>
+<td>NETCOM Online Communications Services, Inc.</td>
+</tr><tr><td>Petach, Matthew</td>
+<td>Internex Information Services</td>
+</tr><tr><td>Peterson, Alec</td>
+<td>Erols Internet</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Peterson, Andy</td>
+<td>Network Intensive</td>
+</tr><tr><td>Peterson, Kevin</td>
+<td>Ameritech Advanced Data Services</td>
+</tr><tr><td>Pham, Dat</td>
+<td>Charles Schwab</td>
+</tr><tr><td>Plonka, Jonathon</td>
+<td>Frontier Corporation</td>
+</tr><tr><td>Pochardt, Carol</td>
+<td>Dimension Enterprises, Inc.</td>
+</tr><tr><td>Polinsky, Steven</td>
+<td>Goldman, Sachs &amp; Co.</td>
+</tr><tr><td>Porter, Jeff</td>
+<td>Verio</td>
+</tr><tr><td>Porter, Jeremy</td>
+<td>Freeside Communications</td>
+</tr><tr><td>Pozar, Tim</td>
+<td>Alexa Internet</td>
+</tr><tr><td>Provo, Joseph</td>
+<td>UltraNet Communications, Inc.</td>
+</tr><tr><td>Prue, Walter</td>
+<td>USC/ISI Los Nettos</td>
+</tr><tr><td>Pullens, Tineke</td>
+<td>Inktomi Corporation</td>
+</tr><tr><td>Quek, Erone</td>
+<td>Bell Canada</td>
+</tr><tr><td>Ranney, Matt</td>
+<td>GeoNet Communications</td>
+</tr><tr><td>Rapp, Patrick</td>
+<td>American Registry for Internet Numbers</td>
+</tr><tr><td>Redin, John</td>
+<td>AT&amp;T</td>
+</tr><tr><td>Retana, Alvaro</td>
+<td>Cisco Systems, Inc.</td>
+</tr><tr><td>Rhodes, Robert</td>
+<td>InfiNet</td>
+</tr><tr><td>Richer, Ira</td>
+<td>CNRI</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Rizzo, Jeff</td>
+<td>DIGITAL Internet Exchange</td>
+</tr><tr><td>Romanow, Allyn</td>
+<td> </td>
+</tr><tr><td>Rose, Jonathan</td>
+<td>Charles Schwab Corporation</td>
+</tr><tr><td>Ross, Brandon</td>
+<td>MindSpring Enterprises, Inc.</td>
+</tr><tr><td>Rossi, Bert</td>
+<td>Merit Network, Inc.</td>
+</tr><tr><td>Rowh, Jim</td>
+<td>Genuity</td>
+</tr><tr><td>Rubenstein, Alex</td>
+<td>Net Access Corporation</td>
+</tr><tr><td>Rubin, Steve</td>
+<td>AboveNet</td>
+</tr><tr><td>Ruth, Greg</td>
+<td>GTE Laboratories, Inc.</td>
+</tr><tr><td>Ryan, Brad</td>
+<td>Cisco Systems</td>
+</tr><tr><td>Saadieh, Peter</td>
+<td>InterNex Information Service, Inc.</td>
+</tr><tr><td>Sabatino, Roberto</td>
+<td>DANTE</td>
+</tr><tr><td>Sanders, Robert</td>
+<td>MindSpring Enterprises, Inc.</td>
+</tr><tr><td>Sandor, Todd</td>
+<td>Newbridge Networks</td>
+</tr><tr><td>Sato, Kazuhisa</td>
+<td>KDD American Inc.</td>
+</tr><tr><td>Sato, Kenji</td>
+<td>KDD American Inc.</td>
+</tr><tr><td>Schleifer, Mark</td>
+<td>DIGEX</td>
+</tr><tr><td>Schmidt, Andrew</td>
+<td>Ameritech</td>
+</tr><tr><td>Schmidt, Stephen</td>
+<td>American Information Systems, Inc.</td>
+</tr><tr><td>Schmidt, Stephen</td>
+<td>Interpath</td>
+</tr><tr><td>Schnell, Steven</td>
+<td>Sprint Corporation</td>
+</tr><tr><td>Schroder, Ken</td>
+<td>NeoNET</td>
+</tr><tr><td>Seaver, Tim</td>
+<td>BellSouth.net</td>
+</tr><tr><td>Sebuktekin, Isil</td>
+<td>Bellcore</td>
+</tr><tr><td>Sekioka, Toshinori</td>
+<td>NTT PC Communications, Inc.</td>
+</tr><tr><td>Sellars, Chuck</td>
+<td>Verio, Inc.</td>
+</tr><tr><td>Servin, Arturo</td>
+<td>Telecomunications &amp; Networking Monterrey Tech.</td>
+</tr><tr><td>Shaffer, Scott</td>
+<td>GTE</td>
+</tr><tr><td>Sheil, Dennis</td>
+<td>Earthweb</td>
+</tr><tr><td>Shekhtman, Tanya</td>
+<td>Hewlett-Packard Company</td>
+</tr><tr><td>Shepherd, Greg</td>
+<td>Springfield Public Schools</td>
+</tr><tr><td>Shibata, Shinji</td>
+<td>Media Exchange Co., Inc.</td>
+</tr><tr><td>Shimagami, Junichi</td>
+<td>Internet Initiative Japan, Inc.</td>
+</tr><tr><td>Shultz, Steve</td>
+<td>NASA AmesResearch Center</td>
+</tr><tr><td>Siegel, David</td>
+<td>RTD Systemss &amp; Networking</td>
+</tr><tr><td>Simmons, Lorraine</td>
+<td>Genuity Client support</td>
+</tr><tr><td>Simpson, Dennis</td>
+<td>Barrie Connex, Inc.</td>
+</tr><tr><td>Sims, Ralph</td>
+<td>Northwest Nexus, Inc.</td>
+</tr><tr><td>Skidmore, Chad</td>
+<td>Northwest Nexus, Inc.</td>
+</tr><tr><td>Skouby, Greg</td>
+<td>Harbor Communications</td>
+</tr><tr><td>Small, Stacie</td>
+<td>COMSTOR/GE Corporation</td>
+</tr><tr><td>Smith, Jill</td>
+<td>Taos Mountain</td>
+</tr><tr><td>Smith, Jon</td>
+<td>PREPnet</td>
+</tr><tr><td>Smith, Kent</td>
+<td>iHighway.net, Inc</td>
+</tr><tr><td>So, Hon</td>
+<td>SBC Communications. Inc.</td>
+</tr><tr><td>Sobocinski, Eric</td>
+<td>Merit Network, Inc.</td>
+</tr><tr><td>Sorenson, Christine</td>
+<td>AT&amp;T Technical Marketing</td>
+</tr><tr><td>Sosebee, John</td>
+<td>BellSouth.net</td>
+</tr><tr><td>St. Sauver, Joe</td>
+<td>University of Orgeon</td>
+</tr><tr><td>Stein, Matthew</td>
+<td>ACC Telenterprises</td>
+</tr><tr><td>Stewart III, John</td>
+<td>Juniper Networks, Inc.</td>
+</tr><tr><td>Strange, Dan</td>
+<td>Inktomi Corporation</td>
+</tr><tr><td>Stratton, Nathan</td>
+<td>NetRail, Inc.</td>
+</tr><tr><td>Stuart, Stephen</td>
+<td>Digital Equipment Corp.</td>
+</tr><tr><td>Sugeno, Akio</td>
+<td>TELEHOUSE Int'l Corp. of America</td>
+</tr><tr><td>Sullebarger, Bob</td>
+<td>Ascend Communications, Inc.</td>
+</tr><tr><td>Supinski, Anthony</td>
+<td>Cisco Systems</td>
+</tr><tr><td>Suzuki, Tsuyoshi</td>
+<td>FUJITSU</td>
+</tr><tr><td>Swallow, George</td>
+<td>Cisco Systems</td>
+</tr><tr><td>Swartz, Mark</td>
+<td>RAINet</td>
+</tr><tr><td>Swink, Carol</td>
+<td>Hewlett Packard</td>
+</tr><tr><td>Tachibana, Toshio</td>
+<td>Internet Research Institute, Inc.</td>
+</tr><tr><td>Tatman, Lance</td>
+<td>NASA Ames/Sterling Software</td>
+</tr><tr><td>Tauber, Tony</td>
+<td>GTE Internetworking</td>
+</tr><tr><td>Tay, Derek</td>
+<td>Pacific Internet Singapore</td>
+</tr><tr><td>Taylor, Tim</td>
+<td>SSDS, Inc.</td>
+</tr><tr><td>Teichtahl, Marc</td>
+<td>VICNET</td>
+</tr><tr><td>Thompson, James</td>
+<td>Exdous</td>
+</tr><tr><td>Topping, Patrick</td>
+<td>Genuity, Inc.</td>
+</tr><tr><td>Tsuboi, Chris</td>
+<td>@ Home Network</td>
+</tr><tr><td>Turbervill, Chris</td>
+<td>Onramp</td>
+</tr><tr><td>Vaden, Larry</td>
+<td>Internet Texoma, Inc.</td>
+</tr><tr><td>Vandeventer, Ian</td>
+<td>Genuity, Inc.</td>
+</tr><tr><td>Veal, Shirley</td>
+<td>BellSouth.Net</td>
+</tr><tr><td>Veeck, Peter</td>
+<td>Internet Texoma, Inc.</td>
+</tr><tr><td>Vegesna, Srinivas</td>
+<td>Cisco Systems</td>
+</tr><tr><td>Vidrine, Jacques</td>
+<td>Communique, Inc.</td>
+</tr><tr><td>Villamizar, Curtis</td>
+<td>ANS</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Vixie, Paul</td>
+<td>Vixie Enterprises</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Vortherms, Dan</td>
+<td> </td>
+</tr><tr><td>Wabik, Jeff</td>
+<td>Ascend</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Wallach, Noah</td>
+<td>MCI</td>
+</tr><tr><td>Wan, Jimmy</td>
+<td>Merit Network, Inc.</td>
+<td>SPEAKER</td>
+<td> </td>
+</tr><tr><td>Wang, Lei</td>
+<td>American Registry for Internet Numbers</td>
+</tr><tr><td>Ward, Darrel</td>
+<td>Verio</td>
+</tr><tr><td>Warren, Ross</td>
+<td>PSINet</td>
+</tr><tr><td>Watson, Brett</td>
+<td>Genuity, Inc.</td>
+</tr><tr><td>Wayrynen, Darin</td>
+<td>GoodNet</td>
+</tr><tr><td>Wei, Calvin</td>
+<td>Bell Atlantic Internet Solutions</td>
+</tr><tr><td>Weinsteiger, George</td>
+<td>Genuity, Inc.</td>
+</tr><tr><td>Wenzel, Daniel</td>
+<td>Network Services &amp; Consulting Corp.</td>
+</tr><tr><td>Wenzel, Robert</td>
+<td>Network Services &amp; Consulting Corp.</td>
+</tr><tr><td>Wenzel, Sandra</td>
+<td>Network Services &amp; Consulting Corp.</td>
+</tr><tr><td>Werner, Todd</td>
+<td>One Call Communications, Inc.</td>
+</tr><tr><td>Wheeler, Christopher</td>
+<td>InterNAP Network Services</td>
+</tr><tr><td>Wheeler, Jeff</td>
+<td>Bay Networks</td>
+</tr><tr><td>White, Matthew</td>
+<td>Verio New England</td>
+</tr><tr><td>Williams, Scott</td>
+<td>@ Home Network</td>
+</tr><tr><td>Willis, Steve</td>
+<td>Argon Networks, Inc.</td>
+</tr><tr><td>Wilson, Doug</td>
+<td>Internex</td>
+</tr><tr><td>Wilson, Jean</td>
+<td>Bay Networks, Inc.</td>
+</tr><tr><td>Wong, Roger</td>
+<td>Charles Schwab &amp; Co.</td>
+</tr><tr><td>Wong, William</td>
+<td>Hong Kong Telecom</td>
+</tr><tr><td>Woodcock, Bill</td>
+<td>Zocalo</td>
+</tr><tr><td>Woolf, Suzanne</td>
+<td> </td>
+</tr><tr><td>Yada, Yasunari</td>
+<td>NTT</td>
+</tr><tr><td>Yaguchi, Tomokkazu</td>
+<td>Telecomet</td>
+</tr><tr><td>Yamazaki, Tomoyuki</td>
+<td>NTTPC Communications, Inc.</td>
+</tr><tr><td>Yanicovski, Yuri</td>
+<td>Teleglobel International</td>
+</tr><tr><td>Yu, Jessica</td>
+<td>ANS</td>
+</tr><tr><td>Zighelbolm, Raul</td>
+<td>Communique, Inc.</td>
+</tr><tr><td>Zimmerman, Gary</td>
+<td>Savvis Communications Corporation</td>
+</tr><tr><td>Zitcovich, Jay</td>
+<td>Bay Networks</td>
+</tr></tbody></table><p><a href="http://www.nanog.org/meetings/nanog11/index.php"> </a></p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+	  <p>&nbsp;</p>
+	   </div>
+	  </div>
+           </td>
+       
+  </tr>
+  <tr>
+  <td colspan="3">
+  <div id="footer">
+        
+        <div class="region region-footer">
+    <div id="block-block-5" class="block block-block">
+
+    
+  <div class="content">
+    <p></p><center><br /><p class="small-text"><a title="Nanog on LinkedIn" href="http://www.linkedin.com/company/1983092?trk=company_search" target="_blank"><img src="/sites/default/files/Li.jpg" alt="" width="35" height="30" /></a><a title="Nanog Mailing List" href="http://mailman.nanog.org/mailman/listinfo/nanog"><img src="/sites/default/files/ML.jpg" alt="" width="35" height="30" /></a><a title="Nanog on Twitter" href="https://twitter.com/nanog" target="_blank"><img src="/sites/default/files/twitter.jpg" alt="" width="35" height="30" /></a><a title="Nanog on Facebook" href="https://www.facebook.com/NANOG.org" target="_blank"><img src="/sites/default/files/fb.jpg" alt="" width="35" height="30" /></a><a title="Nanog on Flickr" href="http://www.flickr.com/photos/nanog" target="_blank"><img src="/sites/default/files/flickr.gif" alt="" /></a><a href="/rss.xml" target="_blank"><img src="/sites/default/files/rss_icon.jpg" alt="" width="35" height="30" /></a><a title="NANOG on YouTube" href="//www.youtube.com/channel/UCIvcN8QNgRGNW9osYLGsjQQ" target="_blank"><img src="/sites/default/files/youtube.jpg" alt="" width="35" height="30" /></a><br />Copyright © 2014 NANOG, Inc. | Website issues? Contact <a href="mailto:webmaster@nanog.org">webmaster</a><br />48377 Fremont Blvd., Suite 117 | Fremont, CA94538, USA | +1 510-492-4030 | <a href="mailto:nanog-support@nanog.org">nanog-support@nanog.org</a></p>
+<p></p></center>
+  </div>
+</div>
+  </div>
+      
+  </div>
+  </td>
+  </tr>
+  </table>
+  <div id="toTop">^ Back to Top</div>  
+</div>  </body>
+</html>
