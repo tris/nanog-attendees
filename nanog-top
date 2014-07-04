@@ -14,7 +14,7 @@ for (@ARGV) {
 
   for my $th ($tree->find_by_tag_name('th', 'td')) {
     my $text = $th->as_text;
-    next unless $text =~ /attendee|name/i; # or organization, or...
+    next unless $text =~ /attendee|name|, /i; # or organization, or...
     next if $th->descendants > 2;
 
     my $table = $th->look_up(_tag => 'table');
