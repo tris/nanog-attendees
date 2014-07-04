@@ -1,0 +1,54 @@
+#!/usr/bin/env perl
+# tristan+perl@ethereal.net 3jul2014
+
+use strict;
+use warnings;
+use HTML::TreeBuilder;
+
+my %count;
+
+for (@ARGV) {
+  my $tree = HTML::TreeBuilder->new;
+  $tree->parse_file($_);
+  $tree->eof;
+
+  for my $th ($tree->find_by_tag_name('th', 'td')) {
+    my $text = $th->as_text;
+    next unless $text =~ /attendee|name/i; # or organization, or...
+    next if $th->descendants > 2;
+
+    my $table = $th->look_up(_tag => 'table');
+    my $attendees = [];
+    for my $tr ($table->find_by_tag_name('tr')) {
+      my @row;
+      for my $td ($tr->find_by_tag_name('th', 'td')) {
+        push @row, $td->as_text;
+      }
+      next unless @row;
+      push $attendees, \@row;
+    }
+
+    if ($$attendees[0][0] =~ /last/i ||
+        ($$attendees[0][0] !~ /attendee|name/i &&
+         $$attendees[0][0] !~ / /)) {
+      # combine last & first names
+      for my $row (@$attendees) {
+        $row = ["$$row[0], $$row[1]", @$row[2..$#$row]];
+      }
+    }
+
+    for my $row (@$attendees) {
+      # add missing space after comma in name
+      $$row[0] =~ s/^([^, ]*,)([^, ]*)$/$1 $2/;
+
+      # count the attendee
+      $count{$$row[0]}++;
+    }
+
+    last;
+  }
+}
+
+for (sort { $count{$b} <=> $count{$a} } keys %count) {
+  printf "%-3d %s\n", $count{$_}, $_;
+}
