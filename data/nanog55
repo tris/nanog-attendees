@@ -31,11 +31,11 @@
 <td>&nbsp;</td>
 </tr></table>
 </div></td></tr></table>
-<table cellspacing="0" cellpadding="0" border="0" width="100%"><tr bgcolor="#FFFFFF"><td width="100%">&nbsp;<BR>
-&nbsp;<BR>
+<table cellspacing="0" cellpadding="0" border="0" width="100%"><tr bgcolor="#FFFFFF"><td width="100%">&nbsp;<br />
+&nbsp;<br />
 <table cellspacing="0" cellpadding="0" border="0" width="100%" class="GG"><tr bgcolor="#FFFFFF"><td class="GG" width="100%"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GE"><tr bgcolor="#FFFFFF"><td class="GH" width="100%">NANOG 55 Registrants: 525&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-<tr><td class="GI"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GJ"><tr bgcolor="#FFFFFF"><td class="FH"><A HREF="/ibin/c5i?mid=5&rid=99&gid=0&k1=1032&tid=1404449379">Name</A></td>
-<td class="FH"><A HREF="/ibin/c5i?mid=5&rid=99&gid=0&s1=1&k1=1032&tid=1404449379">Company</A></td>
+<tr><td class="GI"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GJ"><tr bgcolor="#FFFFFF"><td class="FH"><a href="/ibin/c5i?mid=5&rid=99&gid=0&k1=1032&tid=1419025641">Name</a></td>
+<td class="FH"><a href="/ibin/c5i?mid=5&rid=99&gid=0&s1=1&k1=1032&tid=1419025641">Company</a></td>
 <td class="FH">ASN</td>
 <td class="FH"></tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Abbas, Majdi</td>
@@ -363,7 +363,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Corbett, Colin</td>
-<td class="FW"></td>
+<td class="FW">Airstone.io</td>
 <td class="FW">19679</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Cornelison, William</td>
@@ -374,8 +374,8 @@
 <td class="FW">Videotron</td>
 <td class="FW">5769</td>
 </tr>
-<tr bgcolor="#FFFFFF"><td class="FV">Cowie, Jim</td>
-<td class="FV">Renesys Corporation</td>
+<tr bgcolor="#FFFFFF"><td class="FV">Cowie, James</td>
+<td class="FV">Dyn Research</td>
 <td class="FV">34135</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Crabbe, Edward</td>
@@ -575,7 +575,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Freedman, Avi</td>
-<td class="FV">ServerCentral</td>
+<td class="FV">CloudHelix</td>
 <td class="FV">6450</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Friborg, Brenda</td>
@@ -626,7 +626,7 @@
 <td class="FV">Network Hardware Resale</td>
 <td class="FV"></td>
 </tr>
-<tr bgcolor="#FFFFFF"><td class="FW">GEORGE, WESLEY</td>
+<tr bgcolor="#FFFFFF"><td class="FW">George, Wesley</td>
 <td class="FW">Time Warner Cable</td>
 <td class="FW">7843</td>
 </tr>
@@ -683,7 +683,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Golding, Daniel</td>
-<td class="FW">Iron Mountain</td>
+<td class="FW">Google, Inc.</td>
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Gonyea, Christopher</td>
@@ -1035,7 +1035,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Krall, Joe</td>
-<td class="FW">Telstra Global</td>
+<td class="FW">Telstra</td>
 <td class="FW">4637</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Kresha, Ken</td>
@@ -1135,7 +1135,7 @@
 <td class="FW">22822</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Levy, Martin</td>
-<td class="FV">Hurricane Electric</td>
+<td class="FV">CloudFlare</td>
 <td class="FV">6939</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Lewis, Darrel</td>
@@ -1367,7 +1367,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Muhlenbaumer, Michiel</td>
-<td class="FV">Atrato IP Networks</td>
+<td class="FV">Hibernia Networks</td>
 <td class="FV">5580</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Munro, Bruce</td>
@@ -1411,7 +1411,7 @@
 <td class="FV">803</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Nielsen, Christian</td>
-<td class="FW"></td>
+<td class="FW">Twitch Interactive</td>
 <td class="FW">8075 8069 12076</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Nipper, Arnold</td>
@@ -1471,7 +1471,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Oosting, Eric</td>
-<td class="FV">Network Utility Force/STAFF</td>
+<td class="FV">Network Utility Force/Staff</td>
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Orlowski, Frank</td>
@@ -1543,7 +1543,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Pounsett, Matthew</td>
-<td class="FV">Afilias</td>
+<td class="FV">Rightside Group</td>
 <td class="FV">12041</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Pozar, Tim</td>
@@ -1603,7 +1603,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Raymo, Brad</td>
-<td class="FW">Limelight Networks</td>
+<td class="FW">Microsoft</td>
 <td class="FW">22822</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Raymond, Steven</td>
@@ -1739,7 +1739,7 @@
 <td class="FV">17151</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Smith, Michael</td>
-<td class="FW">Verizon Edgecast</td>
+<td class="FW">Netflix</td>
 <td class="FW">15133</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Snyder, Morgan</td>
@@ -1762,8 +1762,8 @@
 <td class="FV">Net Access Corp</td>
 <td class="FV">8001</td>
 </tr>
-<tr bgcolor="#FFFFFF"><td class="FW">Spears, Chris</td>
-<td class="FW">Internet2</td>
+<tr bgcolor="#FFFFFF"><td class="FW">Spears, Christopher</td>
+<td class="FW">OARnet</td>
 <td class="FW">11537</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Sprosts, Craig</td>
@@ -1779,7 +1779,7 @@
 <td class="FV">3599</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Steenbergen, Richard</td>
-<td class="FW">GTT Communications</td>
+<td class="FW"></td>
 <td class="FW">4436</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Stemwedel, Peter</td>
@@ -1959,7 +1959,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Volk, Ruediger</td>
-<td class="FV">Deutsche Telekom Technik</td>
+<td class="FV">Deutsche Telekom</td>
 <td class="FV">3320</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Waldroop, Derek</td>
@@ -2087,11 +2087,11 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Woodfield, Chris</td>
-<td class="FV">Twitter, Inc.</td>
+<td class="FV">Twitter</td>
 <td class="FV">13414</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Wu, Catherine</td>
-<td class="FW">Upthere, Inc</td>
+<td class="FW">Uber</td>
 <td class="FW">32527</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Wu, Ramon</td>
@@ -2145,6 +2145,6 @@
 </td>
 </tr>
 </table>
-&nbsp;<BR>
+&nbsp;<br />
 </td></tr></table><table cellpadding="0" cellspacing="0" class="footer"><tr><td>
 <p>Powered by <B>AMS ARO</B> &#x00a9; AMSL 2007-2013</p></td></tr></table></div></body></html>

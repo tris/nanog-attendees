@@ -1,198 +1,3642 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.nanog.org/sites/default/files/nanog.ico" type="image/vnd.microsoft.icon" />
-<meta content="NANOG 61 Attendee List" about="/meetings/nanog61/attendees" property="dc:title" />
-<link rel="canonical" href="/meetings/nanog61/attendees" />
-<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="shortlink" href="/node/1386" />
-  <title>NANOG 61 Attendee List | North American Network Operators Group</title>
-  <style type="text/css" media="all">@import url("https://www.nanog.org/modules/system/system.base.css?n7di4z");
-@import url("https://www.nanog.org/modules/system/system.menus.css?n7di4z");
-@import url("https://www.nanog.org/modules/system/system.messages.css?n7di4z");
-@import url("https://www.nanog.org/modules/system/system.theme.css?n7di4z");</style>
-<style type="text/css" media="all">@import url("https://www.nanog.org/modules/aggregator/aggregator.css?n7di4z");
-@import url("https://www.nanog.org/modules/comment/comment.css?n7di4z");
-@import url("https://www.nanog.org/modules/field/theme/field.css?n7di4z");
-@import url("https://www.nanog.org/modules/node/node.css?n7di4z");
-@import url("https://www.nanog.org/modules/search/search.css?n7di4z");
-@import url("https://www.nanog.org/modules/user/user.css?n7di4z");
-@import url("https://www.nanog.org/sites/all/modules/extlink/extlink.css?n7di4z");
-@import url("https://www.nanog.org/sites/all/modules/views/css/views.css?n7di4z");</style>
-<style type="text/css" media="all">@import url("https://www.nanog.org/sites/all/modules/ctools/css/ctools.css?n7di4z");
-@import url("https://www.nanog.org/sites/all/modules/custom_search/custom_search.css?n7di4z");</style>
-
-<!--[if lt IE 7]>
-<link type="text/css" rel="stylesheet" href="https://www.nanog.org/sites/all/themes/nanog/fix-ie.css?n7di4z" media="all" />
-<![endif]-->
-<style type="text/css" media="all">@import url("https://www.nanog.org/sites/all/themes/nanog/system-menus.css?n7di4z");</style>
-  <script type="text/javascript" src="https://www.nanog.org/misc/jquery.js?v=1.4.4"></script>
-<script type="text/javascript" src="https://www.nanog.org/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="https://www.nanog.org/misc/drupal.js?n7di4z"></script>
-<script type="text/javascript" src="https://www.nanog.org/sites/all/modules/extlink/extlink.js?n7di4z"></script>
-<script type="text/javascript" src="https://www.nanog.org/sites/all/modules/custom_search/js/custom_search.js?n7di4z"></script>
-<script type="text/javascript" src="https://www.nanog.org/sites/all/themes/nanog/scripts/nanognav.js?n7di4z"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nanog","theme_token":"Jl92UfacQ5UBejuIM681QNQ19A3xlwLstajhB2oJ47Q","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/themes\/nanog\/scripts\/nanognav.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/nanog\/fix-ie.css":1,"sites\/all\/themes\/nanog\/system-menus.css":1}},"custom_search":{"form_target":"_self","solr":0},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0}});
-//--><!]]>
-</script>
-</head>
-<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-1386 node-type-nanog-flex" >
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    <div id="toTop">^ Top</div>
-<div id="wrapper">
-   <div id="header">
-	<img src="https://www.nanog.org/sites/default/files/MeetingBannerMaster61.jpg" width="1200" usemap="#Map" alt="Meeting 61 in Bellevue, Washington, 2014-06-02"/>
-						<map name="Map" id="Map">
-						  <area shape="rect" coords="1,1,1200,190" href="/"/>
-						</map>   </div>
-<table align="left" class="plain_table">  
-  <tr>
-   <td width="200" valign="top" rowspan="2">
-   <div id="sidebar-first">
-                  <div class="region region-sidebar-first">
-    <div id="block-nanognav-nanognav" class="block block-nanognav">
-
-    
-  <div class="content">
-    	
-		<div id="meetings_widget">
-		<span class="h3">MEETINGS WIDGET</span><br>
-		<form method="post" action="http://www.nanog.org/widget.php">
-		<input name="current" type="hidden" value="62" />		
-		<input name="meet_type" type="hidden" value="nanog" />		
-		<select id="jumpMenu" name="jumpMenu"><option value="Jump to Meeting" disabled>NANOG Meetings</option><option value="62">NANOG62: Baltimore, Maryland</option><option value="61" selected>NANOG61: Bellevue, Washington</option><option value="60">NANOG60: Atlanta, Georgia</option><option value="59">NANOG59: Phoenix, Arizona</option><option value="58">NANOG58: New Orleans, Louisiana</option><option value="57">NANOG57: Orlando, Florida</option><option value="56">NANOG56: Dallas, Texas</option><option value="55">NANOG55: Vancouver, BC Canada</option><option value="54">NANOG54: San Diego, California</option><option value="53">NANOG53: Philadelphia, Pennsylvania</option><option value="52">NANOG52: Denver, Colorado</option><option value="51">NANOG51: Miami, Florida</option><option value="50">NANOG50: Atlanta, Georgia</option><option value="49">NANOG49: San Francisco, California</option><option value="48">NANOG48: Austin, Texas</option><option value="47">NANOG47: Dearborn, Michigan</option><option value="46">NANOG46: Philadelphia, Pennsylvania</option><option value="45">NANOG45: Santo Domingo, Dominican Republic</option><option value="44">NANOG44: Los Angeles, California</option><option value="43">NANOG43: Brooklyn, New York</option><option value="42">NANOG42: San Jose, California</option><option value="41">NANOG41: Albuquerque, New Mexico</option><option value="40">NANOG40: Bellevue, Washington</option><option value="39">NANOG39: Toronto, Canada</option><option value="38">NANOG38: St. Louis, Missouri</option><option value="37">NANOG37: San Jose, California</option><option value="36">NANOG36: Dallas, Texas</option><option value="35">NANOG35: Los Angeles, California</option><option value="34">NANOG34: Seattle, Washington</option><option value="33">NANOG33: Las Vegas, Nevada</option><option value="32">NANOG32: Reston, Virginia</option><option value="31">NANOG31: San Francisco, California</option><option value="30">NANOG30: Miami, Florida</option><option value="29">NANOG29: Chicago, Illinois</option><option value="28">NANOG28: Salt Lake City, Utah</option><option value="27">NANOG27: Phoenix, Arizona</option><option value="26">NANOG26: Eugene, Oregon</option><option value="25">NANOG25: Toronto, Canada</option><option value="24">NANOG24: Miami, Florida</option><option value="23">NANOG23: Oakland, California</option><option value="22">NANOG22: Scottsdale, Arizona</option><option value="21">NANOG21: Atlanta, Georgia</option><option value="20">NANOG20: Washington, D.C.</option><option value="19">NANOG19: Albuquerque, New Mexico</option><option value="18">NANOG18: San Jose, California</option><option value="17">NANOG17: Montreal, Canada</option><option value="16">NANOG16: Eugene, Oregon</option><option value="15">NANOG15: Denver, Colorado</option><option value="14">NANOG14: Atlanta, Georgia</option><option value="13">NANOG13: Dearborn, Michigan</option><option value="12">NANOG12: Albuquerque, New Mexico</option><option value="11">NANOG11: Phoenix, Arizona</option><option value="10">NANOG10: Tampa, Florida</option><option value="9">NANOG9: San Francisco, California</option><option value="8">NANOG8: Ann Arbor, Michigan</option><option value="7">NANOG7: Washington, D.C.</option><option value="6">NANOG6: San Diego, California</option><option value="5">NANOG5: Pittsburgh, Pennsylvania</option><option value="4">NANOG4: Ann Arbor, Michigan</option><option value="3">NANOG3: Boulder, Colorado</option><option value="2">NANOG2: Ann Arbor, Michigan</option><option value="1">NANOG1: Ann Arbor, MI</option></select><input type="submit" id="submit" value="Go"/>
-		</form><ul class="pastmeet"><li><a href="/meetings/nanog61/home">Meet us in Bellevue, WA for NANOG 61!</a></li><li><a href="/meetings/nanog61/surveyresults">NANOG 61 Survey Results</a></li><li><a href="/meetings/nanog61/surveys">NANOG 61 Surveys</a></li><li><a href="/meetings/nanog61/attendance">NANOG 61 Attendance Statistics</a></li><li><a href="/meetings/nanog61/agenda">NANOG 61 Agenda</a></li><li><a href="/meetings/nanog61/attendees" class="active">NANOG 61 Attendee List</a></li><li><a href="/meetings/nanog61/agendahighlights">NANOG 61 Highlights</a></li><li><a href="/meetings/nanog61/helpdesk">ARIN Help Desk</a></li><li><a href="/meetings/nanog61/sponsors">NANOG 61 Sponsors</a></li><li><a href="/meetings/nanog61/hotelinformation">NANOG 61 Hotel Information</a></li><li><a href="/meetings/nanog61/callforpresentations">NANOG 61 Call for Presentations</a></li><li><a href="/meetings/nanog61/internet">NANOG Wireless Network Information</a></li><li><a href="/network_stats61">NANOG 61 Network Stats</a></li><li><a href="/meetings/nanog61/diagram">NANOG 61 Network Diagram</a></li><li><a href="/meetings/nanog61/inandaround">In and around Bellevue!</a></li><li><a href="/meetings/nanog61/shipping">Shipping Information For Sponsors</a></li></ul><div class="pmtoggle_action"><img class="imgpm" src="/images/link-pm.gif" border="0" /></div><form method="post" action="http://www.nanog.org/widget.php">
-			<input name="current" type="hidden" value="3" />	
-			<input name="meet_type" type="hidden" value="road" />				
-			<select id="jumpMenu2" name="jumpMenu2"><option value="Jump to Meeting" selected disabled>On the Road Meetings</option><option value="3">Road 3: Los Angeles, CA</option><option value="2">Road 2: San Diego, CA</option><option value="1">Road 1: Portland, Oregon</option></select><input type="submit" id="submit" value="Go"/>
-		</form><form method="post" action="http://www.nanog.org/widget.php">
-			<input name="current" type="hidden" value="/bellevue_education_classes" />				
-			<input name="meet_type" type="hidden" value="education" />				
-			<select id="jumpMenu3" name="jumpMenu3"><option value="Jump to Meeting" selected disabled>Education Series</option><option value="/bellevue_education_classes">Jun 1, 2014 Bellevue, WA: Bellevue Education Classes</option><option value="/routing_fundamentals_class">Feb 9, 2014 Atlanta, GA: Routing Fundamentals Class</option><option value="/routing_fundamentals">Oct 6, 2013 Phoenix, AZ: Routing Fundamentals</option></select><input type="submit" id="submit" value="Go"/>
-		</form></div><div id="box_shadow">
-						<div id="nanognavmenu">
-							<ul class="topnav"><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />NANOG Meetings</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/meetings/home">NANOG Meetings</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Attend a Meeting</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend">Attend a Meeting</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend/waiving-fee">Waiving Fee Options</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend/students">Student Registration</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/attend/press">The Press at NANOG</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Present at a NANOG</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/meetings/presentation">Present at a NANOG</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/meetings/presentation/guidelines">Presentation Guidelines</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/presentation/tips">Tips on Giving a Talk</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/host">Host a Meeting</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/future">Future Meetings</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/archive">Past NANOG Meetings</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/room-layout">Sample Room layouts</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meeting/survey-results">Attendee Survey Results</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/hotelnetwork">Hotel Network Setup</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/t-shirts">T-Shirts</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/vendor">Vendor Participation</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/road/home">On The Road Meetings</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/meetings/education/bellevue_education_classes/home">Education Series</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Sponsors</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/sponsors">Sponsors</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/current">Current Hosts and Sponsors</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/previoushosts">Previous Hosts</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/previous">Past Sponsors</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/support">Meeting Logistics</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/donations">Donation</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/inquiry">Sponsorship Inquiry</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/sponsors/opportunities">Sponsorship Opportunities</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing Lists</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list">Mailing Lists</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Join a NANOG Mailing List</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/join">Join a NANOG Mailing List</a></h3><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog">Subscribe to NANOG List</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog-announce ">Subscribe to NANOG-Announce </a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog-futures ">Subscribe to NANOG-futures</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/list/news">Mailing List News</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing List Statistics</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics">Mailing List Statistics</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2009">2009</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2008">2008</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2007">2007</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2006">2006</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/statistics/2005">2005</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing List FAQ</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/faq">Mailing List FAQ</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/list/faq/other">Non-NANOG Relevant Topics</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Mailing List Archives</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/list/archives">Mailing List Archives</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/list/archives/historical">Historical NANOG List Archive</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/pipermail/nanog-announce">NANOG-announce Archive</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/pipermail/nanog-futures/ ">NANOG-futures Mailing Archive</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://mailman.nanog.org/mailman/listinfo/nanog-futures">Subscribe to NANOG-futures</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/list/apptopics">Appropriate Topics</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/election-policy">NANOG-Elections Policy</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/corp/aup">AUP Enforcement Process</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Membership</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/membership">Membership</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/membership/policy">Membership Policy</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/membership/join">Join NANOG</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/login/">Log in to ARO</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/ibin/c5i?rid=48">Retrieve NANOG Password</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Members Portal</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/membership/member_portal">Members Portal</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/members_portal/member_agenda">Member Agenda &amp; Presentations</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/members_portal/specialty_items">NANOG Specialty Items</a></h3></li></ul></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />About NANOG</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/about/home">About NANOG</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Frequently Asked Questions</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/about/faq">Frequently Asked Questions</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/about/20thanniversary">NSFNET 20th Anniversary</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/about/contact">Contact Us</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="http://www.nanog.org/governance/documents/Budget2010_2012.pdf">Current Financial Information</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/about/survey_results">Attendee Survey Results</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Archives</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/archives">Archives</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/archives/presentations">Presentation Archive Search</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/list/archives">Mailing List Archives</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Governance</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/home">Governance</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Board of Directors</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod">Board of Directors</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/member_responsibility">Member Responsibilities</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/node/1416">Minutes 2014</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/node/1220">Minutes 2013</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/minutes2012">Minutes 2012</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/minutes2011">Minutes 2011</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bod/minutes2010">Minutes 2010</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/board/pastcommittee">Past Board Members</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Communications Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc">Communications Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc/minutes">Meeting Minutes</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc/member_responsibility">Member Responsibilities</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/cc/past">Past Members</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Development Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/dev">Development Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/dev/member_responsibility">Member Responsibilities</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/dev/past">Past Members</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Program Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm">Program Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm/minutes">Meeting Minutes</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm/member_responsibilities">Member Responsibility</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/pgm/past">Past Members</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/bcop">BCOP Committee</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/education">Education Committee</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Past Elections</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/home">Past Elections</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />2013 Elections</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2013">2013 Elections</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/proposed_bylaws">Proposed Bylaws Amendments</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/board_of_directors">2013 Board of Directors Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/communications">2013 CC Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/development">2013 DC Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/program">2013 PC Candidates</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/elections/2013/results">2013 Election Results</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2012">2012 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2011">2011 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2010">2010 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2009">2009 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2008">2008 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2007">2007 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2006">2006 Election Ballot</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/elections/2005">2005 Election Ballot</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/corp">Corporate Documents</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/attendance">Attendance Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/corp/aup">AUP Enforcement Process</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Resources</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/resources">Resources</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/resources/bcop">NANOG BCOP</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/tutorials">Tutorials</a></h3></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Fellowships</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/resources/fellowships">Fellowships</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/resources/fellowships/abha">Abha Ahuja NANOG Fellowship</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/fellowships/Operatoroftomorrow">Operator of Tomorrow Fellowship</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Scholarships</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/resources/scholarships">Scholarships</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/resources/scholarships/postel">The Jon Postel Scholarship</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/scholarships/abha_ahuja">The Abha Ahuja Scholarship</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="http://ws.edu.isoc.org/calendar/">ISOC Workshop Calendar</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/resources/orgs">Other Network Organizations</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/rss/index.php">NANOG RSS Feeds</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />History</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/history">History</a></h3><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Charter</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/history/charter">Charter</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2008">2008 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2007">2007 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2006">2006 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/2005">2005 Charter</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/charter/1994">Original 1994 Charter</a></h3></li></ul></li><li><h3 class="toggle_action"><img class="img-swap" src="/images/link-down.gif" alt="Expand section" />Steering Committee</h3><ul class="div_toggle"><li><h3><img src="/images/link-right.gif"/><a href="/history/steering">Steering Committee</a></h3><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2010">SC Minutes 2010</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2009">SC Minutes 2009</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2008">SC Minutes 2008</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2007">SC Minutes 2007</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2006">SC Minutes 2006</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/2005">SC Minutes 2005</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/history/financial-updates">Financial Information</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/history/steering/survey2005">Survey Results 2005</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/governance/transition/home">NANOG Transition</a></h3></li></ul></li><li><h3><img src="/images/link-right.gif"/><a href="/">Home</a></h3></li></ul>  </div>
+<html><head><title>Nanog ARO - Nanog</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" href="/gpak2/css/content-style.css" />
+<link rel="stylesheet" type="text/css" href="/gpak2/css/header-footer.css" />
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/gpak2/css/header-footer-ie.css" /><![endif]-->
+<style type="text/css">/*\*//*/@import "/gpak2/css/header-footer-ie.css";/**/</style>
+<script language="JavaScript" type="text/javascript" src="/gpak2/js/menu.js"></script>
+<link rel="stylesheet" type="text/css" href="/gpak2/c5i2.css" />
+<link rel="shortcut icon" href="/gpak2/favicon.ico" /><link rel="icon" href="/gpak2/favicon.ico" /></head>
+<body>
+<div class="site">
+<table cellpadding="0" cellspacing="0" class="top-menu">
+<tr>
+<td valign="top">
+<div class="logo">
+<a href="http://secretariat.nanog.org/"><img src="/gpak2/img/logo.gif" width="183" height="54" alt="AMS ARO" /></a>
 </div>
-<div id="block-nanog-quick-links-nanog-quick-links" class="block block-nanog-quick-links">
-
-    
-  <div class="content">
-    		
-		    <div id="box_shadow_ql_top">
-				<ul class="ql_topnav">				
-					<li><h3>QUICK LINKS</h3></li>
-				</ul>
-			</div>
-		    <div id="box_shadow_ql_bottom">
-				<ul class="ql_topnav"><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/login/">Log in to NANOG Portal</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="https://secretariat.nanog.org/ibin/c5i?rid=48">Retrieve NANOG Password</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/membership/join">Become a NANOG member</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/archives/presentations">Search Presentations</a></h3></li><li><h3><img src="/images/link-right.gif"/><a href="/site-map">Site Map</a></h3></li></ul></div>  </div>
+</td>
+<td class="menu">
+<div class="ie-nonrubbytable">
+<table cellpadding="0" cellspacing="0" id="nav">
+<tr>
+<td class="off" id="sub-1">
+</td>
+</tr>
+</table>
 </div>
-<div id="block-custom-search-blocks-1" class="block block-custom-search-blocks">
-
-    
-  <div class="content">
-    <form class="search-form" action="/meetings/nanog61/attendees" method="post" id="custom-search-blocks-form-1" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-custom-search-blocks-form-1">
-  <label class="element-invisible" for="edit-custom-search-blocks-form-1--2">Search this site </label>
- <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Quick Keyword Search" type="text" id="edit-custom-search-blocks-form-1--2" name="custom_search_blocks_form_1" value="" size="20" maxlength="50" />
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="GO" class="form-submit" /></div><input type="hidden" name="delta" value="1" />
-<input type="hidden" name="form_build_id" value="form-Zay-_EyXzaJp1dm2ebz7-Yqb7XPQqorJSBODvqzg7z0" />
-<input type="hidden" name="form_id" value="custom_search_blocks_form_1" />
-</div></form>  </div>
-</div>
-<div id="block-sharethis-sharethis-block" class="block block-sharethis">
-
-    <h2>SHARE THIS PAGE</h2>
-  
-  <div class="content">
-    <div class="sharethis-wrapper"><span st_url="https://www.nanog.org/meetings/nanog61/attendees" st_title="NANOG 61 Attendee List" class="st_sharethis"></span>
-<span st_url="https://www.nanog.org/meetings/nanog61/attendees" st_title="NANOG 61 Attendee List" class="st_linkedin"></span>
-<span st_url="https://www.nanog.org/meetings/nanog61/attendees" st_title="NANOG 61 Attendee List" class="st_facebook"></span>
-<span st_url="https://www.nanog.org/meetings/nanog61/attendees" st_title="NANOG 61 Attendee List" class="st_twitter"></span>
-<span st_url="https://www.nanog.org/meetings/nanog61/attendees" st_title="NANOG 61 Attendee List" class="st_googleplus"></span>
-<span st_url="https://www.nanog.org/meetings/nanog61/attendees" st_title="NANOG 61 Attendee List" class="st_tumblr"></span>
-<span st_url="https://www.nanog.org/meetings/nanog61/attendees" st_title="NANOG 61 Attendee List" class="st_stumbleupon"></span>
-<span st_url="https://www.nanog.org/meetings/nanog61/attendees" st_title="NANOG 61 Attendee List" class="st_email"></span>
-<script type='text/javascript'>var switchTo5x = true;</script><script type='text/javascript' src='http://w.sharethis.com/button/buttons.js'></script><script type='text/javascript'>stLight.options({"publisher":"dr-b82f9bd6-6e79-fc0a-b0a1-90f5da62136"});</script></div>  </div>
-</div>
-  </div>
-            </div>
-    </td>
-    <td valign="top" height="42px">	
-     <div id="box_shadow_breadcrumbs">   
-      <div id="breadcrumb">
-  <div class="breadcrumb_inner"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » NANOG 61 Attendee List</div></div>	  </div>
-      </div>
-    </td>
-    <td width="200" valign="top" align="center">
-      <div id="nanog_live">
-  	  </div>    
-    </td>  
-  </tr>  
-  <tr>  
-    <td valign="top" colspan=2>
-     <div id="box_shadow_main">    
-	  <div id="content">
-	  <h1>NANOG 61 Attendee List</h1>        <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    <div id="node-1386" class="node node-nanog-flex node-promoted clearfix" about="/meetings/nanog61/attendees" typeof="sioc:Item foaf:Document">
-
-  
-      
-  
-  <div class="content">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="/sites/default/files/sites/default/files/Attendee%20List.pdf">NANOG 61 Attendee List</a> </p>
-</div></div></div>  </div>
-
-  
-  
-</div>
-  </div>
-</div>
-  </div>
-	  <p>&nbsp;</p>
-	   </div>
-	  </div>
-           </td>
-       
-  </tr>
-  <tr>
-  <td colspan="3">
-  <div id="footer">
-        
-        <div class="region region-footer">
-    <div id="block-block-5" class="block block-block">
-
-    
-  <div class="content">
-    <p></p><center><br /><p class="small-text"><a title="Nanog on LinkedIn" href="http://www.linkedin.com/company/1983092?trk=company_search" target="_blank"><img src="/sites/default/files/Li.jpg" alt="" width="35" height="30" /></a><a title="Nanog Mailing List" href="http://mailman.nanog.org/mailman/listinfo/nanog"><img src="/sites/default/files/ML.jpg" alt="" width="35" height="30" /></a><a title="Nanog on Twitter" href="https://twitter.com/nanog" target="_blank"><img src="/sites/default/files/twitter.jpg" alt="" width="35" height="30" /></a><a title="Nanog on Facebook" href="https://www.facebook.com/NANOG.org" target="_blank"><img src="/sites/default/files/fb.jpg" alt="" width="35" height="30" /></a><a title="Nanog on Flickr" href="http://www.flickr.com/photos/nanog" target="_blank"><img src="/sites/default/files/flickr.gif" alt="" /></a><a href="/rss.xml" target="_blank"><img src="/sites/default/files/rss_icon.jpg" alt="" width="35" height="30" /></a><a title="NANOG on YouTube" href="//www.youtube.com/channel/UCIvcN8QNgRGNW9osYLGsjQQ" target="_blank"><img src="/sites/default/files/youtube.jpg" alt="" width="35" height="30" /></a><br />Copyright © 2014 NANOG, Inc. | Website issues? Contact <a href="mailto:webmaster@nanog.org">webmaster</a><br />48377 Fremont Blvd., Suite 117 | Fremont, CA94538, USA | +1 510-492-4030 | <a href="mailto:nanog-support@nanog.org">nanog-support@nanog.org</a></p>
-<p></p></center>
-  </div>
-</div>
-  </div>
-      
-  </div>
-  </td>
-  </tr>
-  </table>
-  <div id="toTop">^ Back to Top</div>  
-</div>  </body>
-</html>
+<div class="container">
+<div id="shield"></div>
+<table id="sub-11" style="z-index: 99;" ><tr>
+<td>&nbsp;</td>
+</tr></table>
+</div></td></tr></table>
+<table cellspacing="0" cellpadding="0" border="0" width="100%"><tr bgcolor="#FFFFFF"><td width="100%">&nbsp;<br />
+&nbsp;<br />
+<table cellspacing="0" cellpadding="0" border="0" width="100%" class="GG"><tr bgcolor="#FFFFFF"><td class="GG" width="100%"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GE"><tr bgcolor="#FFFFFF"><td class="GH" width="100%">NANOG 61 Registrants: 898&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+<tr><td class="GI"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GJ"><tr bgcolor="#FFFFFF"><td class="FH"><a href="/ibin/c5i?mid=5&rid=99&gid=0&k1=1041&tid=1419025643">Name</a></td>
+<td class="FH"><a href="/ibin/c5i?mid=5&rid=99&gid=0&s1=1&k1=1041&tid=1419025643">Company</a></td>
+<td class="FH">ASN</td>
+<td class="FH"></tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Abbas, Majdi</td>
+<td class="FV">BrightRoll, Inc.</td>
+<td class="FV">39995</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Abrahamsen, Eric</td>
+<td class="FW">The University of Texas at Austin</td>
+<td class="FW">18</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Adhav, Gargi</td>
+<td class="FV">Cisco Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Aditya, R.P. (Adi)</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Adler, Seth</td>
+<td class="FV">MRV Optical Communications Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Akcin, Mehmet</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Akopse, Wole</td>
+<td class="FV">Morgan State University</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Albin, Jim</td>
+<td class="FW">EdgeConneX</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Alexander, Dan</td>
+<td class="FV">Comcast</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Alexander, Michael</td>
+<td class="FW">Wolfe</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Amaral, Flavio</td>
+<td class="FV">Netflix</td>
+<td class="FV">2906</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Amundson, Kris</td>
+<td class="FW">Puppet Labs, Inc.</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Anchev, Andrew</td>
+<td class="FV">A10 Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Andersen, Paul</td>
+<td class="FW">EGATE Networks / ARIN Board</td>
+<td class="FW">13657</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Anzola, Luis</td>
+<td class="FV">Dimension Data</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Applegate, Ian</td>
+<td class="FW">CloudHelix</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">April, Tim</td>
+<td class="FV">Akamai Technologies</td>
+<td class="FV">20940</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Arasu, Senthil</td>
+<td class="FW">Rhapsody International</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Aries, Ebben</td>
+<td class="FV">Facebook</td>
+<td class="FV">32934</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Armstrong, Bill</td>
+<td class="FW">Charter Communications</td>
+<td class="FW">20115</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Arshinov, Sergey</td>
+<td class="FV">T-Mobile</td>
+<td class="FV">21928</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Asfaha, Dawit</td>
+<td class="FW">Shaw Cablesystems</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Ashton, James</td>
+<td class="FV">WOW! Internet, Cable and Phone</td>
+<td class="FV">12083</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ashworth, Clay</td>
+<td class="FW">Layer42 Networks</td>
+<td class="FW">8121</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Aufderheide, Jonathan</td>
+<td class="FV">Google</td>
+<td class="FV">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Avino, Tony</td>
+<td class="FW"></td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Axelrod, Michael</td>
+<td class="FV">GOOGLE</td>
+<td class="FV">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ayers, Cory</td>
+<td class="FW">Education Networks of America</td>
+<td class="FW">11686</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Ayyangar, Arthi</td>
+<td class="FV">Arista Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Babson, Aric</td>
+<td class="FW">TEKsystems</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Badiola Gaubeka, Elena</td>
+<td class="FV">Telefonica</td>
+<td class="FV">Telefonica</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Bagdonas, Ignas</td>
+<td class="FW">Routing System Ltd</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Bairraju, Dileep Varma</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Balakrishnan, Ram</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Bales, Kurt</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ball, Alan</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Balsley, PJ</td>
+<td class="FV">RagingWire Data Centers</td>
+<td class="FV">19893</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Barford, Paul</td>
+<td class="FW">University of Wisconsin</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Barker, Matt</td>
+<td class="FV">Accretive Technology Group</td>
+<td class="FV">11608</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Barlow, Simon</td>
+<td class="FW">Teliasonera International Carrier</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Barrett, Daniel</td>
+<td class="FV">Microsoft</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Barry, Kate</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Bartig, Jeff</td>
+<td class="FV">Internet2 TransitRail</td>
+<td class="FV">11164 , 2381</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Bates, Tim</td>
+<td class="FW">NTT America</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Batey, Schyler</td>
+<td class="FV">Pacific Northwest Gigapop</td>
+<td class="FV">101, 73</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Beals, Jeary</td>
+<td class="FW">Myriad Supply</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Beauvais, Rob</td>
+<td class="FV">Comcast</td>
+<td class="FV">7922</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Becker, Sebastian</td>
+<td class="FW">Deutsche Telekom AG</td>
+<td class="FW">3320</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Bedard, Dawn</td>
+<td class="FV">Microsoft</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Behrens, Travis</td>
+<td class="FW">Verizon</td>
+<td class="FW">AS701, AS702, AS703 & AS14551</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Bender, Jill</td>
+<td class="FV">University of Michigan</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Bender, Robert</td>
+<td class="FW">CTS Telecom</td>
+<td class="FW">19653</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Bennett, Michael</td>
+<td class="FV">3MG Consulting</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Bennett, Seth</td>
+<td class="FW">Netflix</td>
+<td class="FW">2906</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Berretta, Gregg</td>
+<td class="FV">Colt</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Berry, Greg</td>
+<td class="FW">NoaNet</td>
+<td class="FW">16713</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Berthier, Yann</td>
+<td class="FV">Tata Communications</td>
+<td class="FV">6453</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Biegel, Justin</td>
+<td class="FW">CloudHelix</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Birthisel, Joseph</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Bitseff, David</td>
+<td class="FW">XKL, LLC</td>
+<td class="FW">1258</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Blanchard, Gabriel</td>
+<td class="FV">TekSavvy</td>
+<td class="FV">5645</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Blankman, Frank</td>
+<td class="FW">Hibernia Networks</td>
+<td class="FW">5580</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Blecker, Christoph</td>
+<td class="FV">Disney Interactive</td>
+<td class="FV">62787</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Bliss, David</td>
+<td class="FW">Amazon.com</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Blumberg, Kevin</td>
+<td class="FV">ARIN AC / The Wire Inc.</td>
+<td class="FV">33361</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Blunk, Larry</td>
+<td class="FW">Merit Network, Inc.</td>
+<td class="FW">237</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Bo, Quyen</td>
+<td class="FV">A10 Networks, Inc.</td>
+<td class="FV">4258291872</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Bohannon, Patrick</td>
+<td class="FW">Indiana University</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Bonczek, John</td>
+<td class="FV">Telx</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Boudreaux, Gerry</td>
+<td class="FW">Venyu</td>
+<td class="FW">20355/36372</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Bourassa, Eric</td>
+<td class="FV">EasyStreet Online Services, Inc.</td>
+<td class="FV">6423</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Boyle, Michael</td>
+<td class="FW">Westin Building Exchange</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Braaten, Steve</td>
+<td class="FV">Cisco</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Brady, Mike</td>
+<td class="FW">XKL, LLC</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Brew, Oliver</td>
+<td class="FV">Liberty International Underwriters</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Brigner, Paul</td>
+<td class="FW">Internet Society</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Brintnall, Kevin</td>
+<td class="FV">Google</td>
+<td class="FV">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Brochu, Mark</td>
+<td class="FW">Connecticut Education Network</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Brohan, Liam</td>
+<td class="FV">Cyan</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Brookshire, Scott</td>
+<td class="FW">Energy Group Networks</td>
+<td class="FW">18779</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Brown, Jared</td>
+<td class="FV">Indiana</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Brumund, Karl</td>
+<td class="FW">Dyn</td>
+<td class="FW">11049,15135,33517</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Bryan, Chris</td>
+<td class="FV">Cox Communications</td>
+<td class="FV">22773</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Buford, Matt</td>
+<td class="FW">Datapipe</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Buhl, Erik</td>
+<td class="FV">Integra</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Burgio, Al</td>
+<td class="FW">IIX</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Burke, Betty</td>
+<td class="FV">NANOG</td>
+<td class="FV">19230</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Burks, Brian</td>
+<td class="FW">ADVA Optical Networking</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Burks, Dustin</td>
+<td class="FV">Google</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Burton, Chris</td>
+<td class="FW"></td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Buschmann, Michael</td>
+<td class="FV">Internap</td>
+<td class="FV">29791</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Bush, Randy</td>
+<td class="FW">Internet Initiative Japan</td>
+<td class="FW">3130</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Buzo, Marcos</td>
+<td class="FV">RNP / AmLight</td>
+<td class="FV">1916 / 20080</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Bye, Jeremy</td>
+<td class="FW">Cox Communications</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Byrne, Cameron</td>
+<td class="FV">T-Mobile US</td>
+<td class="FV">21928</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Byrne, Greg</td>
+<td class="FW">LightRiver Technologies</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Caine, Todd</td>
+<td class="FV">Frontier Communications</td>
+<td class="FV">5650</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Calhoun, Avery</td>
+<td class="FW">Marchex Inc</td>
+<td class="FW">40495</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Calkins, Mark</td>
+<td class="FV">ViaSat</td>
+<td class="FV">7155</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Callahan, Michael</td>
+<td class="FW">Deutsche Telekom</td>
+<td class="FW">3320</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Campbell, Angus</td>
+<td class="FV">Riot Games Inc</td>
+<td class="FV">6507</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Campbell, Ritz</td>
+<td class="FW">Google</td>
+<td class="FW">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Campbell, Roderick</td>
+<td class="FV">Cisco Systems, Inc.</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Cantamessi, Marco</td>
+<td class="FW">Dimension Data</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Caputo, Chris</td>
+<td class="FV">Seattle Internet Exchange</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Carpenter, Steven</td>
+<td class="FW">XKL LLC</td>
+<td class="FW">1258</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Carr, William</td>
+<td class="FV">Arbor Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Carter, Chris</td>
+<td class="FW">T-Mobile</td>
+<td class="FW">21928</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Casarez, Rick</td>
+<td class="FV">Salesforce.com</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Casey, Liam</td>
+<td class="FW">Rockstar Consortium Inc</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Catapano, Joe</td>
+<td class="FV">ICANN</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Cates, David</td>
+<td class="FW"></td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Caturegli, Paul</td>
+<td class="FV">Tata Communications</td>
+<td class="FV">6453 4755</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Celindro, Vincent</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Chalmers, Greg</td>
+<td class="FV">Verizon</td>
+<td class="FV">701 702 703 14551</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Chan, Eddie</td>
+<td class="FW">Sprint</td>
+<td class="FW">16586</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Chandran, Girish</td>
+<td class="FV">ViaSat, Inc.</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Chaney, Andrew</td>
+<td class="FW">Skytap, Inc.</td>
+<td class="FW">46160</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Chantigny, Rock</td>
+<td class="FV">Canadian Internet Registration Authority (CIRA)</td>
+<td class="FV">55195</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Charnock, William</td>
+<td class="FW">Limelight Networks</td>
+<td class="FW">22822</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Chen, Ernest</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Chen, James</td>
+<td class="FW">Energy Group Networks</td>
+<td class="FW">18779</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Chen, Yingying</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Chevalier, Arthur</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Chiu, Jansen</td>
+<td class="FV">Telstra Global</td>
+<td class="FV">4637, 1221</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">CHO, KYOUNGOK</td>
+<td class="FW">NCIA</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Chong, Marty</td>
+<td class="FV">Riot Games Inc.</td>
+<td class="FV">6507</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Chou, Eric</td>
+<td class="FW">A10 Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Chou, Pan</td>
+<td class="FV">Cisco</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Chow, Mike</td>
+<td class="FW">T-Mobile</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Christensen, Sara</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Chu, Christina</td>
+<td class="FW">NTT America Inc.</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Chui, Carol</td>
+<td class="FV">Cisco Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">CIUSTEA, IULIAN</td>
+<td class="FW">T-MOBILE US</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Clark, Donald</td>
+<td class="FV">Google Inc.</td>
+<td class="FV">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Clelland, Eric</td>
+<td class="FW">Cyan</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Cline, Benjamin</td>
+<td class="FV">Microsoft Corp.</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Cohen, Peter</td>
+<td class="FW">Netflix</td>
+<td class="FW">2906</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Cole, George</td>
+<td class="FV">RTE Group, Inc.</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Collar, Craig</td>
+<td class="FW">Nocompany.fu</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Colonna, Krista</td>
+<td class="FV">Verizon Terremark</td>
+<td class="FV">23148</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Conrad, David</td>
+<td class="FW">Virtualized, LLC</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Cook, Bill</td>
+<td class="FV">SummitIG</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Cooper, Alissa</td>
+<td class="FW">Cisco</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Cooper, Dave</td>
+<td class="FV">Level 3 Communications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Cooper, Jeff</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Cornachini, George</td>
+<td class="FV">Digital Realty</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Coughlan, Louisa</td>
+<td class="FW">Centurylink</td>
+<td class="FW">209</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Couture, Philippe</td>
+<td class="FV">Videotron</td>
+<td class="FV">5769</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Cox, Amie</td>
+<td class="FW">ADVA Optical Networking</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Craig, Stephen</td>
+<td class="FV">OSI Hardware</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Crew, David</td>
+<td class="FW">NTT America, Inc.</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Crooks, Sam</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Cross, Lawrence</td>
+<td class="FW"></td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Crowe, David</td>
+<td class="FV">BendBroadband</td>
+<td class="FV">21864</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Crowley, Brian</td>
+<td class="FW">Surescripts</td>
+<td class="FW">53869</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Cullimore, Kevin</td>
+<td class="FV">HIC Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Curran, John</td>
+<td class="FW">ARIN</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">D Agostino, Ed</td>
+<td class="FV">DE-CIX Management GmbH</td>
+<td class="FV">6695</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Dalberg, Steve</td>
+<td class="FW">Packet Design</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Dalton, Paul</td>
+<td class="FV">Sprint Communications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Daly, Tom</td>
+<td class="FW"></td>
+<td class="FW">54113</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Dani, Alban</td>
+<td class="FV">Squarespace</td>
+<td class="FV">53831</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Daniels, Steve</td>
+<td class="FW">Staminus Communications</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">DANKO, JOHN</td>
+<td class="FV">325 HUDSON</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Davenport, Adam</td>
+<td class="FW">GTT Communications, Inc.</td>
+<td class="FW">3257</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Davison, Michael</td>
+<td class="FV">Brocade Communications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">De Dios, Judy</td>
+<td class="FW">Telstra Global</td>
+<td class="FW">4637, 1221</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">De Saram, Asoka</td>
+<td class="FV">A10 Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Dean, Maurice</td>
+<td class="FW">Facebook</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Deardorff, Brian</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">DeBack, Dean</td>
+<td class="FW">Time Warner Cable</td>
+<td class="FW">7843</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">DeHerrera, Paul</td>
+<td class="FV">F5 Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">DeJong, Steve</td>
+<td class="FW">Neustar</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Dendy, Greg</td>
+<td class="FV">Equinix</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Dhillon, Sargun</td>
+<td class="FW">N/A</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Diaz, David</td>
+<td class="FV">Fast Link Access (fla.net)</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Diaz, Johnny</td>
+<td class="FW">TELEFONICA GLOBAL SOLUTIONS</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Diego, Eddie</td>
+<td class="FV">ARIN</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Dimick, Kim</td>
+<td class="FW">Cisco Systems, Inc.</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Donelan, Sean</td>
+<td class="FV">US Government</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Donnelly, Ryan</td>
+<td class="FW">Verisign</td>
+<td class="FW">7342</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Dorco, Lorin</td>
+<td class="FV">Mox Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Doty, Curtis</td>
+<td class="FW">iParadigms / Turnitin</td>
+<td class="FW">46851</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Dougherty, Bill</td>
+<td class="FV">RagingWire Data Centers</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Dreisbach, Brad</td>
+<td class="FW">NTT America</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Dul, Andrew</td>
+<td class="FV">8 Continents Networks LLC</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Duncan, Brent</td>
+<td class="FW">NTT Communications</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Dunteman, Kurt</td>
+<td class="FV">Approved Networks, Inc.</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Dupree, Tyler</td>
+<td class="FW">Zayo</td>
+<td class="FW">6461</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Durrer, Dan</td>
+<td class="FV">No-IP / Vitalwerks</td>
+<td class="FV">14627</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Eaton, Andrew</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Eberle, Mark</td>
+<td class="FV">Black Lotus Communications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ebersman, Paul</td>
+<td class="FW">Comcast</td>
+<td class="FW">7922</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Ehnert, Erica</td>
+<td class="FV">Spectrum Networks</td>
+<td class="FV">11404</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ehnert, Scott</td>
+<td class="FW">Marchex / SIX</td>
+<td class="FW">40495</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Ellis, Daniel</td>
+<td class="FV">CloudHelix</td>
+<td class="FV">2906</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Elswick, Ryan</td>
+<td class="FW">Sunset Digital Communications</td>
+<td class="FW">26479</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Emmons, Paul</td>
+<td class="FV">Phoenix Internet Exchange</td>
+<td class="FV">5118</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ensminger, Greg</td>
+<td class="FW">BTI Systems</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Epperson, Kevin</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Eriksson, Martin</td>
+<td class="FW">Netnod</td>
+<td class="FW">8674</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Erkman, Ingrid</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ertel, Gregory</td>
+<td class="FW">Edison Carrier Solutions</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Esposito, Victor</td>
+<td class="FV">KPU Telecommunications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Estey, Mickey</td>
+<td class="FW">RT Specialty</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Eulitt, David</td>
+<td class="FV">TeleGeography</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Evans, Bob</td>
+<td class="FW">Fiber Internet Center LLC</td>
+<td class="FW">26803</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Evans, Jason</td>
+<td class="FV">Fastly</td>
+<td class="FV">54113</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Evans, Josh</td>
+<td class="FW">Netflix</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Evenson, Lachlan</td>
+<td class="FV">Lithium Technologies Inc.</td>
+<td class="FV">40402, 197584</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ewing, Brandon</td>
+<td class="FW">LayeredTech</td>
+<td class="FW">22576</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Fagan, Alan</td>
+<td class="FV"></td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Fahy, Mike</td>
+<td class="FW">XKL LLC</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Faria, Marcel</td>
+<td class="FV">Rede Nacional de Ensino e Pesquisa</td>
+<td class="FV">1916</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Farmer, David</td>
+<td class="FW">University of Minnesota</td>
+<td class="FW">57</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Farrell, Trent</td>
+<td class="FV">Riot Games</td>
+<td class="FV">6507</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Farrow, Antony</td>
+<td class="FW">Plexxi</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Faulkner, Brian</td>
+<td class="FV">N/A</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Feese-Strickland, Allison</td>
+<td class="FW">CyrusOne</td>
+<td class="FW">62</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Fehlen, Thomas</td>
+<td class="FV">Structured Comm Sys</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Feldman, Steve</td>
+<td class="FW">CBS Interactive</td>
+<td class="FW">6623</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Fernandez, Esther</td>
+<td class="FV">TELEFONICA INT. WHOLESALE SERVICES</td>
+<td class="FV">12956</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Fernes, Paul</td>
+<td class="FW">Pacific Crossing</td>
+<td class="FW">AS1419</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Ferreira, Marina</td>
+<td class="FV">Dimension Data</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Field, Brian</td>
+<td class="FW">Comcast</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Fields, Bryan</td>
+<td class="FV">ALU</td>
+<td class="FV">23456</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Filip, Ondrej</td>
+<td class="FW">CZ.NIC</td>
+<td class="FW">AS25192</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Filsfils, Clarence</td>
+<td class="FV">Cisco Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Filyurin, Yan</td>
+<td class="FW">ViaSat</td>
+<td class="FW">7155</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Fiola, Tim</td>
+<td class="FV">Cisco</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Fischer, Ben</td>
+<td class="FW">Arbor Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Fischetti, Paul</td>
+<td class="FV">Quicklight</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Fisher, Andrew</td>
+<td class="FW">Myriad Supply</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Fishler, Reid</td>
+<td class="FV">Hurricane Electric</td>
+<td class="FV">6939</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Fiumano, Michael</td>
+<td class="FW">Sprint</td>
+<td class="FW">1239, 3651, 10507</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Flach, Tobias</td>
+<td class="FV">University of Southern California</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Fleury, Jerome</td>
+<td class="FW">CloudFlare</td>
+<td class="FW">13335</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Fligel, Eric</td>
+<td class="FV">WOW! Internet, Cable and Phone</td>
+<td class="FV">12083</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Floresca, Lauri</td>
+<td class="FW">Woodruff-Sawyer & Co</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Forney, Susan</td>
+<td class="FV">Markley Group</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Foust, Brian</td>
+<td class="FW">NTT America</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Frakes, Jothan</td>
+<td class="FV">NamesCon.vegas</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Francis, Teri</td>
+<td class="FW">Equinix</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Free, Brian</td>
+<td class="FV">Adobe Systems</td>
+<td class="FV">15224</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Freedman, Avi</td>
+<td class="FW">CloudHelix</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Friant, David</td>
+<td class="FV">Windstream Communications</td>
+<td class="FV">7029</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Fried, Gabe</td>
+<td class="FW">Hilco Streambank</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Fritz, Jules</td>
+<td class="FV">NDCAC</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Fry, Jeffrey</td>
+<td class="FW">Dimension Data</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Fuentes, Yardiel</td>
+<td class="FV">Netgeeks-for-hire.com</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">FUJIMORI, HIROYOSHI</td>
+<td class="FW">Softbank Telecom America</td>
+<td class="FW">4725,17676</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">FUKUCHI, MICHIKAZU</td>
+<td class="FV">BBIX Inc.</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Funk, William</td>
+<td class="FW">Netflix</td>
+<td class="FW">2906</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gade, Sreedhar</td>
+<td class="FV">Microsoft</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gajam, Karthik</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Garrigus, James</td>
+<td class="FV">OSI Hardware</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gashinsky, Igor</td>
+<td class="FW">Yahoo!</td>
+<td class="FW">10310</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gaylord, Clark</td>
+<td class="FV">Virginia Tech</td>
+<td class="FV">1312</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gehringer, George</td>
+<td class="FW">XO Communications</td>
+<td class="FW">2828</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">George, Joshua</td>
+<td class="FV">Google, Inc.</td>
+<td class="FV">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Georges, Jeremy</td>
+<td class="FW">Arista Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Giannis, Xenophon</td>
+<td class="FV">Black Lotus Communications</td>
+<td class="FV">AS32421</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gibbard, Steve</td>
+<td class="FW">Tata Communications</td>
+<td class="FW">40009</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gicklhorn, Daniel</td>
+<td class="FV">Microsoft</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gilbertson, David</td>
+<td class="FW">Merit</td>
+<td class="FW">236</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gill, Vijay</td>
+<td class="FV">Google</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gillman, Blake</td>
+<td class="FW">IIX</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gilmore, Jezzibell</td>
+<td class="FV">GTT</td>
+<td class="FV">3257 and 4436</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gilmore, Patrick</td>
+<td class="FW">Markley Group</td>
+<td class="FW">26167</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gilreath, Jerry</td>
+<td class="FV">RagingWire Data Centers</td>
+<td class="FV">19893</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ginsberg, Steve</td>
+<td class="FW">Pandora</td>
+<td class="FW">40428</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gischer, Matt</td>
+<td class="FV">Skytap</td>
+<td class="FV">46160</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gitchell, Gilian</td>
+<td class="FW">Infinera</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Glen, Jim</td>
+<td class="FV">Sabey IGX Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Golding, Daniel</td>
+<td class="FW">Google, Inc.</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gonzalez, Ramon</td>
+<td class="FV">Network Information Center Mexico</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gopalan, Sudharshan</td>
+<td class="FW">TATA Communications America Inc</td>
+<td class="FW">6453</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gormley, Andrew</td>
+<td class="FV">XKL LLC</td>
+<td class="FV">1258</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Grabowski, Darren</td>
+<td class="FW">NTT America</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Graham, Tarrance</td>
+<td class="FV">CyrusOne</td>
+<td class="FV">62</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Grant, Ron</td>
+<td class="FW">Skyway West</td>
+<td class="FW">14007</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gray, Justin</td>
+<td class="FV">Softlayer Technologies</td>
+<td class="FV">36351</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Graziano, Jack</td>
+<td class="FW">Blue Coat Systems Inc</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Green, Ben</td>
+<td class="FV">CoreSite</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Green, Kelly</td>
+<td class="FW">XKL, LLC</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Green, Leah</td>
+<td class="FV">Amazon</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Greene, Dylan</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Greene, Mike</td>
+<td class="FV">Rock Island Technology Solutions</td>
+<td class="FV">19518</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gregory, Eric</td>
+<td class="FW">University of Maryland</td>
+<td class="FW">27</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gregory, Liberty</td>
+<td class="FV">GDT</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Griliches, Eve</td>
+<td class="FW">BTI Systems</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Grindstaff, Justin</td>
+<td class="FV">NTT Communications</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Griswold, Matt</td>
+<td class="FW">20c</td>
+<td class="FW">22957</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Groesbeck, Travis</td>
+<td class="FV">Adobe Systems</td>
+<td class="FV">15224</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Guardino, John</td>
+<td class="FW">Level4 Hardware.com</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Guillen, Robert</td>
+<td class="FV">Apple</td>
+<td class="FV">714</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Guilliams, Larry</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gulati, Sunny</td>
+<td class="FV">Cisco</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Gupta, Abhijit</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Gupta, Rohit</td>
+<td class="FV">Apple</td>
+<td class="FV">714</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Guy, Nick</td>
+<td class="FW">Noel Communications</td>
+<td class="FW">26935</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Guyton, Thomas</td>
+<td class="FV">Vodafone</td>
+<td class="FV">1273</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Haar, Joe</td>
+<td class="FW">Vantage Data Centers</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hain, Tony</td>
+<td class="FV">Hain Global Consulting, Inc.</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hall, Eric</td>
+<td class="FW">MOX Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Haller, Seth</td>
+<td class="FV">EPS Global</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hammoudi, Zaid</td>
+<td class="FW">Facebook</td>
+<td class="FW">32934</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hanke, Darrin</td>
+<td class="FV">BTI Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hankins, Greg</td>
+<td class="FW">Alcatel-Lucent</td>
+<td class="FW">38016</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hanks, Doug</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hannigan, Martin</td>
+<td class="FW">Akamai Technologies, Inc.</td>
+<td class="FW">20940</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hansen, David</td>
+<td class="FV">NTT America</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Happ, Kevin</td>
+<td class="FW">Time Warner Cable</td>
+<td class="FW">7843</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hargrave, Will</td>
+<td class="FV">LONAP Ltd</td>
+<td class="FV">8330 35425</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Harland, Nicholas</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Harrison, Paul</td>
+<td class="FV">Transmode Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Harrison, Russell</td>
+<td class="FW">SunGard Availability Services</td>
+<td class="FW">7381</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hartman, Steve</td>
+<td class="FV">Unite Private Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Haubold, Bill</td>
+<td class="FW">Pacnet</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hawkins, Mike</td>
+<td class="FV">Ciena</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hay, Justin</td>
+<td class="FW">Blackfoot Communications</td>
+<td class="FW">21947</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Head, Jordan</td>
+<td class="FV">Microsoft Corporation</td>
+<td class="FV">8070, 8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hedges, Ben</td>
+<td class="FW">London Internet Exchange</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Heiden, Clint</td>
+<td class="FV">EdgeConneX</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Heller, Phillip</td>
+<td class="FW"></td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hellewell, Ted</td>
+<td class="FV">DuPont Fabros Technology</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Helmeste, Michael</td>
+<td class="FW">EasyStreet Online Services</td>
+<td class="FW">2044, 6423</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hemphill, Michael</td>
+<td class="FV">Cologix</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Henkart, Andrew</td>
+<td class="FW">DeepField</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Herzog, Ken</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hess, Joe</td>
+<td class="FW"></td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hicks, Sean</td>
+<td class="FV">GDT</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hines, Deon</td>
+<td class="FW">Wolfe</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hinton, Eric</td>
+<td class="FV">TripAdvisor</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hochhalter, David</td>
+<td class="FW">Mox Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hocky, David</td>
+<td class="FV">Comcast</td>
+<td class="FV">7922</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hoeft, John</td>
+<td class="FW">RagingWire Data Centers</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hollinger, Ryan</td>
+<td class="FV">T-Mobile</td>
+<td class="FV">21928</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hollyman, Mike</td>
+<td class="FW">DeepField Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Holmes, Mike</td>
+<td class="FV">Finisar</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Holzboog, Carl</td>
+<td class="FW">Spectrum Networks</td>
+<td class="FW">11404</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hooper, Roy</td>
+<td class="FV">Rightside</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hoose, Peter</td>
+<td class="FW">Facebook</td>
+<td class="FW">32934</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Horton, Thomas</td>
+<td class="FV">Approved Networks, Inc.</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hosoda, Yoshiteru</td>
+<td class="FW">NTT Communications</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Houston, Eric</td>
+<td class="FV">Sprint</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Houx, Jason</td>
+<td class="FW">Cisco Systems</td>
+<td class="FW">109</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Howard, Ben</td>
+<td class="FV">CyrusOne</td>
+<td class="FV">62</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Howser, Christie</td>
+<td class="FW">NTT America</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hsiao, Shawn</td>
+<td class="FV">TripAdvisor</td>
+<td class="FV">32286</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hsu, Kobi</td>
+<td class="FW">Groupon</td>
+<td class="FW">12269</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hu, Lou</td>
+<td class="FV">KPU Telecommunications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hu, Timothy</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Huberman, David</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hughes, Aaron</td>
+<td class="FW">6connect / ARIN BoT</td>
+<td class="FW">8038</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hughes, Mike</td>
+<td class="FV">Ethernorth Consultancy // UKNOF</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hughes, Stacy</td>
+<td class="FW">Black Lotus</td>
+<td class="FW">32421</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hughs, William</td>
+<td class="FV">Telstra Global</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Hunter, Sean</td>
+<td class="FW">Illinois Wesleyan University</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Huque, Shumon</td>
+<td class="FV">Verisign Labs</td>
+<td class="FV">7342</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Huston, Geoff</td>
+<td class="FW">APNIC</td>
+<td class="FW">4608</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Hynes, Liam</td>
+<td class="FV">Dyn Inc</td>
+<td class="FV">33517</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Iekel-Johnson, Scott</td>
+<td class="FW">Arbor Networks</td>
+<td class="FW">20052</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Ip, Frank</td>
+<td class="FV">Black Lotus Communications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ivanisky, Sebastian</td>
+<td class="FW">VTX1</td>
+<td class="FW">17293</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Ivatury, Malini</td>
+<td class="FV">NTT Communications</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Jacobsen, Ole</td>
+<td class="FW">The Internet Protocol Journal</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Jarlskov, Lasse</td>
+<td class="FV">TDC</td>
+<td class="FV">3292</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Jasinska, Elisa</td>
+<td class="FW">Netflix</td>
+<td class="FW">2906</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Jayaraman Vijayalakshmi, Yeshwenth</td>
+<td class="FV">Microsoft</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Jemes, Brian</td>
+<td class="FW">University of Idaho</td>
+<td class="FW">11808</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Jessup, Troy</td>
+<td class="FV">Utah Education Network</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Jeye, Michael</td>
+<td class="FW">Huawei</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Jimmerson, Richard</td>
+<td class="FV">ARIN</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Johansson, Stefan</td>
+<td class="FW">Blue Coat</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">John, Matthew</td>
+<td class="FV">Google, Inc.</td>
+<td class="FV">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Johnson, Brian</td>
+<td class="FW">DRN</td>
+<td class="FW">32809</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Johnson, Leslie</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Johnson, Owen</td>
+<td class="FW">Blue coat</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Johnson, Ron</td>
+<td class="FV">Microsoft Corp</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Jones, Cameron</td>
+<td class="FW">Sabey IGX</td>
+<td class="FW">55264</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Jones, Douglas</td>
+<td class="FV">Comcast Cable</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Jones, Scott</td>
+<td class="FW">NTT America</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Joode, Alex</td>
+<td class="FV">LeaseWeb</td>
+<td class="FV">16265</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Joseph, Mike</td>
+<td class="FW">Google Fiber Inc.</td>
+<td class="FW">16591</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Jourdan, Cyrille</td>
+<td class="FV">Orange / France Telecom</td>
+<td class="FV">5511</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Junkins, Douglas</td>
+<td class="FW">NTT America</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kaczmarek, Michael</td>
+<td class="FV">Verisign, Inc.</td>
+<td class="FV">7342</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kaeo, Merike</td>
+<td class="FW">IID</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kahler, Jeff</td>
+<td class="FV">NTT America</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kahn, Zaid</td>
+<td class="FW">Linkedin</td>
+<td class="FW">14413</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kamichoff, Mark</td>
+<td class="FV">Amazon Web Services</td>
+<td class="FV">16509, 14618, 38895</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kanchanahalli, Vijay</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kang, Thomas</td>
+<td class="FV">ACE</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kangas, Nicole</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Karelis, Anna</td>
+<td class="FV">RagingWire Data Centers</td>
+<td class="FV">19893</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Karir, Manish</td>
+<td class="FW">DHS/S&T/CSD</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kartsioukas, Nick</td>
+<td class="FV">Amazon</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Katz-Bassett, Ethan</td>
+<td class="FW">University of Southern California</td>
+<td class="FW">47065</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">KAUFMAN, DARIN</td>
+<td class="FV">SPRINT CORPORATION</td>
+<td class="FV">1239, 3651, 10507, 16586</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kaur, Maneet</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kawamura, Seiichi</td>
+<td class="FV">BIGLOBE</td>
+<td class="FV">2518</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kazmierczak, Art</td>
+<td class="FW">TeliaSonera International Carrier</td>
+<td class="FW">1299</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Keene, Bertram</td>
+<td class="FV">XO Communications</td>
+<td class="FV">2828</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kelly, Chris</td>
+<td class="FW">Hibernia Networks</td>
+<td class="FW">5580</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kemp, John</td>
+<td class="FV">RouteViews</td>
+<td class="FV">6447</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kennedy, L Sean</td>
+<td class="FW">XO Communications</td>
+<td class="FW">2828</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Khalili, Arman</td>
+<td class="FV">Black Lotus</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Khan, Amar</td>
+<td class="FW">Facebook</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Khan, MOhammed</td>
+<td class="FV">Juniper Networks Inc.</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Khezri, Manouch</td>
+<td class="FW">Compass-EOS</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Khuon, Jake</td>
+<td class="FV">Symantec</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kim, Brian</td>
+<td class="FW">KINX</td>
+<td class="FW">9957</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kim, Dorian</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kim, Hal</td>
+<td class="FW">Comcast Corporation</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">King, Gary</td>
+<td class="FV">BTI Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">King, Thomas</td>
+<td class="FW">Plexxi, Inc.</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kirkpatrick, Ben</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kiser, Ken</td>
+<td class="FW">Arista Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kitajima, Naoki</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kitamura, Yasuichi</td>
+<td class="FW">APAN</td>
+<td class="FW">7660</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Klink, Aaron</td>
+<td class="FV">Netflix</td>
+<td class="FV">2906</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kloots, Jac</td>
+<td class="FW">SURFnet</td>
+<td class="FW">1103</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Klopfenstein, Jeff</td>
+<td class="FV">Amazon</td>
+<td class="FV">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Koch, Alexander</td>
+<td class="FW">TeliaSonera</td>
+<td class="FW">1299</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Koch, Christian</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Koenders, Jason</td>
+<td class="FW">INTEGRA</td>
+<td class="FW">7385</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kohler, Michele</td>
+<td class="FV">MOX Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kosters, Mark</td>
+<td class="FW">ARIN</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kozak, Voitek</td>
+<td class="FV">Comcast</td>
+<td class="FV">7922</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Krall, Joe</td>
+<td class="FW">Telstra</td>
+<td class="FW">1221, 4637</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Krishnaswamy, Umesh</td>
+<td class="FV">Microsoft Corp</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Krone, Winston</td>
+<td class="FW">Kivu</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kuenzler, Fredy</td>
+<td class="FV">Init7</td>
+<td class="FV">13030</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kula, Russ</td>
+<td class="FW">NetRiver INT LLC</td>
+<td class="FW">19528</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kumar, Praveen</td>
+<td class="FV">Scild Innovations LLC</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Kumari, Warren</td>
+<td class="FW">Google</td>
+<td class="FW">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Kwan, Ronald</td>
+<td class="FV">PCCW</td>
+<td class="FV">3491</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">LaBerge, Tim</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lackerdas, Chris</td>
+<td class="FV">Bank of America</td>
+<td class="FV">10794</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lacoff, Steve</td>
+<td class="FW">Comcast</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Ladha, Amyn</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lamb, Chad</td>
+<td class="FW">XKL</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lamb, Chad</td>
+<td class="FV">XKL</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lamprianidis, Aris</td>
+<td class="FW">AMS-IX</td>
+<td class="FW">1200</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lang, Daniel</td>
+<td class="FV">T-Mobile</td>
+<td class="FV">21928</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">LaPerriere, Sylvie</td>
+<td class="FW">Google</td>
+<td class="FW">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lawson-Shanks, Phill</td>
+<td class="FV">EdgeConnex</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lawton, William</td>
+<td class="FW">Twitch Interactive, Inc.</td>
+<td class="FW">46489</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Layman, Larry</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lee, Louie</td>
+<td class="FW">Equinix, Inc.</td>
+<td class="FW">14609</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lee, Mike</td>
+<td class="FV">Tail-f Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lee, Philiph</td>
+<td class="FW">NCIA</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lee, Simon</td>
+<td class="FV">Sapience</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Leeson, Jerome</td>
+<td class="FW">Akamai Technologies, Inc</td>
+<td class="FW">32787</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Leibrand, Scott</td>
+<td class="FV">Twitter</td>
+<td class="FV">13414</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Leonard, Joey</td>
+<td class="FW">OSI Hardware</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Leslie, Moses</td>
+<td class="FV">AccretiveTG</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Levesque, Jean-Francois</td>
+<td class="FW">Fibrenoire</td>
+<td class="FW">22652</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Levy, Scott</td>
+<td class="FV">Lightower Fiber Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lewis, Bronwyn</td>
+<td class="FW">Packet Clearing House</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lewis, Jon</td>
+<td class="FV">Highwinds</td>
+<td class="FV">12989</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lewkiewicz, Ron</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Li, Han</td>
+<td class="FV">NTT Communications</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lim, Meng Koon</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lindqvist, Kurt Erik</td>
+<td class="FV">Netnod Internet Exchange</td>
+<td class="FV">8674</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Linnenkamp, Ted</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Little, Taryn</td>
+<td class="FV">Amazon</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Litvanyi, Caren</td>
+<td class="FW">Internet2/TransitRail</td>
+<td class="FW">11164</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Litzinger, Andy</td>
+<td class="FV">thePlatform for Media</td>
+<td class="FV">14042</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Liu, William</td>
+<td class="FW">China Unicom Americas</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Livingston, Drake</td>
+<td class="FV">Spread Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">LoBosco, Michael</td>
+<td class="FW">Cyan</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Loftis, Michael</td>
+<td class="FV">TCNet Systems</td>
+<td class="FV">13331</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Loher, Darren</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Long, Michael</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Long, Robert</td>
+<td class="FW">Amazon.com</td>
+<td class="FW">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lotz, Richard</td>
+<td class="FV">Amazon Web Services</td>
+<td class="FV">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Loveland, Brian</td>
+<td class="FW">Aereo, Inc.</td>
+<td class="FW">14253</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Low, Anthony</td>
+<td class="FV">XKL, LLC</td>
+<td class="FV">1258</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lowry, William</td>
+<td class="FW">Radware</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lucas, Tyler</td>
+<td class="FV">Amazon Web Services</td>
+<td class="FV">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lucente, Paolo</td>
+<td class="FW">pmacct</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lukas, Frank</td>
+<td class="FV">Fidelity Investments</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lukasiewicz, Ric</td>
+<td class="FW">Avaya</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lydick, Chris</td>
+<td class="FV">Sprint</td>
+<td class="FV">1239, 3651, 10507, 16586</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lynch, Ryan</td>
+<td class="FW">Datalink</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Lyon, Todd</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Lyons, Shawn</td>
+<td class="FW">Utah Education Network</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">MacCheyne, Barry</td>
+<td class="FV">Vodafone</td>
+<td class="FV">1273</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Maddux, Denver</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Magana, Jose R</td>
+<td class="FV">TeliaSonera Int Carrier</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Maghbouleh, Arman</td>
+<td class="FW">Cisco Systems</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Magrassi, Mauro</td>
+<td class="FV">Milano Internet Exchange</td>
+<td class="FV">16004</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">MaheshChandra, Siddartha (Sid)</td>
+<td class="FW">AT&T Mobility</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mahvi, Matt</td>
+<td class="FV">Staminus Communications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Mainer, Mike</td>
+<td class="FW">Verisign</td>
+<td class="FW">7342</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Malayter, Christopher</td>
+<td class="FV">Coresite</td>
+<td class="FV">2734/19996/32184</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Mallette, Edwin</td>
+<td class="FW">Bright House Networks</td>
+<td class="FW">33363</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Malli, Jeremy</td>
+<td class="FV">Mammoth Networks</td>
+<td class="FV">10835</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Malone, Chris</td>
+<td class="FW">Lightower</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Malpani, Shilp</td>
+<td class="FV">Amazon Web Services</td>
+<td class="FV">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Manca, Misako</td>
+<td class="FW">SoftLayer</td>
+<td class="FW">36351</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Manning, William</td>
+<td class="FV"></td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Mansfield, Scott</td>
+<td class="FW">Ericsson</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Manzione, William</td>
+<td class="FV">NTT Europe</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Marck, Shawn</td>
+<td class="FW">Black Lotus Communications</td>
+<td class="FW">32421</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Marcy, Matthew</td>
+<td class="FV">Telx</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Marecki, Piotr</td>
+<td class="FW">Google Inc.</td>
+<td class="FW">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mares, Talia</td>
+<td class="FV">Latin American Nautilus</td>
+<td class="FV">6762</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Marino, Carrie</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Marsalek, Tomas</td>
+<td class="FV">EURid vzw/asbl</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Marsolais, David</td>
+<td class="FW">SBK Telecom</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Martin, Christian</td>
+<td class="FV">Cisco</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Martin II, James</td>
+<td class="FW">Internet Systems Consortium</td>
+<td class="FW">1280, 3557</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Marwaha, Bhanu</td>
+<td class="FV">Guavus</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Materan, Tabata</td>
+<td class="FW">Telefonica</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mathur, Addy</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Matte, Philip</td>
+<td class="FW">Spread Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mauch, Jared</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Maunier, Pierre-Yves</td>
+<td class="FW">Dailymotion</td>
+<td class="FW">41690</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Maxwell, Jeffrey</td>
+<td class="FV">LSN</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ma`ruf, Khaldun</td>
+<td class="FW">NTT Communications</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">McCallion, Keith</td>
+<td class="FV">Google</td>
+<td class="FV">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">McCotter, Dean</td>
+<td class="FW">Telstra Global</td>
+<td class="FW">1221; 4637</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">McCredie, Miles</td>
+<td class="FV"></td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">McCroskey, Erik</td>
+<td class="FW">University of California, Berkeley</td>
+<td class="FW">25</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">McDougall, Bruce</td>
+<td class="FV">Cisco Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">McGann, Steve</td>
+<td class="FW">IntegraOptics</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">McGaugh, Dave</td>
+<td class="FV">Amazon Web Services</td>
+<td class="FV">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Mcguire, John</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">McIntosh, Colin</td>
+<td class="FV">SIG</td>
+<td class="FV">19661</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">McIntyre, Ken</td>
+<td class="FW">Integra Telecom</td>
+<td class="FW">7385</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">McKay, Fearghas</td>
+<td class="FV">FlexOptix GmbH</td>
+<td class="FV">199121</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">McMurtry, Sanford</td>
+<td class="FW">Akamai Technologies</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">McNemar, David</td>
+<td class="FV">Netscout Systems Inc.</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Mcpherson, Ian</td>
+<td class="FW">Guavus</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Meeks, Allen</td>
+<td class="FV">www.spectrumnet.us</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Mehta, Vikas</td>
+<td class="FW">AOL</td>
+<td class="FW">1668</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Meier, Brett</td>
+<td class="FV">Sprint</td>
+<td class="FV">1239, 16585, 3651, 10507</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Meiselman, Ethan</td>
+<td class="FW">Time Warner Cable</td>
+<td class="FW">7843</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mendoza, Adan</td>
+<td class="FV">VTX1</td>
+<td class="FV">17293</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Menser, Charles</td>
+<td class="FW">WOW!</td>
+<td class="FW">12083</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Messenich, Paul</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Messina, Jon</td>
+<td class="FW">IntegraOptics</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Messina, Jonathan</td>
+<td class="FV">Integra Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Meuse, Stephen</td>
+<td class="FW">Comcast</td>
+<td class="FW">7922</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Meyer, David</td>
+<td class="FV">Brocade/UO</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Miao, Leon</td>
+<td class="FW">intuit</td>
+<td class="FW">14436, 11641</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Michaels, Robert</td>
+<td class="FV">RKM Communications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Mickovic, Dragan</td>
+<td class="FW">NTT Communications</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Middlebrook, Malachi</td>
+<td class="FV">Riot Games</td>
+<td class="FV">6507</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Miles, Scott</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Miller, Erik</td>
+<td class="FV">Tata Communications</td>
+<td class="FV">AS6453</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Miller, Ilissa</td>
+<td class="FW">IMiller Public Relations/Staff</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Millisor, Aaron</td>
+<td class="FV">Cisco systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Milman, Noah</td>
+<td class="FW">MediaMath</td>
+<td class="FW">30419</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mir, Showkat</td>
+<td class="FV">Guavus</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">MIRANDA, ROBERT</td>
+<td class="FW">Telefonica Global Solutions -Wholesale Business Unit</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Misicka, Jason</td>
+<td class="FV">MOX Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Misiewicz , Tomasz</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mitchell, Jon</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Mitchell, Stephen</td>
+<td class="FW">BTI Systems</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mitloff, Richard</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Miyamoto, Satoshi</td>
+<td class="FW">Nintendo</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mizuguchi, Takanori</td>
+<td class="FV">NTT communications corp.</td>
+<td class="FV">38639</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Moberg, Carl</td>
+<td class="FW">Tail-f Systems</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Modica, Richard</td>
+<td class="FV">GTT</td>
+<td class="FV">3257</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Montgomery, Doug</td>
+<td class="FW">NIST</td>
+<td class="FW">49</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Moreno, Rommel</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Morgan, Bruce</td>
+<td class="FW">AARNet</td>
+<td class="FW">7575</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Morris, Robby</td>
+<td class="FV">Disney Interactive</td>
+<td class="FV">62787</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Morris, Shawn</td>
+<td class="FW">Shawn Morris</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Morrissey, Dave</td>
+<td class="FV">Ciena</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Mortimer, Sam</td>
+<td class="FW">Amazon.com</td>
+<td class="FW">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mouat, Nikos</td>
+<td class="FV">TierPoint</td>
+<td class="FV">11274, 30340</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Moyle-Croft, Matthew</td>
+<td class="FW">Amazon Web Services</td>
+<td class="FW">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Muehlen, Ralf</td>
+<td class="FV">Internet Archive</td>
+<td class="FV">7941</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Muggli, Jim</td>
+<td class="FW">Network Utility Force</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Mulkey, Joel</td>
+<td class="FV">Freewire Broadband</td>
+<td class="FV">36687</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Muller, Erik</td>
+<td class="FW">Network Utility Force</td>
+<td class="FW">-1</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Munro, Bruce</td>
+<td class="FV">WindWave Communications</td>
+<td class="FV">36222</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Murphy, Sandra</td>
+<td class="FW">PARSONS, Inc.</td>
+<td class="FW">773 546</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Murray, Chris</td>
+<td class="FV">OpenDNS</td>
+<td class="FV">36692</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Nagarajan, Gaya</td>
+<td class="FW">Facebook</td>
+<td class="FW">32934</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Nagpal, Vinay</td>
+<td class="FV">DuPont Fabros Technology</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Nanduri, Mohan</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Natale, Stephen</td>
+<td class="FV">NTT America</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Neals, Randy</td>
+<td class="FW">Amazon Web Services</td>
+<td class="FW">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Nevolo, Darren</td>
+<td class="FV">OSI Hardware</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ngan, Milton</td>
+<td class="FW">Valve Corporation</td>
+<td class="FW">32590</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Nicols, Tim</td>
+<td class="FV">RagingWire Data Centers</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Nielsen, Christian</td>
+<td class="FW">Twitch Interactive</td>
+<td class="FW">6500</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Nissen, Jeff</td>
+<td class="FV">Unite Private Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Nixon, Marcellus</td>
+<td class="FW">Level 3</td>
+<td class="FW">3356</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Nkposong, Edet</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Nobile, Leslie</td>
+<td class="FW">ARIN</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Norsby, David</td>
+<td class="FV">Microsoft</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Norton, William</td>
+<td class="FW">IIX</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Norum, Bengt-Erik</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Nunez, Hector</td>
+<td class="FW">San Diego Sheriff Department</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Nystrom, Tor</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">O'Brien, Pamela</td>
+<td class="FW">Akamai Technologies, Inc</td>
+<td class="FW">20940</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">O'Neill, Keith</td>
+<td class="FV">Clearleap</td>
+<td class="FV">46199</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">OConnor, Mannix</td>
+<td class="FW">MRV</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Okamoto, Kyle</td>
+<td class="FV">Verizon Digital Media Services</td>
+<td class="FV">15133, 701</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Olson, Jim</td>
+<td class="FW">Tata Communications</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Olson, Tyler</td>
+<td class="FV">ADVA Optical Networking</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Olson, Webster</td>
+<td class="FW">Spectrum Networks</td>
+<td class="FW">11404</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Onoda, Naotake</td>
+<td class="FV">BBIX, Inc.</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Oosting, Eric</td>
+<td class="FW">Network Utility Force/Staff</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Ornath, Reem</td>
+<td class="FV">PCCW Global</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ortiz, Rafael</td>
+<td class="FW">Amazon Web Services</td>
+<td class="FW">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Osborn, Jeff</td>
+<td class="FV">ISC</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Osburn, Tim</td>
+<td class="FW">Threshold Communications, Inc.</td>
+<td class="FW">7752</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Oswalt, Matthew</td>
+<td class="FV">Keeping It Classless</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ottosson, Jimmy</td>
+<td class="FW">Facebook</td>
+<td class="FW">32934</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Owens, Nathan</td>
+<td class="FV">Comcast</td>
+<td class="FV">7922</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ozog, Francois-Frederic</td>
+<td class="FW">6WIND</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Pack, Kevin</td>
+<td class="FV">NTT Communications</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Painter, Ryan</td>
+<td class="FW">Infinera</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Panagos, Jamie</td>
+<td class="FV">TWC</td>
+<td class="FV">7843</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Pandrangi, Ramakant</td>
+<td class="FW">Verisign</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Parker, Gregori</td>
+<td class="FV">Twitter</td>
+<td class="FV">13414</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Parker, Mandana</td>
+<td class="FW">Alcatel-Lucent</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Parker, Timothy</td>
+<td class="FV">GoDaddy.com</td>
+<td class="FV">26496</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Parra, Eddie</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Parris, Barry</td>
+<td class="FV">Time Warner Cable</td>
+<td class="FV">7843</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Parsons, Jason</td>
+<td class="FW">Saffron Solutions, Inc</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Pascucci, Ivo</td>
+<td class="FV">TSIC</td>
+<td class="FV">1299</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Pastrama, Alin</td>
+<td class="FW">NORDUnet A/S</td>
+<td class="FW">2603</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Patterson, Scott</td>
+<td class="FV">Arbor Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Paussa, James</td>
+<td class="FW">Facebook</td>
+<td class="FW">32934</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Pazahanick, Jeff</td>
+<td class="FV">Datalink</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Pedano, Joseph</td>
+<td class="FW">EvolveIP, LLC.</td>
+<td class="FW">25843</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Pennington, Michael</td>
+<td class="FV">Connecticut Education Network</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Perez, Joseph</td>
+<td class="FW">WOW! Internet, Cable and Phone</td>
+<td class="FW">16724 & 12083</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Petach, Matthew</td>
+<td class="FV">Yahoo!</td>
+<td class="FV">10310</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Peter, Simon</td>
+<td class="FW">University of Washington</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Peters, Steve</td>
+<td class="FV">Facebook</td>
+<td class="FV">32934</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Peterson, Andy</td>
+<td class="FW">NTT America / CSUF</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Peterson, Matt</td>
+<td class="FV">Cumulus Networks / SFMIX</td>
+<td class="FV">62491</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Petrie, Richard</td>
+<td class="FW">London Internet Exchange</td>
+<td class="FW">5459</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Philips, Ivan</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Philips, Robert</td>
+<td class="FW">NTT</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Pierantozzi, Craig</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Piercy, Duane</td>
+<td class="FW">Infinera</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Pontrelli, Dan</td>
+<td class="FV">Equinix</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Poretsky, Scott</td>
+<td class="FW">Allot Communications</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Porter, James</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Porter, Michael</td>
+<td class="FW">DeepField</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Pospichal, Zbynek</td>
+<td class="FV">Dial Telecom</td>
+<td class="FV">29208</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Potter, Amy</td>
+<td class="FW">Hilco Streambank</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Pounsett, Matthew</td>
+<td class="FV">Rightside Group</td>
+<td class="FV">12041</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Prakash, Bhanu</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Provo, Joe</td>
+<td class="FV">Google</td>
+<td class="FV">19425</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Provo, Ren</td>
+<td class="FW">Apple</td>
+<td class="FW">714</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Punt, Edwin</td>
+<td class="FV">NL-ix</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Punzalan, Julius</td>
+<td class="FW">Rogers </td>
+<td class="FW">812</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Pusateri, Tom</td>
+<td class="FV">!j</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Qiu, Ray</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Qui Nguyen, Andrew</td>
+<td class="FV">Sandler Partners</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Quintana, Luis</td>
+<td class="FW">CyrusOne</td>
+<td class="FW">62</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Qvist, J rgen</td>
+<td class="FV">NORDUnet</td>
+<td class="FV">2603</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Rahrig, Kurt</td>
+<td class="FW">MRV Communications</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rais, Vincent</td>
+<td class="FV">EvoSwitch</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Raymo, Brad</td>
+<td class="FW">Microsoft</td>
+<td class="FW">22822</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rechthien, Kay</td>
+<td class="FV">ECIX</td>
+<td class="FV">9033</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">REDDI, SATYA</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rehoie, Fawad</td>
+<td class="FV">Twitter</td>
+<td class="FV">13414</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Reid, Chad</td>
+<td class="FW">Apollo Group</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Reimer, Jared</td>
+<td class="FV">Cascadeo Corporation</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Reimers, Michael</td>
+<td class="FW">NTT Advanced Technology Corporation</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rhoades, Corey</td>
+<td class="FV">Cisco</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Richards, Greg</td>
+<td class="FW">TeliaSonera International Carrier</td>
+<td class="FW">1299</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Richards, Kenneth</td>
+<td class="FV">Amazon.com</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Riedesel, Lynne</td>
+<td class="FW">Interoute Communications</td>
+<td class="FW">8928</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Ringwelski, Jeff</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Risk, Vicky</td>
+<td class="FW">ISC</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Roa, Marlon</td>
+<td class="FV">Transmode</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Robare, Brandon</td>
+<td class="FW">Wave Broadband</td>
+<td class="FW">32107</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Robins, Andrew</td>
+<td class="FV">Integra</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Robinson, Michael</td>
+<td class="FW">WCI</td>
+<td class="FW">32016</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rodrigues, Marco</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Rogan, Brian</td>
+<td class="FW">Google</td>
+<td class="FW">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rogers, Chris</td>
+<td class="FV">Inerail</td>
+<td class="FV">33031</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Rohan, Daniel</td>
+<td class="FW">University of Washington</td>
+<td class="FW">10430 & 73</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Romanya, Roman</td>
+<td class="FV">Squarespace Inc.</td>
+<td class="FV">53831</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Rosas, Luiz</td>
+<td class="FW">Wave/Astound Broadband</td>
+<td class="FW">22759</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rosenberry, Eric</td>
+<td class="FV">Iovation, Inc.</td>
+<td class="FV">15301</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Rosenthal, Phil</td>
+<td class="FW">ISPrime, LLC</td>
+<td class="FW">23393</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rosevear, Carl</td>
+<td class="FV">Skytap, Inc.</td>
+<td class="FV">46160</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ross, Brandon</td>
+<td class="FW">Network Utility Force</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rossabi, Anthony</td>
+<td class="FV">Telx</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Rotenstein , Sergiu </td>
+<td class="FW">MRV Communications </td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rubin, Jonathan </td>
+<td class="FV">PCCW Global</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Rucinski, Aaron</td>
+<td class="FW">IMPR</td>
+<td class="FW">IMPR</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">RYAN, BRIAN</td>
+<td class="FV">Edison Carrier Solutions</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ryanczak, Matt</td>
+<td class="FW">Amazon Web Services</td>
+<td class="FW">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Rychecky, Todd</td>
+<td class="FV">Opengear</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Saedifaez, Alireza</td>
+<td class="FW">Real networks</td>
+<td class="FW">11922</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sage, John</td>
+<td class="FV">Rightside.co</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sahala, Joshua</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Saine, Jonathon</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sakovich, Sonia</td>
+<td class="FW">Sprint</td>
+<td class="FW">1239</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Salmons, Robert</td>
+<td class="FV">BTI Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sandhu, Gagan</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Saraff, Avinash</td>
+<td class="FV">Amazon</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Scalzo, Frank</td>
+<td class="FW">Verisign</td>
+<td class="FW">7342</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Schaefers, Nicholas</td>
+<td class="FV">Amazon</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Schecter, Steven</td>
+<td class="FW">Akamai Technologies, Inc.</td>
+<td class="FW">20940</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Scher, Eli</td>
+<td class="FV">Continuum Data Centers</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Scherzinger, John</td>
+<td class="FW">ADVA Optical Networking</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Schleider, Robert</td>
+<td class="FV">Myriad Supply</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Schmidt, David</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Schmidt, Nicholas</td>
+<td class="FV">MediaMath</td>
+<td class="FV">30419</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Schoenmaker, Peter</td>
+<td class="FW">Cisco</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Scholl, Tom</td>
+<td class="FV">Amazon Web Services</td>
+<td class="FV">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Schomp, Kyle</td>
+<td class="FW">Case Western Reserve University</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Schultz, Paul</td>
+<td class="FV">Gaikai / PlayStation Now</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Schwartz, David</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sclafani, Pete</td>
+<td class="FV">6connect, Inc.</td>
+<td class="FV">8038</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Scott, Michael</td>
+<td class="FW">Wolfe</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Seabrook-Rocha, Justin</td>
+<td class="FV">RagingWire Data Centers</td>
+<td class="FV">19893</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sejas, Raul</td>
+<td class="FW">Telefonica</td>
+<td class="FW">12956</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Selvage, Joseph</td>
+<td class="FV">Mediacom</td>
+<td class="FV">30036</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Setser, Douglas</td>
+<td class="FW">Microsoft, Inc.</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Shafer, Phil</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Shah, Manny</td>
+<td class="FW">RCN</td>
+<td class="FW">6079</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Shah, Rakesh</td>
+<td class="FV">Arbor Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Shaheen, Tim</td>
+<td class="FW">EdgeConnex</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sharma, Abhishek</td>
+<td class="FV">Microsoft</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Shaw, Steve</td>
+<td class="FW">Facebook</td>
+<td class="FW">32934</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sherman, Erik</td>
+<td class="FV">Orange</td>
+<td class="FV">5511</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Shimaya, Akira</td>
+<td class="FW">NTT Advanced Technology</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Shipman, Jonathan</td>
+<td class="FV">Twitch / Justin.tv</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Shuleski, Peter</td>
+<td class="FW">T-Mobile US</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sibersky, Nick</td>
+<td class="FV">OSI Hardware</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Siegel, David</td>
+<td class="FW">Level 3</td>
+<td class="FW">3356</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Siemsen, Pete</td>
+<td class="FV">NCAR</td>
+<td class="FV">14041</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sill, Dave</td>
+<td class="FW">Socket Telecom</td>
+<td class="FW">4581</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Simon, Sunu</td>
+<td class="FV">Alcatel-Lucent</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sinatra, Michael</td>
+<td class="FW">Energy Sciences Network</td>
+<td class="FW">293</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Singh, Diptanshu</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sinn, David</td>
+<td class="FW">Cumulus Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Slabakov, Nick</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Slabbert, Hugo</td>
+<td class="FW">Stargate Connections Inc.</td>
+<td class="FW">19171</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Small, Duncan</td>
+<td class="FV">GTT</td>
+<td class="FV">3257</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Smith, Andrew</td>
+<td class="FW">Bank of America</td>
+<td class="FW">10794</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">SMITH, CASEY</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Smith, Katrina</td>
+<td class="FW">LINX</td>
+<td class="FW">5459, 21919</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Smith, Kayla</td>
+<td class="FV">Facebook</td>
+<td class="FV">32934</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Smith, Michael</td>
+<td class="FW">Netflix</td>
+<td class="FW">15133</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Smith, Robert</td>
+<td class="FV">WANSecurity, Inc.</td>
+<td class="FV">1421 55191 31985 19846 10500</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Snook, Gabriel</td>
+<td class="FW">Limelight Networks</td>
+<td class="FW">22822</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Snowhorn, Josh</td>
+<td class="FV">CyrusOne</td>
+<td class="FV">62</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Snyder, Morgan</td>
+<td class="FW">IIX</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sockrider, Gary</td>
+<td class="FV">Arbor Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Soltero, David</td>
+<td class="FW">ICANN</td>
+<td class="FW">20144 26710 40528 16876</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sosman, Sean</td>
+<td class="FV">aws</td>
+<td class="FV">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Souter, John</td>
+<td class="FW">LINX</td>
+<td class="FW">5459</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Spataro, Daniel</td>
+<td class="FV">Net Access</td>
+<td class="FV">8001</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Spears, Christopher</td>
+<td class="FW">OARnet</td>
+<td class="FW">11537 11164</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Spence, John</td>
+<td class="FV">Amazon AWS</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Spradley, Mike</td>
+<td class="FW">Unite Private Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Spring, Erik</td>
+<td class="FV">Spectrum Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Springer, John</td>
+<td class="FW">Inland Telephone/ARIN AC</td>
+<td class="FW">26088</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Spurgeon, Charles</td>
+<td class="FV">The University of Texas at Austin</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Srinivas, NK</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">SRINIVASAN, SELVAKUMAR</td>
+<td class="FV">MICROSOFT CORPORATION</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Stancik, Paul</td>
+<td class="FW">Amazon</td>
+<td class="FW">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Steenbergen, Richard</td>
+<td class="FV"></td>
+<td class="FV">3257 / 4436</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Steenman, Henk</td>
+<td class="FW">AMS-IX</td>
+<td class="FW">1200</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sterling, Taylor</td>
+<td class="FV">Cyan</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Stevens, Justin</td>
+<td class="FW">Dimension Data</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Stewart, Jim</td>
+<td class="FV">Utah Education Network</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Still, Michael</td>
+<td class="FW">Network Utility Force</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Stockwell, Eric</td>
+<td class="FV">Optic Fusion, Inc.</td>
+<td class="FV">30170</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Stromsness, Rune</td>
+<td class="FW">Lawrence Berkeley National Lab</td>
+<td class="FW">16</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Strong, John</td>
+<td class="FV">Noction</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Stubberfield, Andre</td>
+<td class="FW">Equinix</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sturgill, Garrick</td>
+<td class="FV">Centeris Datacenters</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sturm, Andreas</td>
+<td class="FW">DE-CIX Management GmbH</td>
+<td class="FW">6695</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Su, Lily</td>
+<td class="FV">Verizon</td>
+<td class="FV">701 702 703 14551</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Su, Wei</td>
+<td class="FW">Futurewei Technologies, Inc.</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">SU-AY, RYCHEL</td>
+<td class="FV">T-Mobile USA</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Subramaniam, Kamala</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sugg, Jim</td>
+<td class="FV">Cisco Systems</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sugianto, Jason</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sullivan, Janet</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sullivan, Nicholas</td>
+<td class="FW">CloudFlare Inc.</td>
+<td class="FW">13335</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sumastre, Mark</td>
+<td class="FV">Akamai Technologies</td>
+<td class="FV">32787</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Sur, Ond&#345;ej</td>
+<td class="FW">CZ.NIC</td>
+<td class="FW">AS25192</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Surdock, Steven</td>
+<td class="FV">CTS Telecom</td>
+<td class="FV">19653</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Svacha, Milan</td>
+<td class="FW">NIX.CZ, z.s.p.o.</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Swafford, David</td>
+<td class="FV">Facebook</td>
+<td class="FV">32934</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Swanson, David</td>
+<td class="FW">Windstream Communications</td>
+<td class="FW">7029</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Swanson, Ryan</td>
+<td class="FV">Myriad Supply</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Swarers, Brittany</td>
+<td class="FW">Noel Communications</td>
+<td class="FW">26935</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Sweeting, John</td>
+<td class="FV">Time Warner Cable</td>
+<td class="FV">7843</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Swick, Keith</td>
+<td class="FW">Layer42 Networks</td>
+<td class="FW">8121</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">SYED, SHAFEEQ</td>
+<td class="FV">MICROSOFT CORPORATION</td>
+<td class="FV">AS8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Szymusiak, Joe</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Tauber, Tony</td>
+<td class="FV">Comcast</td>
+<td class="FV">7922</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Taylor, Drew</td>
+<td class="FW">Comcast</td>
+<td class="FW">7922</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Tellier, Pascal</td>
+<td class="FV">TekSavvy</td>
+<td class="FV">5645</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Temkin, David</td>
+<td class="FW">Netflix</td>
+<td class="FW">2906</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Teodoro, Mark</td>
+<td class="FV">Verisign</td>
+<td class="FV">7342</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Thayer, Kevin</td>
+<td class="FW">ebay, Inc</td>
+<td class="FW">11643</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Thomas, Nick</td>
+<td class="FV">Plexxi</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Thomas, Sam</td>
+<td class="FW">NTT Communications</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Thompson, Brian</td>
+<td class="FV">Iovation, Inc.</td>
+<td class="FV">15301, 53708</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Tishgart, Barry</td>
+<td class="FW">Comcast</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Tobioka, Yoshiaki</td>
+<td class="FV">NTT Communications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Tomassoni, David</td>
+<td class="FW">Earthlink </td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Toonk, Andree</td>
+<td class="FV">OpenDNS / BGPmon.net</td>
+<td class="FV">36692</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Torpis, Shahin</td>
+<td class="FW">Microsoft</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Toth, Brad</td>
+<td class="FV">AWS</td>
+<td class="FV">AS16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Townsend, Bryant</td>
+<td class="FW">Staminus Communications</td>
+<td class="FW">25761</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Tracy, Jason</td>
+<td class="FV">Utah Education Network</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Tracy, Kirk</td>
+<td class="FW">TeliaSonera</td>
+<td class="FW">1299</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Tremmel, Wolfgang</td>
+<td class="FV">DE-CIX Management GmbH</td>
+<td class="FV">6695</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Tripp, Chris</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Trivette, Joya</td>
+<td class="FV">TeliaSonera</td>
+<td class="FV">1299</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Troyer, Eric</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Twinam, Dave</td>
+<td class="FV">Nuage Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">ulrich, steve</td>
+<td class="FW">juniper networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Usman, Mian Muhammad</td>
+<td class="FV">DANTE</td>
+<td class="FV">20965</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Valade, Frederic</td>
+<td class="FW">Triton Digital</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Valdes, Enrique</td>
+<td class="FV">TELEFONICA</td>
+<td class="FV">12956</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Van Mondfrans, Brian</td>
+<td class="FW">Scatter Creek InfoNet</td>
+<td class="FW">10973</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Van Mook, Remco</td>
+<td class="FV">Equinix</td>
+<td class="FV">16243</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">van Oppen, John</td>
+<td class="FW">Spectrum Networks / Wave Broadband</td>
+<td class="FW">11404 (32107, 22759)</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Vance, Anthony</td>
+<td class="FV">Marchex</td>
+<td class="FV">40495</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">VanHoose, David</td>
+<td class="FW">INTEGRA</td>
+<td class="FW">7385</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Vashist, Munish</td>
+<td class="FV">Real Networks Inc</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Vasquez, Peter</td>
+<td class="FW">VTX1</td>
+<td class="FW">17293</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Vasudeva, Sachin</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Verma, Akhilesh</td>
+<td class="FW">Plexxi, Inc.</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Vigna, Marc</td>
+<td class="FV">thePlatform for Media</td>
+<td class="FV">14042</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Vogel, Mike</td>
+<td class="FW">Comcast</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Voigt, Josh</td>
+<td class="FV">ADVA Optical Networking</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Volk, Ruediger</td>
+<td class="FW">Deutsche Telekom</td>
+<td class="FW">AS3320</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Von der Linde, Peter</td>
+<td class="FV">EdgeConneX</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Vuong, Kevin</td>
+<td class="FW">Venyu Solutions Inc</td>
+<td class="FW">20355</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Walsh, Brady</td>
+<td class="FV">Netflix</td>
+<td class="FV">2906</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Watanabe, Kenichi</td>
+<td class="FW">NTT Advanced Technology Corporation</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Watson, John</td>
+<td class="FV">Time Warner Cable</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Watters, Jim</td>
+<td class="FW">CIRA</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Webb, Marc</td>
+<td class="FV">Akamai</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Weick, Craig</td>
+<td class="FW">CME Group</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Welch, Bryan</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wellauer, Markus</td>
+<td class="FW">Init7 (Switzerland) Ltd</td>
+<td class="FW">13030</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Wesselius, Josh</td>
+<td class="FV">Noel Communications, Inc.</td>
+<td class="FV">26935</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wessels, Duane</td>
+<td class="FW">Verisign</td>
+<td class="FW">7342</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Wessels, Tyler</td>
+<td class="FV">Juniper Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wheeler, Jason</td>
+<td class="FW">Level4 Hardware</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Wheeler, Michael</td>
+<td class="FV">NTT</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">White, Chris</td>
+<td class="FW">NTT America</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Whitney, Randy</td>
+<td class="FV">GTT</td>
+<td class="FV">3257, 4436</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Whyte, Chris</td>
+<td class="FW">Juniper Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Whyte, Scott</td>
+<td class="FV">Google</td>
+<td class="FV">15169</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wilcox, Stephen</td>
+<td class="FW">IX Reach</td>
+<td class="FW">43531</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Wilkie, Alasdair</td>
+<td class="FV">Hibernia Networks</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wilkinson, Zach</td>
+<td class="FW">Arbor Networks</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Wilson, Douglas</td>
+<td class="FV">Layer42 Networks</td>
+<td class="FV">8121</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wilson, H. E. Buddy</td>
+<td class="FW">XKL, LLC</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Winn, Dennis</td>
+<td class="FV">MRV Communications</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Winslow, Michael</td>
+<td class="FW">GDT</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Witteman, Job</td>
+<td class="FV">AMS-IX</td>
+<td class="FV">1200</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wittkop, Valerie</td>
+<td class="FW">NANOG/Staff</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Wobker, Lawrence</td>
+<td class="FV">Cisco</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wolkert, Mathias</td>
+<td class="FW">Netnod</td>
+<td class="FW">8674</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Wollny, Walt</td>
+<td class="FV">Amazon Web Services</td>
+<td class="FV">16509</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wong, Alvin</td>
+<td class="FW">BCNET</td>
+<td class="FW">271</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Woo, Paul</td>
+<td class="FV">Sprint</td>
+<td class="FV">16586</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Work, Clinton</td>
+<td class="FW">TELUS</td>
+<td class="FW">852</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Worthen, Brian</td>
+<td class="FV">Mammoth Networks</td>
+<td class="FV">10835</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wu, Gary</td>
+<td class="FW">Apple</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Wu, Ramon</td>
+<td class="FV">Telefonica</td>
+<td class="FV">AS12956</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Wu, Xiaojun</td>
+<td class="FW">NTT Communications</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Yalung, Aldrin</td>
+<td class="FV">Pacnet</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Yamanishi, Masato</td>
+<td class="FW">Softbank Telecom America</td>
+<td class="FW">4725 / 17676</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Yates, Robert</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Yeh, Lucy</td>
+<td class="FW">NTT America</td>
+<td class="FW">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Yoshimura, Chika</td>
+<td class="FV">NTT America</td>
+<td class="FV">2914</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Young, Alan</td>
+<td class="FW">Gaikai / PlayStation Now</td>
+<td class="FW">33353</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Young, Toby</td>
+<td class="FV">DANTE</td>
+<td class="FV"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Yu, Claire</td>
+<td class="FW">KINX</td>
+<td class="FW">9957</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Yuan, Iona</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Zamfir, Maria</td>
+<td class="FW">Voxility</td>
+<td class="FW">AS39743</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Zandi, Shawn</td>
+<td class="FV">LinkedIn</td>
+<td class="FV">14413</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Zhang, Mingwei</td>
+<td class="FW">University of Oregon</td>
+<td class="FW"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Zia, Osama</td>
+<td class="FV">Microsoft</td>
+<td class="FV">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Ziegler, Anja</td>
+<td class="FW">Microsoft</td>
+<td class="FW">8075</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FV">Zingle, Marjorie</td>
+<td class="FV">DataHive</td>
+<td class="FV">18638</td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="FW">Zugnoni, Paul</td>
+<td class="FW">LinkedIn</td>
+<td class="FW">14413</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+&nbsp;<br />
+</td></tr></table><table cellpadding="0" cellspacing="0" class="footer"><tr><td>
+<p>Powered by <B>AMS ARO</B> &#x00a9; AMSL 2007-2013</p></td></tr></table></div></body></html>

@@ -31,11 +31,11 @@
 <td>&nbsp;</td>
 </tr></table>
 </div></td></tr></table>
-<table cellspacing="0" cellpadding="0" border="0" width="100%"><tr bgcolor="#FFFFFF"><td width="100%">&nbsp;<BR>
-&nbsp;<BR>
+<table cellspacing="0" cellpadding="0" border="0" width="100%"><tr bgcolor="#FFFFFF"><td width="100%">&nbsp;<br />
+&nbsp;<br />
 <table cellspacing="0" cellpadding="0" border="0" width="100%" class="GG"><tr bgcolor="#FFFFFF"><td class="GG" width="100%"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GE"><tr bgcolor="#FFFFFF"><td class="GH" width="100%">NANOG 58 Registrants: 500&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-<tr><td class="GI"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GJ"><tr bgcolor="#FFFFFF"><td class="FH"><A HREF="/ibin/c5i?mid=5&rid=99&gid=0&k1=1034&tid=1404449350">Name</A></td>
-<td class="FH"><A HREF="/ibin/c5i?mid=5&rid=99&gid=0&s1=1&k1=1034&tid=1404449350">Company</A></td>
+<tr><td class="GI"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GJ"><tr bgcolor="#FFFFFF"><td class="FH"><a href="/ibin/c5i?mid=5&rid=99&gid=0&k1=1034&tid=1419025642">Name</a></td>
+<td class="FH"><a href="/ibin/c5i?mid=5&rid=99&gid=0&s1=1&k1=1034&tid=1419025642">Company</a></td>
 <td class="FH">ASN</td>
 <td class="FH"></tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Abbas, Majdi</td>
@@ -567,7 +567,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Freedman, Avi</td>
-<td class="FV">ServerCentral</td>
+<td class="FV">CloudHelix</td>
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Friant, David</td>
@@ -663,7 +663,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Golding, Daniel</td>
-<td class="FV">Iron Mountain</td>
+<td class="FV">Google, Inc.</td>
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Golub, John</td>
@@ -695,7 +695,7 @@
 <td class="FW">22957</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Grundemann, Chris</td>
-<td class="FV">Internet Society / ARIN AC</td>
+<td class="FV">Internet Society (ISOC)</td>
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Gucker, Charles</td>
@@ -890,7 +890,7 @@
 <td class="FV">IFN</td>
 <td class="FV">32703</td>
 </tr>
-<tr bgcolor="#FFFFFF"><td class="FW">Jones, Gregory</td>
+<tr bgcolor="#FFFFFF"><td class="FW">Jones, Scott</td>
 <td class="FW">NTT America</td>
 <td class="FW">2914</td>
 </tr>
@@ -983,7 +983,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Krall, Joe</td>
-<td class="FV">Telstra Global</td>
+<td class="FV">Telstra</td>
 <td class="FV">4637</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Kuarsingh, Victor</td>
@@ -1203,11 +1203,11 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Menser, Charles</td>
-<td class="FW">Wide Open West</td>
+<td class="FW">WOW!</td>
 <td class="FW">12083</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Messina, Jon</td>
-<td class="FV">Integra Networks</td>
+<td class="FV">IntegraOptics</td>
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Meyer, David</td>
@@ -1259,7 +1259,7 @@
 <td class="FV">10765</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Muhlenbaumer, Michiel</td>
-<td class="FW">Atrato IP Networks</td>
+<td class="FW">Hibernia Networks</td>
 <td class="FW">5580</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Muraya, Cyrus</td>
@@ -1343,7 +1343,7 @@
 <td class="FW">11404</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Oosting, Eric</td>
-<td class="FV">Network Utility Force/STAFF</td>
+<td class="FV">Network Utility Force/Staff</td>
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Osborn, Jeff</td>
@@ -1411,7 +1411,7 @@
 <td class="FV">27300</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Peterson, Andy</td>
-<td class="FW">NTT America</td>
+<td class="FW">NTT America / CSUF</td>
 <td class="FW">2914</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Peterson, Matt</td>
@@ -1447,7 +1447,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Pounsett, Matthew</td>
-<td class="FV">Afilias</td>
+<td class="FV">Rightside Group</td>
 <td class="FV">12041</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Powell, Stephen</td>
@@ -1511,7 +1511,7 @@
 <td class="FW">10026</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Raymo, Brad</td>
-<td class="FV">Limelight Networks</td>
+<td class="FV">Microsoft</td>
 <td class="FV">22822</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Richards, Greg</td>
@@ -1559,7 +1559,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Rothschild, Adam</td>
-<td class="FV">Internap</td>
+<td class="FV">Packet Host, Inc.</td>
 <td class="FV">29791</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Rowley, Matthew</td>
@@ -1699,7 +1699,7 @@
 <td class="FV">9</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Smith, Michael</td>
-<td class="FW">Verizon Edgecast</td>
+<td class="FW">Netflix</td>
 <td class="FW">15133</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Smith, Webb</td>
@@ -1722,8 +1722,8 @@
 <td class="FV">Net Access Corp</td>
 <td class="FV">8001</td>
 </tr>
-<tr bgcolor="#FFFFFF"><td class="FW">Spears, Chris</td>
-<td class="FW">Internet2</td>
+<tr bgcolor="#FFFFFF"><td class="FW">Spears, Christopher</td>
+<td class="FW">OARnet</td>
 <td class="FW">11537</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Stahr, James</td>
@@ -1735,7 +1735,7 @@
 <td class="FW">26282</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Steenbergen, Richard</td>
-<td class="FV">GTT Communications</td>
+<td class="FV"></td>
 <td class="FV">3257 / 4436</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Steenman, Henk</td>
@@ -1851,7 +1851,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Tzvetanov, Krassimir</td>
-<td class="FW">Cisco Systems</td>
+<td class="FW">A10 Networks</td>
 <td class="FW">109</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">ulrich, steve</td>
@@ -1891,7 +1891,7 @@
 <td class="FV">1351</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Volk, Ruediger</td>
-<td class="FW">Deutsche Telekom Technik</td>
+<td class="FW">Deutsche Telekom</td>
 <td class="FW">AS3320</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Waldroop, Derek</td>
@@ -1971,7 +1971,7 @@
 <td class="FV">1200</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Wittkop, Valerie</td>
-<td class="FW">NANOG</td>
+<td class="FW">NANOG/Staff</td>
 <td class="FW">22957</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Wolkert, Mathias</td>
@@ -1991,7 +1991,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Wu, Catherine</td>
-<td class="FV">Upthere, Inc</td>
+<td class="FV">Uber</td>
 <td class="FV">32527</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Wu, Ramon</td>
@@ -2045,6 +2045,6 @@
 </td>
 </tr>
 </table>
-&nbsp;<BR>
+&nbsp;<br />
 </td></tr></table><table cellpadding="0" cellspacing="0" class="footer"><tr><td>
 <p>Powered by <B>AMS ARO</B> &#x00a9; AMSL 2007-2013</p></td></tr></table></div></body></html>
