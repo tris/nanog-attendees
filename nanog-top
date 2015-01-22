@@ -41,6 +41,31 @@ for (@ARGV) {
       # add missing space after comma in name
       $$row[0] =~ s/^([^, ]*,)([^, ]*)$/$1 $2/;
 
+      # one-offs for fuzzy names
+      # TODO: make this just generically handle first name truncations
+      # but use the last (most recent) version of the name when printing
+      $$row[0] =~ s/^(Feldman, Steve)n$/$1/;
+      $$row[0] =~ s/^(Gilmore, Patrick) W\.$/$1/;
+      $$row[0] =~ s/^(Bryan, Chris)topher$/$1/;
+      $$row[0] =~ s/^Beatrice, Tim$/$&othy/;
+      $$row[0] =~ s/^(Knight, Dav)id$/$1e/;
+      $$row[0] =~ s/^(Burrescia, Jo)seph$/$1e/;
+      $$row[0] =~ s/^(Young, Jeff)f?(rey(?: S\.)?)?$/$1rey S./;
+      $$row[0] =~ s/^(Young, Chris)topher$/$1/;
+      $$row[0] =~ s/^(Atkinson, RJ?)(an(dall)?)?$/$1andall/;
+      $$row[0] =~ s/^(Zinin, Alex)$/$1ey/;
+      $$row[0] =~ s/^(Zydel, Chris)$/$1topher/;
+      $$row[0] =~ s/^(White, Ken)neth$/$1/;
+      $$row[0] =~ s/^(Wollny, Walt)er$/$1/;
+      $$row[0] =~ s/^(Winstead, Ed)dy$/$1/;
+      $$row[0] =~ s/^(Axelrod, Mi)ke$/$1chael/;
+      $$row[0] =~ s/^(Malayter, Chris)topher$/$1/;
+      # I'll just assume Crowe and Crowe Jr. are equivalent
+      $$row[0] =~ s/^"?(Crowe),? ?(?:Jr\.?)?"?,? ?(David)$/$1, $2/;
+
+      # XXX this should've been caught above (find the broken logic)
+      $$row[0] =~ /^(Last Name, First )?Name$/i && next;
+
       # count the attendee
       $count{$$row[0]}++;
     }
@@ -48,6 +73,9 @@ for (@ARGV) {
     last;
   }
 }
+
+# avoid "Wide character in print" error
+binmode STDOUT, ':utf8';
 
 for (sort { $count{$b} <=> $count{$a} } keys %count) {
   printf "%-3d %s\n", $count{$_}, $_;
