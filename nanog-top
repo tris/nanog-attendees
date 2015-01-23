@@ -39,13 +39,14 @@ for (@ARGV) {
 
     for my $row (@$attendees) {
       # add missing space after comma in name
-      $$row[0] =~ s/^([^, ]*,)([^, ]*)$/$1 $2/;
+      $$row[0] =~ s/^([^, ]*,)([^ ])/$1 $2/;
 
       # one-offs for fuzzy names
       # TODO: make this just generically handle first name truncations
       # but use the last (most recent) version of the name when printing
       $$row[0] =~ s/^(Feldman, Steve)n$/$1/;
       $$row[0] =~ s/^(Gilmore, Patrick) W\.$/$1/;
+      $$row[0] =~ s/^(?:Nowlin|Provo), Lauren.*/Provo, Ren/;
       $$row[0] =~ s/^(Bryan, Chris)topher$/$1/;
       $$row[0] =~ s/^Beatrice, Tim$/$&othy/;
       $$row[0] =~ s/^(Knight, Dav)id$/$1e/;
@@ -60,6 +61,9 @@ for (@ARGV) {
       $$row[0] =~ s/^(Winstead, Ed)dy$/$1/;
       $$row[0] =~ s/^(Axelrod, Mi)ke$/$1chael/;
       $$row[0] =~ s/^(Malayter, Chris)topher$/$1/;
+      $$row[0] =~ s/^(Norton, )(William|Bill)(?: B\.)?$/$1William/;
+      $$row[0] =~ s/^Wilson, Doug$/$&las/;
+      $$row[0] =~ s/^(Provo, Jo)seph$/$1e/;
       # I'll just assume Crowe and Crowe Jr. are equivalent
       $$row[0] =~ s/^"?(Crowe),? ?(?:Jr\.?)?"?,? ?(David)$/$1, $2/;
 
