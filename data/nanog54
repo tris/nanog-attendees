@@ -1,45 +1,31 @@
-<html><head><title>Nanog ARO - Nanog</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<link rel="stylesheet" type="text/css" href="/gpak2/css/content-style.css" />
-<link rel="stylesheet" type="text/css" href="/gpak2/css/header-footer.css" />
-<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/gpak2/css/header-footer-ie.css" /><![endif]-->
-<style type="text/css">/*\*//*/@import "/gpak2/css/header-footer-ie.css";/**/</style>
-<script language="JavaScript" type="text/javascript" src="/gpak2/js/menu.js"></script>
-<link rel="stylesheet" type="text/css" href="/gpak2/c5i2.css" />
-<link rel="shortcut icon" href="/gpak2/favicon.ico" /><link rel="icon" href="/gpak2/favicon.ico" /></head>
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nanog ARO - Nanog</title>
+<link href="/gpak3/aro-main.css" rel="stylesheet" type="text/css">
+<link href="/gpak3/pikaday.css" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/gpak3/favicon.ico"><link rel="icon" href="/gpak3/favicon.ico"></head>
 <body>
-<div class="site">
-<table cellpadding="0" cellspacing="0" class="top-menu">
-<tr>
-<td valign="top">
-<div class="logo">
-<a href="http://secretariat.nanog.org/"><img src="/gpak2/img/logo.gif" width="183" height="54" alt="AMS ARO" /></a>
+<script src="/gpak3/moment.js"></script>
+<script src="/gpak3/pikaday.js"></script>
+<header>
+<div id="aroLogo">
+<img src="/gpak3/images/aro_logo.png" width="127" height="31" alt="aro logo">
 </div>
-</td>
-<td class="menu">
-<div class="ie-nonrubbytable">
-<table cellpadding="0" cellspacing="0" id="nav">
-<tr>
-<td class="off" id="sub-1">
-</td>
-</tr>
-</table>
-</div>
-<div class="container">
-<div id="shield"></div>
-<table id="sub-11" style="z-index: 99;" ><tr>
-<td>&nbsp;</td>
-</tr></table>
-</div></td></tr></table>
-<table cellspacing="0" cellpadding="0" border="0" width="100%"><tr bgcolor="#FFFFFF"><td width="100%">&nbsp;<br />
-&nbsp;<br />
-<table cellspacing="0" cellpadding="0" border="0" width="100%" class="GG"><tr bgcolor="#FFFFFF"><td class="GG" width="100%"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GE"><tr bgcolor="#FFFFFF"><td class="GH" width="100%">NANOG 54 Registrants: 604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-<tr><td class="GI"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GJ"><tr bgcolor="#FFFFFF"><td class="FH"><a href="/ibin/c5i?mid=5&rid=99&gid=0&k1=1028&tid=1419025640">Name</a></td>
-<td class="FH"><a href="/ibin/c5i?mid=5&rid=99&gid=0&s1=1&k1=1028&tid=1419025640">Company</a></td>
+</header>
+<nav id="mainNav" class="cf">
+<div id="clientLogo">
+<a href="http://secretariat.nanog.org/"><img src="/gpak3/images/ams_logo.png" width="169" height="51" alt="aro logo"></a></div>
+<ul class="topMenu">
+</ul></nav>
+<section><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GG"><tr bgcolor="#FFFFFF"><td class="GG" width="100%"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GE"><tr bgcolor="#FFFFFF"><td class="GH" width="100%">NANOG 54 Registrants: 604&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+<tr><td class="GI"><table cellspacing="0" cellpadding="0" border="0" width="100%" class="GJ"><tr bgcolor="#FFFFFF"><td class="FH"><a href="/ibin/c5i?mid=5&rid=99&gid=0&k1=1028&tid=1433179813">Name</a></td>
+<td class="FH"><a href="/ibin/c5i?mid=5&rid=99&gid=0&s1=1&k1=1028&tid=1433179813">Company</a></td>
 <td class="FH">ASN</td>
 <td class="FH"></tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Abbas, Majdi</td>
-<td class="FV">BrightRoll, Inc.</td>
+<td class="FV">Yahoo!</td>
 <td class="FV">11483</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Adler, Seth</td>
@@ -111,7 +97,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Bannister, David</td>
-<td class="FV">Webex cisco </td>
+<td class="FV">Netflix</td>
 <td class="FV">13445 7247</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Barber, Stan</td>
@@ -143,7 +129,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Bauer, Chris</td>
-<td class="FV">Integra Telecom, Inc.</td>
+<td class="FV">Integra</td>
 <td class="FV">7385</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Bayraktar, Serpil</td>
@@ -215,7 +201,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Blunk, Larry</td>
-<td class="FV">Merit Network, Inc.</td>
+<td class="FV">Merit Network</td>
 <td class="FV">237</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Bodson, Dennis</td>
@@ -319,7 +305,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Carr, Leslie</td>
-<td class="FV"></td>
+<td class="FV">Cumulus Networks / SFMIX</td>
 <td class="FV">14907, 43821</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Carter, Rick</td>
@@ -359,7 +345,7 @@
 <td class="FW">15169</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Chiu, Jansen</td>
-<td class="FV">Telstra Global</td>
+<td class="FV">Telstra</td>
 <td class="FV">4637</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Christian, Blaine</td>
@@ -371,7 +357,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Chu, Christina</td>
-<td class="FW">NTT America Inc.</td>
+<td class="FW">NTT America</td>
 <td class="FW">2914</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Chung, Chae</td>
@@ -462,7 +448,7 @@
 <td class="FW">Markley Group</td>
 <td class="FW"></td>
 </tr>
-<tr bgcolor="#FFFFFF"><td class="FV">Da Silva, Ron</td>
+<tr bgcolor="#FFFFFF"><td class="FV">da Silva, Ron</td>
 <td class="FV">Time Warner Cable</td>
 <td class="FV">7843</td>
 </tr>
@@ -619,7 +605,7 @@
 <td class="FV">3043</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Epperson, Kevin</td>
-<td class="FW">Microsoft</td>
+<td class="FW">Netflix</td>
 <td class="FW">8075</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Eustaquio, Raymond</td>
@@ -635,7 +621,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Fahy, Mike</td>
-<td class="FW">XKL LLC</td>
+<td class="FW">XKL</td>
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Fauser, Cody</td>
@@ -735,7 +721,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Garland, Ryan</td>
-<td class="FV">Twitch Interactive / Justin.tv</td>
+<td class="FV">Twitch</td>
 <td class="FV">46489</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Garrigus, James</td>
@@ -779,7 +765,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Golding, Daniel</td>
-<td class="FW">Google, Inc.</td>
+<td class="FW">Google</td>
 <td class="FW">19893</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Golecky, Adam</td>
@@ -815,7 +801,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Griswold, Matt</td>
-<td class="FV">20c</td>
+<td class="FV">United IX</td>
 <td class="FV">22957</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Groesbeck, Travis</td>
@@ -823,7 +809,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Grundemann, Chris</td>
-<td class="FV">Internet Society (ISOC)</td>
+<td class="FV">Markley Cloud Services</td>
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Guzman, Alejandro</td>
@@ -911,11 +897,11 @@
 <td class="FW">11164</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Hibler, Florian</td>
-<td class="FV">Kaia Global Networks Ltd.</td>
+<td class="FV">Kaia Global Networks</td>
 <td class="FV">33926</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Hickson, Nathan</td>
-<td class="FW">Netflix</td>
+<td class="FW">CloudHelix</td>
 <td class="FW">22730</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Hill, John</td>
@@ -1187,7 +1173,7 @@
 <td class="FV">23028</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Kroenung, Bernhard</td>
-<td class="FW">DE-CIX</td>
+<td class="FW">DE-CIX Management GmbH</td>
 <td class="FW">6695</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Kuehne, Mirjam</td>
@@ -1275,7 +1261,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Lee, Charles</td>
-<td class="FW">Addrex, Inc.</td>
+<td class="FW">Addrex</td>
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Lee, Ivan </td>
@@ -1315,7 +1301,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Loch, Kevin</td>
-<td class="FW">Carpathia Hosting</td>
+<td class="FW">Carpathia</td>
 <td class="FW">29748</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Luckie, Matthew</td>
@@ -1495,7 +1481,7 @@
 <td class="FW">32613</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Mertz, Brad</td>
-<td class="FV">VMware / Mozy</td>
+<td class="FV">EMC Cloud Services</td>
 <td class="FV">22591</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Meyer, David</td>
@@ -1563,7 +1549,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Murphy, Sandra</td>
-<td class="FW">PARSONS, Inc.</td>
+<td class="FW">Parsons, Inc.</td>
 <td class="FW">AS546</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Myles, Joshua</td>
@@ -1707,7 +1693,7 @@
 <td class="FV">20115</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Peterson, Matt</td>
-<td class="FW">Cumulus Networks / SFMIX</td>
+<td class="FW">Cumulus Networks/SFMIX</td>
 <td class="FW">33612</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Philippon, Jason</td>
@@ -1875,7 +1861,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Schaefer, Michael</td>
-<td class="FW">University of Bonn</td>
+<td class="FW">ERNW GmbH</td>
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Schaller, Kevin</td>
@@ -1891,7 +1877,7 @@
 <td class="FV">701</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Schmidt, Nicholas</td>
-<td class="FW">MediaMath</td>
+<td class="FW">ControlGroup</td>
 <td class="FW">30419</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Scholl, Derrick</td>
@@ -1911,7 +1897,7 @@
 <td class="FW">27</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Schultz, Paul</td>
-<td class="FV">Gaikai / PlayStation Now</td>
+<td class="FV">Gaikai/PlayStation Now</td>
 <td class="FV">15169</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Sejas, Raul</td>
@@ -1947,7 +1933,7 @@
 <td class="FV"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Shipman, Jonathan</td>
-<td class="FW">Twitch / Justin.tv</td>
+<td class="FW">Twitch Interactive</td>
 <td class="FW">46489</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Shoemaker, Patrick</td>
@@ -2002,7 +1988,7 @@
 <td class="FV">Vonage</td>
 <td class="FV">17151</td>
 </tr>
-<tr bgcolor="#FFFFFF"><td class="FW">Smith, Michael</td>
+<tr bgcolor="#FFFFFF"><td class="FW">Smith, Michael K.</td>
 <td class="FW">Netflix</td>
 <td class="FW">11274</td>
 </tr>
@@ -2071,7 +2057,7 @@
 <td class="FW">33353</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Steenbergen, Richard</td>
-<td class="FV"></td>
+<td class="FV">Turkbergen Telecom</td>
 <td class="FV">4436</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Steenman, Henk</td>
@@ -2243,7 +2229,7 @@
 <td class="FV">12956</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Van Dussen, Brent</td>
-<td class="FW">Microsoft</td>
+<td class="FW">Megaport</td>
 <td class="FW">22822</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Van Nice, Bruce</td>
@@ -2407,7 +2393,7 @@
 <td class="FW"></td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FV">Yeh, Lucy</td>
-<td class="FV">NTT America</td>
+<td class="FV">IIX</td>
 <td class="FV">2914</td>
 </tr>
 <tr bgcolor="#FFFFFF"><td class="FW">Yelsangikar, Vishwamber</td>
@@ -2462,5 +2448,7 @@
 </tr>
 </table>
 &nbsp;<br />
-</td></tr></table><table cellpadding="0" cellspacing="0" class="footer"><tr><td>
-<p>Powered by <B>AMS ARO</B> &#x00a9; AMSL 2007-2013</p></td></tr></table></div></body></html>
+</section>
+<footer>Powered by AMS ARO © 2007-2015</footer>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></body>
+</html>
