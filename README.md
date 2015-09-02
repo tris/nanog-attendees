@@ -8,3 +8,5 @@ Usage:
 
 - make
 - less top-attendees.txt
+
+See also: https://davelindon.me/nanog/
